@@ -1,9 +1,11 @@
 # World of Warships Monetization Case Study
 
 ## 📝 Project Overview
- 
+This project serves as an end-to-end data analytics case study exploring the monetization strategies and in-game economy of World of Warships. Byprogrammatically extracting ship attributes and player performance statistics directly from the Wargaming.net Public API, this study investigates the behavioral and economic differences between players using standard Tech Tree ships versus purchasable Premium ships.
+Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power BI, I processed and analyzed engagement metrics—such as usage rates, win rates, and base experience generation—to uncover actionable trends in player purchasing patterns. The resulting insights are designed to help Wargaming's product and balancing teams optimize future Premium ship releases to maximize both long-term player retention and revenue.
 
-## 🎯 Phase 1 - Ask:
+
+## 🎯 Phase 1: Ask
 **Business Task:** To analyze the usage rates, in-game performance, and player engagement levels of Premium ships compared to Tech Tree ships. By identifying which tiers, classes, and specific types of Premium ships drive the highest engagement and ownership, I will provide data-driven recommendations on what types of Premium ships Wargaming should focus on releasing next to maximize monetization and player retention.
 
 **Key Stakeholders:**
@@ -23,16 +25,16 @@
 * `04_visualizations/`: Final charts in PDF and PNG formats.
 * `05_reports/`: Executive summary and final project PDF.
 
-## 📊 Data & Methodology
+## 📊 Phase 2 & 3: Prepare & Process (Data & Methodology)
 
 
-### Key Processing Steps:
+## 💡 Phase 4: Analyze (Key Findings)
 
 
-## 💡 Key Findings
+## 📈 Phase 5: Share (Visualizations)
 
 
-## 🚀 Strategic Recommendations
+## 🚀 Phase 6: Act (Strategic Recommendations)
 
 
 ---
