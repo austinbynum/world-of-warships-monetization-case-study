@@ -3,8 +3,12 @@
 ## 📝 Project Overview
  
 
-## 🎯 Business Task
-**The primary objective:** To analyze the usage rates, in-game performance, and player engagement levels of Premium ships compared to Tech Tree ships. By identifying which tiers, classes, and specific types of Premium ships drive the highest engagement and ownership, I will provide data-driven recommendations on what types of Premium ships Wargaming should focus on releasing next to maximize monetization and player retention.
+## 🎯 Phase 1 - Ask:
+**Business Task:** To analyze the usage rates, in-game performance, and player engagement levels of Premium ships compared to Tech Tree ships. By identifying which tiers, classes, and specific types of Premium ships drive the highest engagement and ownership, I will provide data-driven recommendations on what types of Premium ships Wargaming should focus on releasing next to maximize monetization and player retention.
+
+**Key Stakeholders:**
+* **Wargaming's Monetization and Product Teams:** They need to understand player purchasing patterns and engagement to decide how to price ships and what types of bundles or Premium ships to sell for Doubloons (the primary cash currency).
+* **Game Balancers / Development Team:** They need to ensure that the Premium ships being released to drive revenue are not negatively impacting the overall game balance (e.g., ships that are heavily played but have disproportionately high or low win rates).
 
 ## 🛠️ Technical Toolkit
 * **Python:** Fetch raw data from Wargaming API.
