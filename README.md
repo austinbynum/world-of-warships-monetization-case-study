@@ -40,7 +40,10 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 * **Licensing:** I am operating under Wargaming's limited, non-exclusive, revocable license to use their API data for this publicly available application/analysis.
 * **Copyright Notice:** Wargaming's policy requires the inclusion of the notice, _"© Wargaming.net. All rights reserved"_.
 * **Attribution:** The source of the data is the [official World of Warships website](https://worldofwarships.com/) and this project is not affiliated with or endorsed by Wargaming.
-* ** Privacy:** No personal passwords were collected and only the data necessary for the analysis was collected.
+* **Privacy:** No personal passwords were collected and only the data necessary for the analysis was collected.
+* **Security:** Also in compliance with the Wargaming's TOS, I have excluded my **API APPLICATION ID** from the code. To run the code to fetch the raw data,
+	* Log into [Wargaming Developer Room](https://developers.wargaming.net/) and register an application to generate and `application_id`
+	* Create a local `.env` file and assign the key to the `WG_APP_ID` variable
 
 ## 💡 Phase 4: Analyze (Key Findings)
 
