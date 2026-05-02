@@ -25,7 +25,22 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 * `05_reports/`: Executive summary and final project PDF.
 
 ## 📊 Phase 2 & 3: Prepare & Process (Data & Methodology)
+**Data Sources:** The data for this case study is extracted directly from the **Wargaming.net Public API**, a first-party developer service providing live access to game content and player statistics. Specifically, this analysis utilizes two main API endpoints:
+* **Encyclopedia API (`/wows/encyclopedia/ships/`):** Used to extract static ship attributes, such as tier, nation, ship class, and the critical `is_premium status`.
+* **Warships API (`/wows/ships/stats/`):** Used to extract historical player performance data on specific ships, including usage rates, win/loss ratios, and base experience generated.
 
+**Data Integrity:**
+* **Credibility (ROCCC):** I am pulling data directly from Wargaming's own servers, so the data is first-party, reliable, original, and current. It is also unbiased because it reflects the exact database used to run the game.
+* **Technical Integrity:**
+	* Checking the API response header for `status`: `ok`, which confirms the request was processed successfully without returning an `error` dictionary.
+	* Managing API rate limits (standalone applications are limited to 10 requests per second) to ensure data pull is not truncated or missing record.
+	* Checking final output (e.g., CSV files) for missing or null values—such as test ships or newly released ships that might lack complete public statistics.
+
+**Data Privacy & Licensing:**
+* **Licensing:** I am operating under Wargaming's limited, non-exclusive, revocable license to use their API data for this publicly available application/analysis.
+* **Copyright Notice:** Wargaming's policy requires the inclusion of the notice, _"© Wargaming.net. All rights reserved"_.
+* **Attribution:** The source of the data is the [official World of Warships website](https://worldofwarships.com/) and this project is not affiliated with or endorsed by Wargaming.
+* ** Privacy:** No personal passwords were collected and only the data necessary for the analysis was collected.
 
 ## 💡 Phase 4: Analyze (Key Findings)
 

@@ -1,0 +1,968 @@
+name,nation,is_premium,ship_id,tier,type
+Puerto Rico B,usa,False,3340679152,10,Cruiser
+Volunteer State,usa,False,3352246256,8,Battleship
+Piñatapolis,usa,False,3330258928,10,AirCarrier
+Xuan Ming,pan_asia,True,3341759696,9,Battleship
+Petrozavodsk,ussr,False,3256792528,10,Cruiser
+[Moskva],ussr,False,3340678608,10,Cruiser
+Neustrashimy B,ussr,True,3341694416,9,Destroyer
+Kiberpankov,ussr,True,3437147600,8,Cruiser
+Oväsen,europe,False,3330159920,10,Destroyer
+AL Shimakaze,japan,False,3361617616,10,Destroyer
+STAR Kitakaze,japan,True,3362666192,9,Destroyer
+Rhode Island B,usa,False,3319740400,10,Battleship
+Cursed Fang,uk,True,3341727696,9,Cruiser
+Otto Lilienthal,germany,False,3256858416,10,AirCarrier
+Mahtaga,ussr,True,3341759952,9,Battleship
+Desert Falcon,japan,True,3345921744,5,Cruiser
+Sharqi,germany,False,3340646192,10,Destroyer
+Schlieffen,germany,False,3330225968,10,Battleship
+Admiral Orlov,ussr,False,3256858064,10,AirCarrier
+Karl XIV Johan B,europe,True,3341759792,9,Battleship
+Aki Golden,japan,False,3330225872,10,Battleship
+[Zaō],japan,False,3315513040,10,Cruiser
+Admiraal,netherlands,False,3258890000,8,Cruiser
+Fearmaw,uk,False,3330193360,10,Cruiser
+Lübeck,germany,False,3256760112,10,Destroyer
+[Hakuryū],japan,False,3333404368,10,AirCarrier
+[Shimakaze],japan,False,3338548944,10,Destroyer
+Schill B,germany,True,3342776112,8,Cruiser
+Sea Howl,germany,False,3332323120,8,Battleship
+BA Arona's Whale,japan,False,3434526416,10,Submarine
+BA Hovercraft,ussr,True,3436131792,9,Battleship
+Brisbane B,commonwealth,False,3445536112,10,Cruiser
+Utah,usa,False,3256825840,10,Battleship
+BA Tirpitz,germany,True,3437180720,8,Battleship
+Borodino TE,ussr,False,3437180368,8,Battleship
+BA Takahashi,japan,True,3436099280,9,Cruiser
+Ragnarok,japan,True,3363780304,8,Battleship
+Bird Cry,usa,True,3341760496,9,Battleship
+AL Hornet,usa,True,3353327600,8,AirCarrier
+AL Harbin,pan_asia,True,3332289744,8,Cruiser
+Süsshofen,germany,False,3340744496,10,AirCarrier
+Azuma B,japan,True,3425613520,9,Cruiser
+AL Gorizia,italy,True,3354310384,7,Cruiser
+Ignis Purgatio,japan,True,3374266064,8,Battleship
+Kheper,usa,True,3342809072,8,Battleship
+STAR Edinburgh,uk,True,3363747792,8,Cruiser
+[Hindenburg],germany,False,3340678960,10,Cruiser
+Ravenna,italy,False,3256792816,10,Cruiser
+Mirage,italy,False,3342776048,8,Cruiser
+[Yamato],japan,False,3332323024,10,Battleship
+Frank Friday,usa,False,3352180720,9,Destroyer
+Von Zuckerhoff,germany,False,3319740208,10,Battleship
+Vrijheid,netherlands,False,3256792848,10,Cruiser
+Scarlet Storm,europe,True,3343791408,7,Destroyer
+Comodoro,pan_america,False,3256825168,10,Battleship
+BA Binah,italy,True,3437180656,8,Battleship
+BA Utnapishtim's Ship,france,True,3436099408,9,Cruiser
+AL Ägir,germany,True,3352213296,9,Cruiser
+Hawaii Golden,usa,False,3330193392,10,Cruiser
+AL Bismarck,germany,True,3353294640,8,Battleship
+[Montana],usa,False,3333371888,10,Battleship
+AL Kearsarge,usa,True,3362732016,9,Battleship
+AL Massachusetts,usa,True,3332323312,8,Battleship
+Södermanland,europe,False,3256759600,10,Destroyer
+Kléber CLR,france,False,3445503824,10,Destroyer
+AL Shinano,japan,False,3330258640,10,AirCarrier
+PTRPVLSK,ussr,False,3330192848,10,Cruiser
+München B,germany,True,3438196528,7,Cruiser
+Montana 2,usa,False,3330226160,10,Battleship
+[Midway],usa,False,3335501808,10,AirCarrier
+[Audacious],uk,False,3340744656,10,AirCarrier
+AL Hindenburg,germany,False,3361650480,10,Cruiser
+AL Richelieu,france,True,3342808912,8,Battleship
+River Gambra,commonwealth,False,3249452400,7,Cruiser
+Iowa 2,usa,False,3331274736,9,Battleship
+Dark Corsair,france,False,3341760336,9,Battleship
+[Grosser Kurfürst],germany,False,3340711728,10,Battleship
+Wahnsinn,germany,True,3342808880,8,Battleship
+Statenland,netherlands,False,3248404240,8,Cruiser
+[Gearing],usa,False,3337500656,10,Destroyer
+North Carolina 2,usa,False,3248437232,8,Battleship
+Bremen Golden,germany,False,3330193200,10,Cruiser
+Prinz Sigismund,germany,False,3257874224,9,Battleship
+Colorado 2,usa,False,3249485808,7,Battleship
+Lüshun B,pan_asia,False,3340645584,10,Destroyer
+Odin TE,germany,False,3426694960,8,Battleship
+[Conqueror],uk,False,3340711888,10,Battleship
+Vladimir Monomakh,ussr,False,3267278288,10,Cruiser
+Amerigo Vespucci,italy,False,3256825584,10,Battleship
+Roma Aeterna,italy,True,3342808816,8,Battleship
+Zaō CLR,japan,False,3361650384,10,Cruiser
+Kléber TE,france,False,3435018064,10,Destroyer
+BA Montana,usa,False,3435083760,10,Battleship
+Alabama B,usa,True,3437180912,8,Battleship
+Piñatian,pan_asia,True,3342775504,8,Cruiser
+GQ Johnny,usa,True,3436066800,9,Destroyer
+Balao 2,usa,False,3340154864,10,Submarine
+AL Tashkent,ussr,True,3331208656,9,Destroyer
+[Grozovoi],ussr,False,3340645840,10,Destroyer
+AL Marco Polo,italy,True,3341760240,9,Battleship
+Chikuma II Golden,japan,True,3530471120,9,Cruiser
+AL Montpelier,usa,True,3542005744,8,Cruiser
+Yimeng,pan_asia,True,3540989136,9,Battleship
+Narai,pan_asia,True,3542004944,8,Cruiser
+Komissar,ussr,False,3445536208,10,Cruiser
+Arkhangelsk,ussr,True,3543086544,7,Battleship
+Stord '43,europe,True,3543020848,7,Destroyer
+Shigure,japan,True,3531486928,8,Destroyer
+Suzuya Golden,japan,True,3509499600,9,Cruiser
+Victoria,spain,True,3540989360,9,Battleship
+Aberdeen,uk,True,3540957136,9,Cruiser
+ZH-1,germany,True,3540924208,9,Destroyer
+Zarya Svobody,ussr,True,3540989392,9,Battleship
+Svea,europe,False,3550393648,10,Cruiser
+I-56 '44,japan,False,3539384016,10,Submarine
+Suzuya VL,japan,True,3499013840,9,Cruiser
+Eskimo,uk,True,3541972944,8,Destroyer
+Niord,europe,True,3540989232,9,Battleship
+Hotaka,japan,False,3540989648,9,Battleship
+Tennessee,usa,True,3542038512,8,Battleship
+Unie,netherlands,False,3529422608,10,Cruiser
+Érne,uk,True,3542005712,8,Cruiser
+Orion '44,uk,True,3544102864,6,Cruiser
+Eastern Dragon,japan,True,3532568272,7,Cruiser
+Baotou,pan_asia,False,3530470608,9,Cruiser
+Kozma Minin,ussr,True,3540956624,9,Cruiser
+Hull,usa,False,3539875824,10,Destroyer
+Austin,usa,False,3445536752,10,Cruiser
+Royal Sovereign,uk,True,3522115536,7,Battleship
+Wiesbaden,germany,True,3531519792,8,Cruiser
+Tianjin,pan_asia,True,3540956368,9,Cruiser
+Tempesta Nera,italy,False,3445569264,10,Battleship
+Minegumo,japan,True,3540924112,9,Destroyer
+Fort Worth,usa,False,3530471408,9,Cruiser
+Theseus,uk,True,3542071248,8,AirCarrier
+Le Havre,france,True,3540957008,9,Cruiser
+Defence,uk,False,3445536720,10,Cruiser
+Scharnhorst '43,germany,True,3543086896,7,Battleship
+AL Yukikaze,japan,True,3541972688,8,Destroyer
+Suzuya,japan,True,3519985360,9,Cruiser
+Xin Zhong Guo 14,pan_asia,True,3543577808,6,Submarine
+Pioneer,commonwealth,False,3550393712,10,Cruiser
+La Pampa,pan_america,False,3550360912,10,Destroyer
+ARP Nachi,japan,True,3522082512,7,Cruiser
+Lanzhou,pan_asia,True,3543053520,7,Cruiser
+Rodney,uk,True,3543087056,7,Battleship
+Cross of Dorn,germany,True,3542005552,8,Cruiser
+Alberico da Barbiano,italy,False,3550361328,10,Destroyer
+Archerfish,usa,False,3549870064,10,Submarine
+Messina,italy,True,3530471152,9,Cruiser
+Montcalm,france,True,3544102736,6,Cruiser
+Laffey,usa,False,3550361584,10,Destroyer
+Nürnberg '44,germany,True,3543054128,7,Cruiser
+Prins van Oranje Golden,netherlands,False,3539908368,10,Cruiser
+Seal,uk,False,3549870032,10,Submarine
+Rhode Island,usa,False,3539941360,10,Battleship
+Valparaíso,pan_america,True,3540989264,9,Battleship
+Marcantonio Colonna,italy,True,3542038256,8,Battleship
+Kushiro,japan,False,3539908304,10,Cruiser
+Georg Hoffmann Golden,germany,False,3539875632,10,Destroyer
+Wisconsin,usa,False,3529455600,10,Battleship
+Protector,usa,False,3531519984,8,Cruiser
+Ship Smasha,pan_asia,True,3541972176,8,Destroyer
+Bremen,germany,False,3539908400,10,Cruiser
+Chikuma II,japan,True,3540956880,9,Cruiser
+Amiral Lartigue,france,False,3529422672,10,Cruiser
+Georgia,usa,True,3530504176,9,Battleship
+Cumberland,uk,False,3445569488,10,Battleship
+Georg Hoffmann,germany,False,3550361392,10,Destroyer
+Surcouf,france,False,3549869904,10,Submarine
+Błyskawica '52,europe,True,3540923696,9,Destroyer
+Châteaurenault,france,False,3550361424,10,Destroyer
+Fiume,italy,True,3543054064,7,Cruiser
+Regele Carol I,europe,True,3542005040,8,Cruiser
+Roon CLR,germany,True,3446585136,9,Cruiser
+ARP Maya,japan,True,3542005456,8,Cruiser
+North Carolina CLR,usa,True,3447666672,8,Battleship
+Barfleur,uk,True,3540924368,9,Destroyer
+Gambia,commonwealth,True,3543053680,7,Cruiser
+Southern Dragon,japan,True,3543054032,7,Cruiser
+Blücher,germany,True,3530471216,9,Cruiser
+Zhuge Liang,pan_asia,False,3539907792,10,Cruiser
+Tonijn,netherlands,False,3549869840,10,Submarine
+Ferrante Gonzaga,italy,True,3540956912,9,Cruiser
+Jupiter '42,uk,True,3543021520,7,Destroyer
+Almirante Oquendo,spain,True,3540956592,9,Cruiser
+Ragnar,europe,False,3550360880,10,Destroyer
+Indiana,usa,True,3540989936,9,Battleship
+Aki,japan,False,3539941072,10,Battleship
+Nanning,pan_asia,True,3540923600,9,Destroyer
+Danu,uk,True,3511629776,7,Battleship
+Pilus Posterior,italy,True,3540989680,9,Battleship
+Hoche,france,True,3541972816,8,Destroyer
+Cambridge,usa,True,3540957168,9,Cruiser
+Incheon,pan_asia,False,3550393552,10,Cruiser
+HSF Hiei,japan,True,3545183952,5,Battleship
+Johnston,usa,True,3540924400,9,Destroyer
+Provorny,ussr,True,3541972432,8,Destroyer
+Hawaii,usa,False,3539908592,10,Cruiser
+Turgut Reis,europe,True,3542037808,8,Battleship
+Prince of Wales,uk,False,3552524240,8,Battleship
+Teng She,pan_asia,True,3553572048,7,Battleship
+Taihang,pan_asia,True,3551474896,9,Battleship
+Vyazma,ussr,False,3551442384,9,Cruiser
+Dmitry Pozharsky,ussr,True,3709777360,8,Cruiser
+Smolensk,ussr,False,3655251408,10,Cruiser
+Błyskawica '44,europe,True,3552458032,8,Destroyer
+Shinonome,japan,True,3554555600,6,Destroyer
+HSF Harekaze,japan,True,3552458448,8,Destroyer
+Flint,usa,True,3553540080,7,Cruiser
+Ocean,uk,False,3550459856,10,AirCarrier
+AL Cheshire,uk,True,3709777872,8,Cruiser
+Sims B,usa,True,3668850672,7,Destroyer
+Loyang B,pan_asia,True,3667801296,8,Destroyer
+AL Sov. Rossiya,ussr,True,3551475152,9,Battleship
+Sibir,ussr,False,3550426576,10,Battleship
+Yari,japan,False,3550394064,10,Cruiser
+Salem,usa,False,3550394352,10,Cruiser
+ARP Yamato,japan,False,3560912592,10,Battleship
+Cossack B,uk,True,3667802064,8,Destroyer
+Chkalov B,ussr,True,3667899856,8,AirCarrier
+Lugdunum,europe,True,3553572144,7,Battleship
+Yamato Kai,japan,False,3550426832,10,Battleship
+Atago B,japan,True,3667834576,8,Cruiser
+Willem de Eerste,netherlands,False,3550426896,10,Battleship
+Sinann,uk,True,3552491472,8,Cruiser
+Z-42,germany,False,3655218992,10,Destroyer
+Shinano,japan,False,3550459600,10,AirCarrier
+ARP Haguro,japan,True,3551442640,7,Cruiser
+Scarlet Thunder,uk,True,3656333264,9,Battleship
+Roussillon,france,True,3551475536,9,Battleship
+Texas,usa,True,3555670000,5,Battleship
+Tirpitz B,germany,True,3667867440,8,Battleship
+Admiral Makarov,ussr,True,3659445712,6,Cruiser
+Optio,italy,True,3553539824,7,Cruiser
+ARP Takao,japan,True,3552491216,8,Cruiser
+Scharnhorst B,germany,True,3668916016,7,Battleship
+ARP Ashigara,japan,True,3553539792,7,Cruiser
+Max Immelmann,germany,False,3655317296,10,AirCarrier
+DD 214,usa,True,3556653040,4,Destroyer
+Bismarck '41,germany,False,3552524080,8,Battleship
+ARP Myōkō,japan,True,3555636944,7,Cruiser
+Hildebrand,germany,False,3550394160,10,Cruiser
+Kitakami,japan,False,3655251664,10,Cruiser
+ARP Kirishima,japan,True,3554621136,5,Battleship
+Gorizia,italy,True,3658397424,7,Cruiser
+Pilus Prior,italy,True,3551475440,9,Battleship
+Comandante Aguirre,pan_america,True,3552490832,8,Cruiser
+Varese,italy,False,3550394096,10,Cruiser
+Kalmar,europe,True,3555603760,5,Destroyer
+Black,usa,True,3551410160,9,Destroyer
+Mecklenburg,germany,False,3655284528,10,Battleship
+Prins van Oranje,netherlands,False,3550394128,10,Cruiser
+Sete de Setembro,pan_america,False,3550426448,10,Battleship
+AL Littorio,italy,True,3552524016,8,Battleship
+Jean Bart B,france,True,3666818896,9,Battleship
+Graf Zeppelin B,germany,True,3667900208,8,AirCarrier
+Boise,usa,True,3668883440,7,Cruiser
+HSF Admiral Graf Spee,germany,True,3554588464,6,Cruiser
+Napoli B,italy,False,3676223216,10,Cruiser
+Independencia,pan_america,False,3550459216,10,AirCarrier
+Bridgeport,usa,True,3552491504,8,Cruiser
+California,usa,True,3553572848,7,Battleship
+Metz,france,False,3552491344,8,Cruiser
+Småland,europe,False,3655218480,10,Destroyer
+Brennus,france,False,3550394192,10,Cruiser
+Lazo B,ussr,True,3699291600,7,Cruiser
+Oregon,usa,False,3550427120,10,Battleship
+Pommern B,germany,True,3666818864,9,Battleship
+Yoshino B,japan,False,3676223184,10,Cruiser
+ARP Haruna,japan,True,3553572560,5,Battleship
+ARP Kongō,japan,True,3555669712,5,Battleship
+Saipan B,usa,True,3667900400,8,AirCarrier
+ZF-6 Golden,germany,True,3551409968,9,Destroyer
+Dunkerque B,france,True,3669964624,6,Battleship
+Irresistible,commonwealth,False,3550426480,10,Battleship
+Tsurugi,japan,True,3719247568,9,Battleship
+Puerto Rico,usa,False,3655251952,10,Cruiser
+Kearsarge B,usa,True,3666819056,9,Battleship
+Bóinn,uk,True,3553540048,7,Cruiser
+Sevastopol,ussr,False,3550393808,10,Cruiser
+Vrijheid,netherlands,True,3552491280,8,Cruiser
+Forrest Sherman,usa,False,3655219184,10,Destroyer
+Massachusetts B,usa,True,3667867632,8,Battleship
+Tromp,netherlands,False,3655218960,10,Destroyer
+Gibraltar,uk,False,3655251920,10,Cruiser
+Xuan Wu,pan_asia,True,3552523472,9,Battleship
+Asashio B,japan,True,3667801808,8,Destroyer
+Zhu Que,pan_asia,True,3552457936,8,Destroyer
+Incomparable,uk,False,3655284688,10,Battleship
+Kaga B,japan,True,3667900112,8,AirCarrier
+Sicilia,italy,False,3550426864,10,Battleship
+Iwami B,japan,True,3708761808,9,Battleship
+Alabama ST,usa,True,3552524272,8,Battleship
+Alaska B,usa,True,3666786288,9,Cruiser
+Mainz B,germany,True,3667834672,8,Cruiser
+ARP Hiei,japan,True,3552523984,5,Battleship
+Atlanta B,usa,True,3679369200,7,Cruiser
+Neustrashimy,ussr,True,3551409616,9,Destroyer
+Shinonome B,japan,True,3669898960,6,Destroyer
+Sun Yat-Sen,pan_asia,True,3740218576,9,Battleship
+Louchuan,pan_asia,True,3729732816,9,Battleship
+Ochakov,ussr,True,3741234640,8,Cruiser
+Bagration,ussr,False,3720263120,8,Cruiser
+Smolensk B,ussr,False,3739137488,10,Cruiser
+Jäger,europe,True,3750638896,9,Destroyer
+Hayate,japan,False,3760076496,10,Destroyer
+HSF Harekaze II,japan,True,3741202128,8,Destroyer
+Yoshino,japan,False,3749623504,10,Cruiser
+Ark Royal,uk,True,3751786448,6,AirCarrier
+Renown '44,uk,True,3721344976,7,Battleship
+Leipzig,germany,True,3753817904,6,Cruiser
+Lenin,ussr,True,3751753168,8,Battleship
+Varyag,ussr,True,3756963280,3,Cruiser
+I-56,japan,True,3751196368,8,Submarine
+AL Azuma,japan,True,3750672080,9,Cruiser
+Cossack,uk,True,3752736720,8,Destroyer
+Tulsa,usa,True,3750672368,9,Cruiser
+Hyūga,japan,True,3752802000,7,Battleship
+Hizen,japan,True,3750704848,9,Battleship
+Daisen,japan,True,3729733328,9,Battleship
+Dido,uk,True,3743332304,6,Cruiser
+Somme,uk,True,3750639568,9,Destroyer
+Z-44,germany,True,3750639408,9,Destroyer
+Novorossiysk,ussr,True,3753850320,6,Battleship
+Kaga,japan,True,3751786192,8,AirCarrier
+West Virginia '44,usa,True,3742316528,7,Battleship
+Duke of York,uk,True,3742316496,7,Battleship
+Weimar,germany,True,3752769328,7,Cruiser
+Brandenburg,germany,True,3751753520,8,Battleship
+Huron,commonwealth,True,3752736112,7,Destroyer
+Colossus,uk,True,3741300688,8,AirCarrier
+Hampshire,uk,True,3730749392,8,Cruiser
+AL Prinz Heinrich,germany,True,3752802096,7,Battleship
+Hornet,usa,True,3730814960,8,AirCarrier
+Kirov,ussr,True,3744380368,5,Cruiser
+Giuseppe Verdi,italy,True,3750704880,9,Battleship
+Graf Zeppelin,germany,True,3751786288,8,AirCarrier
+Maya,japan,True,3752769232,7,Cruiser
+Brisbane,commonwealth,False,3760108912,10,Cruiser
+Iwami,japan,True,3740219088,9,Battleship
+U-4501,germany,False,3759585072,10,Submarine
+Ise,japan,True,3743364816,6,Battleship
+Francesco Ferruccio,italy,True,3752769264,7,Cruiser
+AL Avrora,ussr,True,3746477520,3,Cruiser
+Borodino,ussr,True,3741267408,8,Battleship
+Anchorage,usa,True,3751720944,8,Cruiser
+Illinois,usa,True,3729733616,9,Battleship
+Saipan,usa,True,3741300720,8,AirCarrier
+London,uk,True,3753818064,6,Cruiser
+Somers,usa,False,3760076784,10,Destroyer
+Pyotr Bagration,ussr,True,3730748880,8,Cruiser
+Mengchong,pan_asia,True,3740185808,9,Cruiser
+Flandre,france,True,3730782032,8,Battleship
+Schill,germany,True,3741234992,8,Cruiser
+Rochester,usa,True,3730749424,8,Cruiser
+Tiger '59,uk,True,3751720912,8,Cruiser
+Lüshun,pan_asia,False,3760075984,10,Destroyer
+Brandenburg B,germany,True,3730782000,8,Battleship
+San Diego,usa,True,3720263664,8,Cruiser
+Florida,usa,True,3752802288,7,Battleship
+Z-35,germany,True,3751687984,8,Destroyer
+Anhalt,germany,True,3741267760,8,Battleship
+Dupleix,france,True,3753817936,6,Cruiser
+Friesland,europe,True,3760076080,9,Destroyer
+Jean Bart,france,True,3751753552,9,Battleship
+Wujing,pan_asia,True,3750704336,9,Battleship
+Admiral Schröder,germany,True,3740186416,9,Cruiser
+Enterprise,usa,True,3751786480,8,AirCarrier
+Nottingham,uk,True,3720263632,8,Cruiser
+Collingwood,uk,True,3731830736,7,Battleship
+Picardie,france,True,3720296272,8,Battleship
+Vampire II,commonwealth,False,3760076144,10,Destroyer
+ZF-6,germany,True,3740153648,9,Destroyer
+Kearsarge,usa,True,3750705136,9,Battleship
+Druid,uk,False,3760076752,10,Destroyer
+Karl von Schönberg,germany,True,3753785136,6,Destroyer
+Lazo,ussr,True,3751720400,7,Cruiser
+Constellation,usa,True,3730782192,8,Battleship
+Massachusetts,usa,True,3751753712,8,Battleship
+Álvaro de Bazán,spain,False,3760076208,10,Destroyer
+Asashio,japan,True,3751687888,8,Destroyer
+Congress,usa,True,3741235184,8,Cruiser
+Mysore,commonwealth,True,3753817456,6,Cruiser
+Fenyang,pan_asia,True,3751687376,8,Destroyer
+Ägir,germany,True,3750672176,9,Cruiser
+Repulse B,uk,True,3732879312,6,Battleship
+Alabama VL,usa,True,3741267952,8,Battleship
+Michelangelo,italy,True,3750672112,9,Cruiser
+Repulse,uk,True,3743365072,6,Battleship
+Champagne,france,True,3741267792,8,Battleship
+Black B,usa,True,3740153840,9,Destroyer
+Belfast '43,uk,True,3741235152,8,Cruiser
+Nelson,uk,True,3752802256,7,Battleship
+Wukong,pan_asia,True,3751720144,8,Cruiser
+Mainz,germany,True,3751720752,8,Cruiser
+Halford,usa,True,3750639600,9,Destroyer
+Gato,usa,False,3759585264,10,Submarine
+Tashkent '39,ussr,True,3752736208,7,Destroyer
+Mikoyan,ussr,True,3754866128,5,Cruiser
+Alaska,usa,True,3760109552,9,Cruiser
+Indianapolis,usa,True,3763255280,7,Cruiser
+Shikishima,japan,False,3760142032,10,Battleship
+Bajie,pan_asia,True,3761190096,9,Battleship
+Irian,pan_asia,True,3762205904,8,Cruiser
+Kronshtadt,ussr,True,3761157584,9,Cruiser
+Stalingrad,ussr,False,3760109008,10,Cruiser
+Velos,europe,True,3761124656,9,Destroyer
+Yūdachi,japan,True,3763222224,7,Destroyer
+Musashi,japan,True,3761190608,9,Battleship
+Malta,uk,False,3760175056,10,AirCarrier
+Plymouth,uk,False,3760109520,10,Cruiser
+Sanzang,pan_asia,True,3762271440,8,AirCarrier
+Slava,ussr,False,3760141776,10,Battleship
+Elli,europe,True,3764303152,6,Cruiser
+Tokachi,japan,True,3763254992,7,Cruiser
+Kii,japan,True,3762239184,8,Battleship
+Gallant,uk,True,3764271056,6,Destroyer
+Chkalov,ussr,True,3762271696,8,AirCarrier
+Canarias,spain,True,3764303280,6,Cruiser
+Karl XIV Johan,europe,True,3761190192,9,Battleship
+Ashitaka,japan,True,3763287760,7,Battleship
+Groningen,netherlands,True,3761125136,9,Destroyer
+Alliance,uk,True,3761682384,8,Submarine
+Le Terrible,france,True,3762173776,8,Destroyer
+Cheshire,uk,True,3762206672,8,Cruiser
+Z-39,germany,True,3762173744,7,Destroyer
+Hood,uk,True,3763288016,7,Battleship
+Prinz Eugen,germany,True,3762206512,8,Cruiser
+Haida,commonwealth,True,3763221872,7,Destroyer
+Ohio,usa,False,3760142320,10,Battleship
+Vallejo,usa,True,3761158128,9,Cruiser
+Pommern,germany,True,3761190704,9,Battleship
+Erich Loewenhardt,germany,True,3764369200,6,AirCarrier
+Missouri,usa,True,3761190896,9,Battleship
+Colbert,france,False,3760109392,10,Cruiser
+S-189,ussr,True,3761681872,8,Submarine
+Werner Voss,germany,False,3760174896,10,AirCarrier
+T-61,germany,True,3764270896,6,Destroyer
+Mutsu,japan,True,3764336336,6,Battleship
+Yukon,commonwealth,True,3763287408,7,Battleship
+Mikhail Kutuzov,ussr,True,3762206160,8,Cruiser
+Juruá,pan_america,True,3764270416,6,Destroyer
+Paolo Emilio,italy,True,3761125104,9,Destroyer
+Belfast,uk,True,3763255248,7,Cruiser
+Carnot,france,True,3761157968,9,Cruiser
+Marlborough,uk,True,3761190864,9,Battleship
+Leone,italy,True,3764270832,6,Destroyer
+FR25,italy,True,3763222256,7,Destroyer
+Almirante Grau,pan_america,True,3762206032,8,Cruiser
+Napoli,italy,False,3760109296,10,Cruiser
+W. Virginia '41,usa,True,3763288048,6,Battleship
+Monaghan,usa,True,3764271088,6,Destroyer
+Vanguard,uk,True,3762239440,8,Battleship
+Van Speijk,netherlands,True,3761157904,9,Cruiser
+Molotov,ussr,True,3764303312,6,Cruiser
+Atlântico,pan_america,True,3762238800,8,Battleship
+Roma,italy,True,3762239216,8,Battleship
+Strasbourg,france,True,3763287888,7,Battleship
+Siegfried,germany,True,3761157936,9,Cruiser
+Arizona,usa,True,3764336624,6,Battleship
+Wichita,usa,True,3762206704,8,Cruiser
+Aigle,france,True,3764270928,6,Destroyer
+München,germany,True,3763255088,7,Cruiser
+Aquila,italy,True,3762271984,8,AirCarrier
+Alabama,usa,True,3762239472,8,Battleship
+De Grasse,france,True,3764303696,6,Cruiser
+Orkan,europe,True,3762173232,8,Destroyer
+Bayard,france,True,3762206544,8,Cruiser
+Navarin,ussr,True,3761190352,9,Battleship
+Odin,germany,True,3762239280,8,Battleship
+Azuma,japan,True,3760109264,9,Cruiser
+Bourgogne,france,False,3760142160,10,Battleship
+Admiral Graf Spee,germany,True,3764303664,6,Cruiser
+Gascogne,france,True,3762239312,8,Battleship
+Hector,commonwealth,True,3761157488,9,Cruiser
+Poltava,ussr,True,3762238928,7,Battleship
+Dunkerque,france,True,3764336464,6,Battleship
+Béarn,france,True,3764369232,6,AirCarrier
+Nueve de Julio,pan_america,True,3763254608,7,Cruiser
+Duca degli Abruzzi,italy,True,3763255024,7,Cruiser
+De Zeven Provinciën,netherlands,True,3762206480,8,Cruiser
+Franklin D. Roosevelt,usa,False,3760175088,10,AirCarrier
+Indomitable,uk,True,3762272208,8,AirCarrier
+Anshan,pan_asia,True,3764270288,6,Destroyer
+Numancia,spain,True,3762206128,8,Cruiser
+Dalian,pan_asia,True,3761157328,9,Cruiser
+Duca d'Aosta,italy,True,3764303600,6,Cruiser
+Prinz Eitel Friedrich,germany,True,3764336432,6,Battleship
+Perth,commonwealth,True,3764303216,6,Cruiser
+Loyang,pan_asia,True,3762173136,8,Destroyer
+Thunderer,uk,False,3760142288,10,Battleship
+Ruggiero di Lauria,italy,False,3760142064,10,Battleship
+Toulon,france,True,3763255120,7,Cruiser
+Kidd,usa,True,3762173936,8,Destroyer
+Huanghe,pan_asia,True,3764303056,6,Cruiser
+Scharnhorst,germany,True,3763287856,7,Battleship
+Benham,usa,True,3761125360,9,Destroyer
+Leningrad,ussr,True,3763221968,7,Destroyer
+Marco Polo,italy,True,3761190640,9,Battleship
+Dallas,usa,False,4078876656,6,Cruiser
+Gustav-Julius Maerker,germany,False,4076746544,8,Destroyer
+Ning Hai,pan_asia,True,3767448784,3,Cruiser
+Riga,ussr,False,4075730384,9,Cruiser
+Tallinn,ussr,False,4076778960,8,Cruiser
+Podvoisky,ussr,False,4079891920,5,Destroyer
+Alexander Nevsky,ussr,False,4074681808,10,Cruiser
+Split,europe,False,4076746032,8,Destroyer
+Kitakaze,japan,False,4065212112,9,Destroyer
+Harugumo,japan,False,4074649296,10,Destroyer
+Louisiana,usa,False,4074715120,10,Battleship
+Audacious,uk,False,4074747856,10,AirCarrier
+Devonshire,uk,False,4078876624,6,Cruiser
+Oktyabrskaya Revolutsiya,ussr,True,3765384656,5,Battleship
+Yahagi,japan,True,3765352144,5,Cruiser
+Katori,japan,True,3767449296,3,Cruiser
+Campbeltown,uk,True,3767416784,3,Destroyer
+Viribus Unitis,europe,True,3766433072,5,Battleship
+Yumihari,japan,False,4076811984,8,Battleship
+Yūgumo,japan,False,4075697872,9,Destroyer
+Surrey,uk,False,4077828048,7,Cruiser
+Z-31,germany,False,4077795120,7,Destroyer
+Delny,ussr,False,3864933840,10,Destroyer
+Delaware,usa,False,4075763696,9,Battleship
+Rooke,uk,False,4077860816,7,Battleship
+Kagerō,japan,False,4076746448,8,Destroyer
+Kotovsky,ussr,False,4069438928,5,Cruiser
+Duncan,uk,False,4075763664,9,Battleship
+U-2501,germany,False,4074157872,10,Submarine
+Shimanto,japan,False,4076779216,8,Cruiser
+Okhotnik,ussr,True,3765319120,5,Destroyer
+Grom,europe,False,4077794608,7,Destroyer
+Shiratsuyu,japan,False,4077795024,7,Destroyer
+Rattlehead,usa,True,3765352432,5,Cruiser
+König Albert,germany,True,3767482160,3,Battleship
+Stord,europe,False,4078843184,6,Destroyer
+Hatsuharu,japan,False,4078843600,6,Destroyer
+Exeter,uk,True,3765352400,5,Cruiser
+Renown,uk,False,4078909392,6,Battleship
+Takahashi,japan,False,4075730640,9,Cruiser
+Muavenet,europe,False,4079891760,5,Destroyer
+U-69,germany,False,4078352176,6,Submarine
+Yodo,japan,False,4074682064,10,Cruiser
+Bungo,japan,False,4074714832,10,Battleship
+Siroco,france,True,3766368080,5,Destroyer
+Siliwangi,pan_asia,True,4076745936,8,Destroyer
+Genova,italy,True,3765352176,5,Cruiser
+Lambros Katsonis,europe,False,4075697456,9,Destroyer
+Smith,usa,True,3768465392,2,Destroyer
+Schlieffen,germany,False,4074714928,10,Battleship
+Rio de Janeiro,pan_america,True,3765384528,5,Battleship
+Brest,france,False,4075730768,9,Cruiser
+U-190,germany,False,4076255024,8,Submarine
+Charleston,usa,True,3767449584,3,Cruiser
+Marceau,france,False,4074649424,10,Destroyer
+Preussen,germany,False,3969857328,10,Battleship
+Kiev,ussr,False,3971888592,8,Destroyer
+Krasny Krym,ussr,True,3765351888,5,Cruiser
+Omono,japan,False,4077827792,7,Cruiser
+Oklahoma,usa,True,3765385200,5,Battleship
+Nebraska,usa,False,4076812272,8,Battleship
+Zieten,germany,False,4076812080,8,Battleship
+Marseille,france,False,4074682192,10,Cruiser
+Gdańsk,europe,False,4074648880,10,Destroyer
+Cherbourg,france,False,4076779344,8,Cruiser
+Adatara,japan,False,4075763408,9,Battleship
+Prinz Rupprecht,germany,False,4075763504,9,Battleship
+Gokase,japan,False,4078876368,6,Cruiser
+Agincourt,uk,True,3765385168,5,Battleship
+Prinz Heinrich,germany,False,4077860656,7,Battleship
+Vampire,commonwealth,True,3767416176,3,Destroyer
+Balao,usa,False,4074158064,10,Submarine
+Grozovoi,ussr,False,4074649040,10,Destroyer
+Oleg,ussr,True,3767449040,3,Cruiser
+Agano,japan,False,4079924944,5,Cruiser
+Worcester,usa,False,4074682352,10,Cruiser
+Mackensen,germany,False,4078909232,6,Battleship
+Petropavlovsk,ussr,False,3969824208,10,Cruiser
+Helena,usa,False,4077828080,7,Cruiser
+Goliath,uk,False,4074682320,10,Cruiser
+Dreadnought,uk,True,3767482320,3,Battleship
+Salmon,usa,False,4076255216,8,Submarine
+Ognevoi,ussr,False,4076746192,8,Destroyer
+Cleveland,usa,False,4076779504,8,Cruiser
+Drake,uk,False,4075730896,9,Cruiser
+Elbing,germany,False,4074649392,10,Destroyer
+Hawke,uk,False,4076812240,8,Battleship
+St. Vincent,uk,False,4074715088,10,Battleship
+Minsk,ussr,False,4077794768,7,Destroyer
+Błyskawica,europe,True,3769513264,7,Destroyer
+Giulio Cesare,italy,True,3765384944,5,Battleship
+Almirante Abreu,pan_america,True,3768497488,2,Cruiser
+Seattle,usa,False,4075730928,9,Cruiser
+Albemarle,uk,False,4076779472,8,Cruiser
+Felix Schultz,germany,False,4075697968,9,Destroyer
+Emden,germany,True,3768497968,2,Cruiser
+Hill,usa,True,3765319664,5,Destroyer
+Cachalot,usa,False,4078352368,6,Submarine
+Tashkent,ussr,False,3865982416,9,Destroyer
+Gnevny,ussr,False,4078843344,6,Destroyer
+Kunming,pan_asia,False,4178457808,11,Destroyer
+Moskva,ussr,False,4179539408,10,Cruiser
+K-1,ussr,False,4179015120,10,Submarine
+Halland,europe,False,4179506480,10,Destroyer
+Yamagiri,japan,False,4178458320,11,Destroyer
+Maine,usa,False,4178524144,11,Battleship
+Akizuki,japan,False,4181604048,8,Destroyer
+Castilla,spain,False,4179539376,10,Cruiser
+Kléber,france,False,4179507024,10,Destroyer
+Hermes,uk,False,4081039312,4,AirCarrier
+Minotaur,uk,False,4179539920,10,Cruiser
+Z-57,germany,False,4178458416,11,Destroyer
+Kremlin,ussr,False,4179572176,10,Battleship
+Daring,uk,False,4179507152,10,Destroyer
+Mogador,france,False,4180555600,9,Destroyer
+Hawkins,uk,False,4079925200,5,Cruiser
+Admiral Nakhimov,ussr,False,4179604944,10,AirCarrier
+Andalucía,spain,False,4180587952,9,Cruiser
+Sturdy,uk,False,4181112784,8,Submarine
+Satsuma,japan,False,4178523856,11,Battleship
+Johan de Witt,netherlands,False,4180588304,9,Cruiser
+Thrasher,uk,False,4179015632,10,Submarine
+Edinburgh,uk,False,4181637072,8,Cruiser
+Z-52,germany,False,4179506992,10,Destroyer
+Z-46,germany,False,4180555568,9,Destroyer
+Novosibirsk,ussr,False,4178490832,11,Cruiser
+Sekiryu,japan,False,4178556624,11,AirCarrier
+Tiger,uk,False,4079957968,5,Battleship
+Roon,germany,False,4180588336,9,Cruiser
+Dalarna,europe,False,4178457904,11,Destroyer
+Eagle,uk,False,4178556880,11,AirCarrier
+Condé,france,False,4178491216,11,Cruiser
+Moltke,germany,False,4081006384,4,Battleship
+Dmitri Donskoi,ussr,False,4180587984,9,Cruiser
+Hakuryū,japan,False,4179605200,10,AirCarrier
+Minnesota,usa,False,4180621296,9,Battleship
+L-20,ussr,False,4181112272,8,Submarine
+Manfred von Richthofen,germany,False,4179605296,10,AirCarrier
+Clausewitz,germany,False,4178491184,11,Cruiser
+Harbin,pan_asia,False,4181636304,8,Cruiser
+Vittorio Cuniberti,italy,False,4181604080,8,Destroyer
+Devastation,uk,False,4178524112,11,Battleship
+Attilio Regolo,italy,False,4179506928,10,Destroyer
+Edgar,uk,False,4178491344,11,Cruiser
+Saint-Louis,france,False,4180588368,9,Cruiser
+Brindisi,italy,False,4180588272,9,Cruiser
+Öland,europe,False,4181603632,8,Destroyer
+Neptune,uk,False,4180588496,9,Cruiser
+San Martín,pan_america,False,4179539280,10,Cruiser
+Venezia,italy,False,4179539696,10,Cruiser
+Indefatigable,uk,False,4082055120,3,Battleship
+Joshua Humphreys,usa,False,4178458608,11,Destroyer
+Queen Mary,uk,False,4081006544,4,Battleship
+Gouden Leeuw,netherlands,False,4179539728,10,Cruiser
+Admiral Ushakov,ussr,False,4178523600,11,Battleship
+Lepanto,italy,False,4180621040,9,Battleship
+République,france,False,4179572560,10,Battleship
+Hindenburg,germany,False,4179539760,10,Cruiser
+United States,usa,False,4178556912,11,AirCarrier
+Buffalo,usa,False,4180588528,9,Cruiser
+Calvi,italy,False,4179015408,10,Submarine
+Admiral Hipper,germany,False,4181636912,8,Cruiser
+Le Fantasque,france,False,4181604176,8,Destroyer
+Yueyang,pan_asia,False,4179506384,10,Destroyer
+Grosser Kurfürst,germany,False,4179572528,10,Battleship
+Sejong,pan_asia,False,4180587728,9,Cruiser
+Vermont,usa,False,4179572720,10,Battleship
+Henri IV,france,False,4179539792,10,Cruiser
+Östergötland,europe,False,4180555056,9,Destroyer
+Charles Martel,france,False,4181636944,8,Cruiser
+Santander,pan_america,False,4180587856,9,Cruiser
+Sovetsky Soyuz,ussr,False,4180620752,9,Battleship
+Z-23,germany,False,4181604144,8,Destroyer
+Midway,usa,False,4179605488,10,AirCarrier
+Pietro Micca,italy,False,4181112560,8,Submarine
+Hannover,germany,False,4178523952,11,Battleship
+Patrie,france,False,4178523984,11,Battleship
+Hsienyang,pan_asia,False,4181603536,8,Destroyer
+Ignacio Allende,pan_america,False,4181636432,8,Cruiser
+Amalfi,italy,False,4181636848,8,Cruiser
+Conqueror,uk,False,4179572688,10,Battleship
+Haarlem,netherlands,False,4181636880,8,Cruiser
+Piemonte,italy,False,4178491120,11,Cruiser
+Jutland,uk,False,4180555728,9,Destroyer
+Derfflinger,germany,False,4079957808,5,Battleship
+Cataluña,spain,False,4181636528,8,Cruiser
+Lightning,uk,False,4181604304,8,Destroyer
+Chung Mu,pan_asia,False,4180554960,9,Destroyer
+Chapayev,ussr,False,4181636560,8,Cruiser
+Lion,uk,False,4180621264,9,Battleship
+Cristoforo Colombo,italy,False,4179572464,10,Battleship
+Adriatico,italy,False,4180555504,9,Destroyer
+Alsace,france,False,4180621136,9,Battleship
+Annapolis,usa,False,4178491376,11,Cruiser
+Jinan,pan_asia,False,4179539152,10,Cruiser
+Von der Tann,germany,False,4082054960,3,Battleship
+Friedrich der Grosse,germany,False,4180621104,9,Battleship
+Baltimore,usa,False,4181637104,8,Cruiser
+Zorkiy,ussr,False,4178458064,11,Destroyer
+Khabarovsk,ussr,False,4179506640,10,Destroyer
+Bretagne,france,False,4184815440,5,Battleship
+Fushun,pan_asia,False,4183700688,6,Destroyer
+S-1,ussr,False,4183209424,6,Submarine
+Budyonny,ussr,False,4183733712,6,Cruiser
+Vittorio Veneto,italy,False,4181669616,8,Battleship
+Skåne,europe,False,4182652208,7,Destroyer
+Akatsuki,japan,False,4182652624,7,Destroyer
+Fubuki,japan,False,4183701200,6,Destroyer
+Baleares,spain,False,4183733680,6,Cruiser
+Fiji,uk,False,4182685648,7,Cruiser
+Acasta,uk,False,4184750032,5,Destroyer
+König,germany,False,4184815408,5,Battleship
+Pyotr Velikiy,ussr,False,4184815056,5,Battleship
+Trento,italy,False,4183734000,6,Cruiser
+Wakeful,uk,False,4185798608,4,Destroyer
+Pobeda,ussr,False,4181702096,8,AirCarrier
+Asturias,spain,False,4182685104,7,Cruiser
+Udaloi,ussr,False,4182652368,9,Destroyer
+Serov,ussr,False,4183799248,6,AirCarrier
+Eendracht,netherlands,False,4182685456,7,Cruiser
+Undine,uk,False,4183209936,6,Submarine
+Leberecht Maass,germany,False,4182652720,7,Destroyer
+Luca Tarigo,italy,False,4182652656,7,Destroyer
+Chungking,pan_asia,False,4184782032,5,Cruiser
+Mutsuki,japan,False,4184749776,5,Destroyer
+Ryūjō,japan,False,4183799504,6,AirCarrier
+Iron Duke,uk,False,4184815568,5,Battleship
+Karlsruhe,germany,False,4185831216,4,Cruiser
+Furious,uk,False,4183799760,6,AirCarrier
+Guépard,france,False,4183701328,6,Destroyer
+Leander,uk,False,4183734224,6,Cruiser
+Bayern,germany,False,4183766832,6,Battleship
+Weser,germany,False,4183799600,6,AirCarrier
+Emerald,uk,False,4184782800,5,Cruiser
+August von Parseval,germany,False,4181702448,8,AirCarrier
+Ernst Gaede,germany,False,4183701296,6,Destroyer
+Chumphon,pan_asia,False,4182684880,7,Cruiser
+Maestrale,italy,False,4184749808,5,Destroyer
+Icarus,uk,False,4183701456,6,Destroyer
+Shōkaku,japan,False,4181702352,8,AirCarrier
+Bourrasque,france,False,4185798480,4,Destroyer
+Danae,uk,False,4185831376,4,Cruiser
+T-22,germany,False,4184749872,5,Destroyer
+Turbine,italy,False,4185798384,4,Destroyer
+Shchors,ussr,False,4182685136,7,Cruiser
+Almirante Cochrane,pan_america,False,4183733584,6,Cruiser
+Zara,italy,False,4182685424,7,Cruiser
+Celebes,netherlands,False,4184782608,5,Cruiser
+Andrea Doria,italy,False,4183766768,6,Battleship
+Normandie,france,False,4183766864,6,Battleship
+V-170,germany,False,4185798448,4,Destroyer
+Pensacola,usa,False,4183734256,6,Cruiser
+King George V,uk,False,4182718416,7,Battleship
+Jaguar,france,False,4184749904,5,Destroyer
+Nürnberg,germany,False,4183734064,6,Cruiser
+La Galissonnière,france,False,4183734096,6,Cruiser
+Kansas,usa,False,4181669872,8,Battleship
+Queen Elizabeth,uk,False,4183766992,6,Battleship
+Yorck,germany,False,4182685488,7,Cruiser
+Galicia,spain,False,4184782256,5,Cruiser
+Algérie,france,False,4182685520,7,Cruiser
+Västerås,europe,False,4183700784,6,Destroyer
+Vauquelin,france,False,4182652752,7,Destroyer
+Svietlana,ussr,False,4185830864,4,Cruiser
+Visby,europe,False,4184749360,5,Destroyer
+Königsberg,germany,False,4184782640,5,Cruiser
+Émile Bertin,france,False,4184782672,5,Cruiser
+Lexington,usa,False,4181702640,8,AirCarrier
+Richelieu,france,False,4181669712,8,Battleship
+Alberto di Giussano,italy,False,4185831152,4,Cruiser
+Vladivostok,ussr,False,4181669328,8,Battleship
+Klas Horn,europe,False,4185797936,4,Destroyer
+Coronel Bolognesi,pan_america,False,4182685008,7,Cruiser
+Sinop,ussr,False,4182717904,7,Battleship
+Kijkduin,netherlands,False,4183734032,6,Cruiser
+Aviere,italy,False,4183701232,6,Destroyer
+Foca,italy,False,4183209712,6,Submarine
+Implacable,uk,False,4181702608,8,AirCarrier
+Almirante Cervera,spain,False,4185830832,4,Cruiser
+Izmail,ussr,False,4183766480,6,Battleship
+De Ruyter,netherlands,False,4185831184,4,Cruiser
+Lyon,france,False,4182718288,7,Battleship
+Conte di Cavour,italy,False,4184815344,5,Battleship
+Gadjah Mada,pan_asia,False,4182652112,7,Destroyer
+Bismarck,germany,False,4181669680,8,Battleship
+Jianwei,pan_asia,False,4184749264,5,Destroyer
+Monarch,uk,False,4181669840,8,Battleship
+La Argentina,pan_america,False,4184782160,5,Cruiser
+Raimondo Montecuccoli,italy,False,4184782576,5,Cruiser
+Francesco Caracciolo,italy,False,4182718192,7,Battleship
+Duguay-Trouin,france,False,4185831248,4,Cruiser
+New Orleans,usa,False,4182685680,7,Cruiser
+Jervis,uk,False,4182652880,7,Destroyer
+Rahmat,pan_asia,False,4183733456,6,Cruiser
+Gneisenau,germany,False,4182718256,7,Battleship
+Shenyang,pan_asia,False,4185797840,4,Destroyer
+Ranger,usa,False,4183799792,6,AirCarrier
+Izyaslav,ussr,False,4185798096,4,Destroyer
+Córdoba,pan_america,False,4185830736,4,Cruiser
+Gangut,ussr,False,4185863632,4,Battleship
+Langley,usa,False,4185896944,4,AirCarrier
+Longjiang,pan_asia,False,4187894992,2,Destroyer
+Orlan,ussr,False,4188976592,1,Cruiser
+Bogatyr,ussr,False,4186879440,3,Cruiser
+Romulus,europe,False,4186846512,3,Destroyer
+Kamikaze R,japan,True,4267587280,5,Destroyer
+Kamikaze,japan,True,4268635856,5,Destroyer
+Burrows,usa,False,4252907504,10,Destroyer
+Júpiter,spain,False,4188976560,1,Cruiser
+Iowa,usa,False,4276041712,9,Battleship
+Orion,uk,False,4185864144,4,Battleship
+Knyaz Suvorov,ussr,False,4186912208,3,Battleship
+Gryf,europe,False,4188976432,1,Cruiser
+Atago,japan,True,4255037136,8,Cruiser
+Marblehead,usa,True,4248745968,5,Cruiser
+Valkyrie,uk,False,4186847184,3,Destroyer
+Manteuffel,germany,False,4274960176,9,Cruiser
+Kaiser,germany,False,4185863984,4,Battleship
+Tone,japan,True,4276008656,8,Cruiser
+Komsomolets,ussr,False,4185896400,4,AirCarrier
+Navarra,spain,False,4186879408,3,Cruiser
+Gustav den Store,europe,False,4274992432,9,Battleship
+Izumo,japan,False,4272895696,9,Battleship
+Fūjin,japan,True,4277024464,5,Destroyer
+Osborne,usa,False,4255004656,8,Destroyer
+Van Kinsbergen,netherlands,False,4188976912,1,Cruiser
+Black Swan,uk,False,4188977104,1,Cruiser
+G-101,germany,False,4186847024,3,Destroyer
+Knesebeck,germany,False,4276008752,8,Cruiser
+Menno van Coehoorn,netherlands,False,4274960144,9,Cruiser
+Hōshō,japan,False,4185896656,4,AirCarrier
+Hughes,usa,False,4256053232,7,Destroyer
+Bellerophon,uk,False,4186912720,3,Battleship
+Medea,uk,False,4187895760,2,Destroyer
+Deutschland,germany,False,4278105904,6,Cruiser
+Uganda,commonwealth,False,4277056880,7,Cruiser
+Nassau,germany,False,4186912560,3,Battleship
+Independence,usa,False,4267685872,6,AirCarrier
+Nino Bixio,italy,False,4187928304,2,Cruiser
+Le Hardi,france,False,4277024592,7,Destroyer
+Clemson,usa,False,4274927600,4,Destroyer
+Phoenix,usa,False,4269717488,4,Cruiser
+Rhein,germany,False,4185896752,4,AirCarrier
+Hashidate,japan,False,4256085712,1,Cruiser
+Hobart,commonwealth,False,4278105456,6,Cruiser
+Derzki,ussr,False,4186846672,3,Destroyer
+Nazario Sauro,italy,False,4186846960,3,Destroyer
+Zaō,japan,False,4259231440,10,Cruiser
+Yamato,japan,False,4276041424,10,Battleship
+Curtatone,italy,False,4187895536,2,Destroyer
+Almirante Barroso,pan_america,False,4187927888,2,Cruiser
+Eritrea,italy,False,4188976880,1,Cruiser
+Wickes,usa,False,4266538992,3,Destroyer
+Java,netherlands,False,4186879760,3,Cruiser
+Los Andes,pan_america,False,4274992464,9,Battleship
+Turenne,france,False,4186912592,3,Battleship
+Enigheten,europe,False,4276041008,8,Battleship
+Enseigne Gabolde,france,False,4187895632,2,Destroyer
+Marblehead Lima,usa,True,4247697392,5,Cruiser
+Weymouth,uk,False,4187928528,2,Cruiser
+L'Aventurier,france,False,4275976016,8,Destroyer
+Kolberg,germany,False,4186879792,3,Cruiser
+Montana,usa,False,4277090288,10,Battleship
+Des Moines,usa,False,4273911792,10,Cruiser
+New Mexico,usa,False,4259264496,6,Battleship
+V-25,germany,False,4187895600,2,Destroyer
+Jurien de la Gravière,france,False,4187928400,2,Cruiser
+Tátra,europe,False,4187895088,2,Destroyer
+Fusilier,france,False,4186847056,3,Destroyer
+Ipiranga,pan_america,False,4276041040,8,Battleship
+Admiral Scheer,germany,False,4277057328,7,Cruiser
+Essex,usa,False,4273977328,10,AirCarrier
+Monmouth,uk,False,4273911760,10,Cruiser
+Courbet,france,False,4185864016,4,Battleship
+Auckland,commonwealth,False,4276008304,8,Cruiser
+Yorktown,usa,False,4265588720,8,AirCarrier
+Wakatake,japan,False,4269684432,3,Destroyer
+Sims,usa,True,4264441840,7,Destroyer
+Orage,france,False,4274927440,9,Destroyer
+Novik,ussr,False,4187928016,2,Cruiser
+Chios,europe,False,4277089584,7,Battleship
+Chikuma,japan,False,4258182864,2,Cruiser
+Jaarsveld,netherlands,False,4276008720,8,Cruiser
+Dante Alighieri,italy,False,4185863920,4,Battleship
+Friant,france,False,4186879824,3,Cruiser
+Méndez Núñez,spain,False,4187927984,2,Cruiser
+Encounter,commonwealth,False,4274959728,9,Cruiser
+Gelderland,netherlands,False,4187928336,2,Cruiser
+Phra Ruang,pan_asia,False,4186846416,3,Destroyer
+Caledon,uk,False,4186879952,3,Cruiser
+Taranto,italy,False,4186879728,3,Cruiser
+Iwaki Alpha,japan,True,4267620048,4,Cruiser
+Hércules,pan_america,False,4188976464,1,Cruiser
+Duchaffault,france,False,4278073168,6,Destroyer
+Bougainville,france,False,4188976976,1,Cruiser
+Christopher,usa,False,4253956080,9,Destroyer
+Chengan,pan_asia,False,4188976336,1,Cruiser
+Fletcher,usa,False,4272830448,9,Destroyer
+Storozhevoi,ussr,False,4187895248,2,Destroyer
+Vicente Guerrero,pan_america,False,4186879312,3,Cruiser
+Furutaka,japan,False,4289640144,5,Cruiser
+Fusō,japan,False,4288624336,6,Battleship
+Sampson,usa,False,4292753392,2,Destroyer
+Erie,usa,False,4293834736,1,Cruiser
+Prinz Adalbert,germany,False,4284397360,10,Cruiser
+Yūbari,japan,True,4290688720,4,Cruiser
+Libertad,pan_america,False,4284429648,10,Battleship
+Murmansk,ussr,True,4291737040,5,Cruiser
+Diana Lima,ussr,True,4284397008,2,Cruiser
+Albany,usa,True,4291737584,2,Cruiser
+Amagi,japan,False,4281284304,8,Battleship
+Isokaze,japan,False,4291704528,4,Destroyer
+Tachibana Lima,japan,True,4280170192,2,Destroyer
+Utrecht,netherlands,False,4284397328,10,Cruiser
+Cassard,france,False,4284364624,10,Destroyer
+Chester,usa,False,4292786160,2,Cruiser
+Warspite,uk,True,4292818896,6,Battleship
+Jacksonville,usa,False,4283348976,11,Cruiser
+Tirpitz,germany,True,4292818736,8,Battleship
+Shimakaze,japan,False,4282267344,10,Destroyer
+Sutlej,commonwealth,False,4293834096,1,Cruiser
+L'Adroit,france,False,4279121744,5,Destroyer
+Hermelin,germany,False,4293834544,1,Cruiser
+Tenryū,japan,False,4279154384,3,Cruiser
+Imperator Nikolai I,ussr,True,4293866960,4,Battleship
+Kawachi,japan,False,4293867216,3,Battleship
+Omaha,usa,False,4289640432,5,Cruiser
+Aurora,ussr,True,4293834192,3,Cruiser
+Mogami,japan,False,4285445840,8,Cruiser
+Arkansas Beta,usa,True,4281284592,4,Battleship
+Umikaze,japan,False,4292753104,2,Destroyer
+Aoba,japan,False,4287542992,6,Cruiser
+Ishizuchi,japan,True,4286527184,4,Battleship
+Tachibana,japan,True,4293801680,2,Destroyer
+Dunedin,commonwealth,False,4280202608,4,Cruiser
+St. Louis,usa,False,4290689008,3,Cruiser
+New York,usa,False,4288624624,5,Battleship
+South Carolina,usa,False,4293867504,3,Battleship
+Port Jackson,commonwealth,False,4282299760,2,Cruiser
+Tegetthoff,europe,False,4279186736,5,Battleship
+Nagato,japan,False,4284430032,7,Battleship
+Cerberus,commonwealth,False,4284396912,10,Cruiser
+Nicholas,usa,False,4280170480,5,Destroyer
+Caradoc,commonwealth,False,4281251184,3,Cruiser
+Laudon,europe,False,4278138160,6,Battleship
+Mikasa,japan,True,4283381456,2,Battleship
+Affondatore,italy,False,4283381488,11,Battleship
+Kongō,japan,False,4287575760,5,Battleship
+Dresden,germany,False,4292785968,2,Cruiser
+Mahan,usa,False,4288559088,7,Destroyer
+Myōgi,japan,False,4291770064,4,Battleship
+North Carolina,usa,False,4282333168,8,Battleship
+Ibuki,japan,False,4282300112,9,Cruiser
+Gearing,usa,False,4281219056,10,Destroyer
+Wyoming,usa,False,4290721776,4,Battleship
+Colorado,usa,False,4286527472,7,Battleship
+Atlanta,usa,True,4288591856,7,Cruiser
+Delhi,commonwealth,False,4279154032,5,Cruiser
+Thor,europe,False,4284429616,10,Battleship
+Benson,usa,False,4286461936,8,Destroyer
+Gremyashchy,ussr,True,4293801424,5,Destroyer
+Kuma,japan,False,4281251536,4,Cruiser
+Diana,ussr,True,4292785616,2,Cruiser
+Myōkō,japan,False,4286494416,7,Cruiser
+Farragut,usa,False,4289607664,6,Destroyer
+Yavuz Sultan Selim,europe,False,4280235312,4,Battleship
+Minekaze,japan,False,4290655952,5,Destroyer
