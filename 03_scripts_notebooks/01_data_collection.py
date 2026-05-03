@@ -1,65 +1,105 @@
 import requests
 import pandas as pd
 import os
+import time
 from dotenv import load_dotenv
 
-# Load the environment variables from the .env file
+# Load the Wargaming Application ID securely
 load_dotenv()
+APP_ID = os.getenv('WG_APP_ID')
 
-# 1. Define your API parameters
-# This pulls the ID from your local .env file securely
-APP_ID = os.getenv('WG_APP_ID') 
+# Define API Endpoints
+URL_ACCOUNT_LIST = "https://api.worldofwarships.com/wows/account/list/"
+URL_SHIP_STATS = "https://api.worldofwarships.com/wows/ships/stats/"
 
-URL = "https://api.worldofwarships.com/wows/encyclopedia/ships/"
+# 1. Define the search terms to build our player sample
+search_terms = ['Admiral', 'Captain', 'Sniper', 'Ghost', 'Killer', 'Navy', 'Sailor', 'Pirate', 'Alpha', 'Bravo']
 
-# Create an empty list to store all the ships across multiple pages
-all_ships_list = []
-page_no = 1 
+# Use a set to store account_ids to automatically prevent any duplicate players
+account_ids = set() 
 
-print("Fetching ship data from Wargaming API...")
+print("Step 1: Fetching account IDs using search terms...")
 
-# 2. Loop through pages until no more ships are returned
-while True:
+# 2. Loop through search terms to fetch valid account IDs
+for term in search_terms:
     params = {
         'application_id': APP_ID,
-        'language': 'en',
-        'fields': 'ship_id,name,tier,type,nation,is_premium',
-        'page_no': page_no # Dynamic page number
+        'search': term,
+        'limit': 100,           # The API allows a maximum of 100 entries per request
+        'type': 'startswith'    # Searches by initial characters of the player name
     }
     
-    response = requests.get(URL, params=params)
+    response = requests.get(URL_ACCOUNT_LIST, params=params)
     data = response.json()
     
-    # 3. Verify Data Integrity
     if data.get('status') == 'ok':
-        # The 'data' key contains a dictionary of ships on the current page
-        ships_dict = data.get('data', {})
-        
-        # If the dictionary is empty, we have reached the last page. Break the loop.
-        if not ships_dict:
-            break
-            
-        # Add the current page's ships to our master list
-        all_ships_list.extend(list(ships_dict.values()))
-        
-        print(f"Fetched page {page_no}...")
-        page_no += 1 # Move to the next page for the next loop iteration
-        
+        players = data.get('data', [])
+        for player in players:
+            account_ids.add(player.get('account_id'))
+        print(f"Fetched {len(players)} players for search term '{term}'")
     else:
         error_msg = data.get('error', {}).get('message', 'Unknown Error')
-        print(f"API Request Failed on page {page_no}. Error: {error_msg}")
-        break
+        print(f"Failed to fetch term '{term}'. Error: {error_msg}")
+        
+    # Respect the standalone application API rate limit (max 10 requests per second)
+    time.sleep(0.15) 
 
-# 4. Load the compiled list into a Pandas DataFrame
-df_ships = pd.DataFrame(all_ships_list)
+print(f"\nSuccessfully gathered {len(account_ids)} unique account IDs.")
+print("\nStep 2: Fetching ship statistics for each player (This may take a few minutes)...")
 
-print(f"\nSuccess! Total ships fetched: {len(df_ships)}")
+all_player_stats = []
+processed_count = 0
 
-# 5. Save to your processed data folder using forward slashes
-output_filename = "../01_raw_data/wows_ship_encyclopedia.csv"
+# 3. Loop through each gathered account_id to fetch their ship performance stats
+for account_id in account_ids:
+    params = {
+        'application_id': APP_ID,
+        'account_id': account_id,
+        'language': 'en'
+    }
+    
+    response = requests.get(URL_SHIP_STATS, params=params)
+    data = response.json()
+    
+    if data.get('status') == 'ok':
+        # The data is nested under the specific account_id
+        player_ships = data.get('data', {}).get(str(account_id), [])
+        
+        # Check if the player has public stats and has played ships
+        if player_ships:
+            for ship in player_ships:
+                # We only want to extract the 'pvp' (Random Battles) statistics
+                pvp_stats = ship.get('pvp', {})
+                
+                # Filter out ships with 0 battles to keep the dataset clean
+                if pvp_stats and pvp_stats.get('battles', 0) > 0:
+                    ship_data = {
+                        'account_id': account_id,
+                        'ship_id': ship.get('ship_id'),
+                        'battles': pvp_stats.get('battles', 0),
+                        'wins': pvp_stats.get('wins', 0),
+                        'survived_battles': pvp_stats.get('survived_battles', 0),
+                        'damage_dealt': pvp_stats.get('damage_dealt', 0),
+                        'frags': pvp_stats.get('frags', 0),
+                        'xp': pvp_stats.get('xp', 0)
+                    }
+                    all_player_stats.append(ship_data)
+                    
+    processed_count += 1
+    # Print a progress update every 100 accounts
+    if processed_count % 100 == 0:
+        print(f"Processed {processed_count} / {len(account_ids)} accounts...")
+        
+    # Respect the API rate limit again for this loop
+    time.sleep(0.15) 
 
-# Optional: Ensure the directory exists before saving (avoids FileNotFoundError)
+# 4. Load compiled statistics into a Pandas DataFrame
+df_stats = pd.DataFrame(all_player_stats)
+
+# 5. Save to your processed data folder
+output_filename = "../01_raw_data/wows_player_ship_stats.csv"
 os.makedirs(os.path.dirname(output_filename), exist_ok=True)
+df_stats.to_csv(output_filename, index=False)
 
-df_ships.to_csv(output_filename, index=False)
+print(f"\nSuccess! Total ship records fetched across all players: {len(df_stats)}")
 print(f"Data saved successfully to {output_filename}")

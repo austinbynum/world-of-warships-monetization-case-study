@@ -28,6 +28,7 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 **Data Sources:** The data for this case study is extracted directly from the **Wargaming.net Public API**, a first-party developer service providing live access to game content and player statistics. Specifically, this analysis utilizes two main API endpoints:
 * **Encyclopedia API (`/wows/encyclopedia/ships/`):** Used to extract static ship attributes, such as tier, nation, ship class, and the critical `is_premium status`.
 * **Warships API (`/wows/ships/stats/`):** Used to extract historical player performance data on specific ships, including usage rates, win/loss ratios, and base experience generated.
+* **Players API (`/wows/account/list/`):** Due to limitations of the Warships API, I need to contruct a respresentative sample without brute-forcing random player IDs. To accomplish this, the data collection script programmatically queries this endpoint using a predefined list of 10 common username prefixes. This extracts 1,000 valid `account_id`s, which are then used to fetch individual ship performance records.
 
 **Data Integrity:**
 * **Credibility (ROCCC):** I am pulling data directly from Wargaming's own servers, so the data is first-party, reliable, original, and current. It is also unbiased because it reflects the exact database used to run the game.
