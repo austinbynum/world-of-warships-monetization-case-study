@@ -1,9 +1,15 @@
 import requests
 import pandas as pd
 import os
+from dotenv import load_dotenv
 
-# Define API parameters
-APP_ID = 'cf3f6bed953f34a84105e228afb554ee' # Replace with your actual key
+# Load the environment variables from the .env file
+load_dotenv()
+
+# 1. Define your API parameters
+# This pulls the ID from your local .env file securely
+APP_ID = os.getenv('WG_APP_ID') 
+
 URL = "https://api.worldofwarships.com/wows/encyclopedia/ships/"
 
 # Create an empty list to store all the ships across multiple pages

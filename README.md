@@ -41,9 +41,14 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 * **Copyright Notice:** Wargaming's policy requires the inclusion of the notice, _"© Wargaming.net. All rights reserved"_.
 * **Attribution:** The source of the data is the [official World of Warships website](https://worldofwarships.com/) and this project is not affiliated with or endorsed by Wargaming.
 * **Privacy:** No personal passwords were collected and only the data necessary for the analysis was collected.
-* **Security:** Also in compliance with the Wargaming's TOS, I have excluded my **API APPLICATION ID** from the code. To run the code to fetch the raw data,
-	* Log into [Wargaming Developer Room](https://developers.wargaming.net/) and register an application to generate and `application_id`
-	* Create a local `.env` file and assign the key to the `WG_APP_ID` variable
+
+**How to Reproduce the Data Collection:** To reproduce the API extraction process and run the Python scripts locally, you will need to set up your environment and obtain your own API credentials. Follow these steps:
+1. Install Required Python Packages: The data collection scripts utilize external libraries that must be installed via your computer's terminal or command prompt (do not run this command inside the Python script). Open your terminal and run the following command: `pip install requests pandas python-dotenv`
+2. Obtain a Wargaming Application ID: Access to the Wargaming.net API requires a personal Application ID. Register for a free developer account at the [Wargaming Developer Room](https://developers.wargaming.net/) and create a "Standalone" application to generate your key. 
+3. Set Up Your Environment Variable: To keep your Application ID secure and comply with Wargaming's Terms of Use, the Python script uses the `python-dotenv` package to load the key as a local environment variable. 
+	* In the root directory of your cloned repository, create a plain text file named exactly `.env`.
+	* Add your Application ID to the file in this exact format: `WG_APP_ID=your_application_id_here`
+	* **Important:** Ensure your `.env` file is listed in your `.gitignore` file so your secret key is never pushed to your public repository!
 
 ## 💡 Phase 4: Analyze (Key Findings)
 
