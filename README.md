@@ -1,7 +1,7 @@
 # World of Warships Monetization Case Study
 
 ## 📝 Project Overview
-This project serves as an end-to-end data analytics case study exploring the monetization strategies and in-game economy of World of Warships. Byprogrammatically extracting ship attributes and player performance statistics directly from the Wargaming.net Public API, this study investigates the behavioral and economic differences between players using standard Tech Tree ships versus purchasable Premium ships.
+This project serves as an end-to-end data analytics case study exploring the monetization strategies and in-game economy of World of Warships. By programmatically extracting ship attributes and player performance statistics directly from the Wargaming.net Public API, this study investigates the behavioral and economic differences between players using standard Tech Tree ships versus purchasable Premium ships.
 Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power BI, I processed and analyzed engagement metrics—such as usage rates, win rates, and base experience generation—to uncover actionable trends in player purchasing patterns. The resulting insights are designed to help Wargaming's product and balancing teams optimize future Premium ship releases to maximize both long-term player retention and revenue.
 
 ## 🎯 Phase 1: Ask
@@ -60,11 +60,11 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 	1. Removed empty rows at the end of the data.
 	2. Ensured accurate data formatting.
 	3. Sorting `name` alphabetically, I found some ship names inside brackets, which indicates the player did not own the ship, but rather rented it. Because the business task is specifically focused on comparing standard Tech Tree ships to purchasable Premium ships, these temporary rentals were removed.
-	4. Two ships were listed twice ("Schlieffen" & "Vrihheid") with different ship IDs. This was determined to be caused by developers releasing beta versions of the ships to be tested, changing the `ship_id` to release the final version of the ship. I resolved this by searching `wows_player_ship_stats.csv` for the IDs. Only 1 of the "Schlieffen" ships were played, so I deleted the others as they would have been removed when I JOIN the tables later.
+	4. Two ships were listed twice ("Schlieffen" & "Vrijheid") with different ship IDs. This was determined to be caused by developers releasing beta versions of the ships to be tested, changing the `ship_id` to release the final version of the ship. I resolved this by searching `wows_player_ship_stats.csv` for the IDs. Only 1 of the "Schlieffen" ships were played, so I deleted the others as they would have been removed when I JOIN the tables later.
 	5. Added `category` column to indicate ships purchased during a special event or ones offered with special variants.
 * **`wows_player_ship_stats.csv`:**
 	1. Removed empty rows at the end of the data.
-	2. Ensured accurate data formatting
+	2. Ensured accurate data formatting.
 
 ## 💡 Phase 4: Analyze (Key Findings)
 
