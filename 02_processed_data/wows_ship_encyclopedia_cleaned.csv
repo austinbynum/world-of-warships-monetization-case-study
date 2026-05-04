@@ -1,0 +1,952 @@
+name,nation,is_premium,ship_id,tier,type,category
+Aberdeen,uk,TRUE,3540957136,9,Cruiser,Standard
+Acasta,uk,FALSE,4184750032,5,Destroyer,Standard
+Adatara,japan,FALSE,4075763408,9,Battleship,Standard
+Admiraal,netherlands,FALSE,3258890000,8,Cruiser,Standard
+Admiral Graf Spee,germany,TRUE,3764303664,6,Cruiser,Standard
+Admiral Hipper,germany,FALSE,4181636912,8,Cruiser,Standard
+Admiral Makarov,ussr,TRUE,3659445712,6,Cruiser,Standard
+Admiral Nakhimov,ussr,FALSE,4179604944,10,AirCarrier,Standard
+Admiral Orlov,ussr,FALSE,3256858064,10,AirCarrier,Standard
+Admiral Scheer,germany,FALSE,4277057328,7,Cruiser,Standard
+Admiral Schröder,germany,TRUE,3740186416,9,Cruiser,Standard
+Admiral Ushakov,ussr,FALSE,4178523600,11,Battleship,Standard
+Adriatico,italy,FALSE,4180555504,9,Destroyer,Standard
+Affondatore,italy,FALSE,4283381488,11,Battleship,Standard
+Agano,japan,FALSE,4079924944,5,Cruiser,Standard
+Agincourt,uk,TRUE,3765385168,5,Battleship,Standard
+Ägir,germany,TRUE,3750672176,9,Cruiser,Standard
+Aigle,france,TRUE,3764270928,6,Destroyer,Standard
+Akatsuki,japan,FALSE,4182652624,7,Destroyer,Standard
+Aki,japan,FALSE,3539941072,10,Battleship,Standard
+Aki Golden,japan,FALSE,3330225872,10,Battleship,Golden Edition
+Akizuki,japan,FALSE,4181604048,8,Destroyer,Standard
+AL Ägir,germany,TRUE,3352213296,9,Cruiser,Azur Lane
+AL Avrora,ussr,TRUE,3746477520,3,Cruiser,Azur Lane
+AL Azuma,japan,TRUE,3750672080,9,Cruiser,Azur Lane
+AL Bismarck,germany,TRUE,3353294640,8,Battleship,Azur Lane
+AL Cheshire,uk,TRUE,3709777872,8,Cruiser,Azur Lane
+AL Gorizia,italy,TRUE,3354310384,7,Cruiser,Azur Lane
+AL Harbin,pan_asia,TRUE,3332289744,8,Cruiser,Azur Lane
+AL Hindenburg,germany,FALSE,3361650480,10,Cruiser,Azur Lane
+AL Hornet,usa,TRUE,3353327600,8,AirCarrier,Azur Lane
+AL Kearsarge,usa,TRUE,3362732016,9,Battleship,Azur Lane
+AL Littorio,italy,TRUE,3552524016,8,Battleship,Azur Lane
+AL Marco Polo,italy,TRUE,3341760240,9,Battleship,Azur Lane
+AL Massachusetts,usa,TRUE,3332323312,8,Battleship,Azur Lane
+AL Montpelier,usa,TRUE,3542005744,8,Cruiser,Azur Lane
+AL Prinz Heinrich,germany,TRUE,3752802096,7,Battleship,Azur Lane
+AL Richelieu,france,TRUE,3342808912,8,Battleship,Azur Lane
+AL Shimakaze,japan,FALSE,3361617616,10,Destroyer,Azur Lane
+AL Shinano,japan,FALSE,3330258640,10,AirCarrier,Azur Lane
+AL Sov. Rossiya,ussr,TRUE,3551475152,9,Battleship,Azur Lane
+AL Tashkent,ussr,TRUE,3331208656,9,Destroyer,Azur Lane
+AL Yukikaze,japan,TRUE,3541972688,8,Destroyer,Azur Lane
+Alabama,usa,TRUE,3762239472,8,Battleship,Standard
+Alabama B,usa,TRUE,3437180912,8,Battleship,Black Edition
+Alabama ST,usa,TRUE,3552524272,8,Battleship,Standard
+Alabama VL,usa,TRUE,3741267952,8,Battleship,Standard
+Alaska,usa,TRUE,3760109552,9,Cruiser,Standard
+Alaska B,usa,TRUE,3666786288,9,Cruiser,Black Edition
+Albany,usa,TRUE,4291737584,2,Cruiser,Standard
+Albemarle,uk,FALSE,4076779472,8,Cruiser,Standard
+Alberico da Barbiano,italy,FALSE,3550361328,10,Destroyer,Standard
+Alberto di Giussano,italy,FALSE,4185831152,4,Cruiser,Standard
+Alexander Nevsky,ussr,FALSE,4074681808,10,Cruiser,Standard
+Algérie,france,FALSE,4182685520,7,Cruiser,Standard
+Alliance,uk,TRUE,3761682384,8,Submarine,Standard
+Almirante Abreu,pan_america,TRUE,3768497488,2,Cruiser,Standard
+Almirante Barroso,pan_america,FALSE,4187927888,2,Cruiser,Standard
+Almirante Cervera,spain,FALSE,4185830832,4,Cruiser,Standard
+Almirante Cochrane,pan_america,FALSE,4183733584,6,Cruiser,Standard
+Almirante Grau,pan_america,TRUE,3762206032,8,Cruiser,Standard
+Almirante Oquendo,spain,TRUE,3540956592,9,Cruiser,Standard
+Alsace,france,FALSE,4180621136,9,Battleship,Standard
+Álvaro de Bazán,spain,FALSE,3760076208,10,Destroyer,Standard
+Amagi,japan,FALSE,4281284304,8,Battleship,Standard
+Amalfi,italy,FALSE,4181636848,8,Cruiser,Standard
+Amerigo Vespucci,italy,FALSE,3256825584,10,Battleship,Standard
+Amiral Lartigue,france,FALSE,3529422672,10,Cruiser,Standard
+Anchorage,usa,TRUE,3751720944,8,Cruiser,Standard
+Andalucía,spain,FALSE,4180587952,9,Cruiser,Standard
+Andrea Doria,italy,FALSE,4183766768,6,Battleship,Standard
+Anhalt,germany,TRUE,3741267760,8,Battleship,Standard
+Annapolis,usa,FALSE,4178491376,11,Cruiser,Standard
+Anshan,pan_asia,TRUE,3764270288,6,Destroyer,Standard
+Aoba,japan,FALSE,4287542992,6,Cruiser,Standard
+Aquila,italy,TRUE,3762271984,8,AirCarrier,Standard
+Archerfish,usa,FALSE,3549870064,10,Submarine,Standard
+Arizona,usa,TRUE,3764336624,6,Battleship,Standard
+Ark Royal,uk,TRUE,3751786448,6,AirCarrier,Standard
+Arkansas Beta,usa,TRUE,4281284592,4,Battleship,Standard
+Arkhangelsk,ussr,TRUE,3543086544,7,Battleship,Standard
+ARP Ashigara,japan,TRUE,3553539792,7,Cruiser,Arpeggio
+ARP Haguro,japan,TRUE,3551442640,7,Cruiser,Arpeggio
+ARP Haruna,japan,TRUE,3553572560,5,Battleship,Arpeggio
+ARP Hiei,japan,TRUE,3552523984,5,Battleship,Arpeggio
+ARP Kirishima,japan,TRUE,3554621136,5,Battleship,Arpeggio
+ARP Kongō,japan,TRUE,3555669712,5,Battleship,Arpeggio
+ARP Maya,japan,TRUE,3542005456,8,Cruiser,Arpeggio
+ARP Myōkō,japan,TRUE,3555636944,7,Cruiser,Arpeggio
+ARP Nachi,japan,TRUE,3522082512,7,Cruiser,Arpeggio
+ARP Takao,japan,TRUE,3552491216,8,Cruiser,Arpeggio
+ARP Yamato,japan,FALSE,3560912592,10,Battleship,Arpeggio
+Asashio,japan,TRUE,3751687888,8,Destroyer,Standard
+Asashio B,japan,TRUE,3667801808,8,Destroyer,Black Edition
+Ashitaka,japan,TRUE,3763287760,7,Battleship,Standard
+Asturias,spain,FALSE,4182685104,7,Cruiser,Standard
+Atago,japan,TRUE,4255037136,8,Cruiser,Standard
+Atago B,japan,TRUE,3667834576,8,Cruiser,Black Edition
+Atlanta,usa,TRUE,4288591856,7,Cruiser,Standard
+Atlanta B,usa,TRUE,3679369200,7,Cruiser,Black Edition
+Atlântico,pan_america,TRUE,3762238800,8,Battleship,Standard
+Attilio Regolo,italy,FALSE,4179506928,10,Destroyer,Standard
+Auckland,commonwealth,FALSE,4276008304,8,Cruiser,Standard
+Audacious,uk,FALSE,4074747856,10,AirCarrier,Standard
+August von Parseval,germany,FALSE,4181702448,8,AirCarrier,Standard
+Aurora,ussr,TRUE,4293834192,3,Cruiser,Standard
+Austin,usa,FALSE,3445536752,10,Cruiser,Standard
+Aviere,italy,FALSE,4183701232,6,Destroyer,Standard
+Azuma,japan,TRUE,3760109264,9,Cruiser,Standard
+Azuma B,japan,TRUE,3425613520,9,Cruiser,Black Edition
+BA Arona's Whale,japan,FALSE,3434526416,10,Submarine,Blue Archive
+BA Binah,italy,TRUE,3437180656,8,Battleship,Blue Archive
+BA Hovercraft,ussr,TRUE,3436131792,9,Battleship,Blue Archive
+BA Montana,usa,FALSE,3435083760,10,Battleship,Blue Archive
+BA Takahashi,japan,TRUE,3436099280,9,Cruiser,Blue Archive
+BA Tirpitz,germany,TRUE,3437180720,8,Battleship,Blue Archive
+BA Utnapishtim's Ship,france,TRUE,3436099408,9,Cruiser,Blue Archive
+Bagration,ussr,FALSE,3720263120,8,Cruiser,Standard
+Bajie,pan_asia,TRUE,3761190096,9,Battleship,Standard
+Balao,usa,FALSE,4074158064,10,Submarine,Standard
+Balao 2,usa,FALSE,3340154864,10,Submarine,Standard
+Baleares,spain,FALSE,4183733680,6,Cruiser,Standard
+Baltimore,usa,FALSE,4181637104,8,Cruiser,Standard
+Baotou,pan_asia,FALSE,3530470608,9,Cruiser,Standard
+Barfleur,uk,TRUE,3540924368,9,Destroyer,Standard
+Bayard,france,TRUE,3762206544,8,Cruiser,Standard
+Bayern,germany,FALSE,4183766832,6,Battleship,Standard
+Béarn,france,TRUE,3764369232,6,AirCarrier,Standard
+Belfast,uk,TRUE,3763255248,7,Cruiser,Standard
+Belfast '43,uk,TRUE,3741235152,8,Cruiser,Historical Year Variants
+Bellerophon,uk,FALSE,4186912720,3,Battleship,Standard
+Benham,usa,TRUE,3761125360,9,Destroyer,Standard
+Benson,usa,FALSE,4286461936,8,Destroyer,Standard
+Bird Cry,usa,TRUE,3341760496,9,Battleship,Standard
+Bismarck,germany,FALSE,4181669680,8,Battleship,Standard
+Bismarck '41,germany,FALSE,3552524080,8,Battleship,Historical Year Variants
+Black,usa,TRUE,3551410160,9,Destroyer,Standard
+Black B,usa,TRUE,3740153840,9,Destroyer,Black Edition
+Black Swan,uk,FALSE,4188977104,1,Cruiser,Standard
+Blücher,germany,TRUE,3530471216,9,Cruiser,Standard
+Błyskawica,europe,TRUE,3769513264,7,Destroyer,Standard
+Błyskawica '44,europe,TRUE,3552458032,8,Destroyer,Historical Year Variants
+Błyskawica '52,europe,TRUE,3540923696,9,Destroyer,Historical Year Variants
+Bogatyr,ussr,FALSE,4186879440,3,Cruiser,Standard
+Bóinn,uk,TRUE,3553540048,7,Cruiser,Standard
+Boise,usa,TRUE,3668883440,7,Cruiser,Standard
+Borodino,ussr,TRUE,3741267408,8,Battleship,Standard
+Borodino TE,ussr,FALSE,3437180368,8,Battleship,Standard
+Bougainville,france,FALSE,4188976976,1,Cruiser,Standard
+Bourgogne,france,FALSE,3760142160,10,Battleship,Standard
+Bourrasque,france,FALSE,4185798480,4,Destroyer,Standard
+Brandenburg,germany,TRUE,3751753520,8,Battleship,Standard
+Brandenburg B,germany,TRUE,3730782000,8,Battleship,Black Edition
+Bremen,germany,FALSE,3539908400,10,Cruiser,Standard
+Bremen Golden,germany,FALSE,3330193200,10,Cruiser,Golden Edition
+Brennus,france,FALSE,3550394192,10,Cruiser,Standard
+Brest,france,FALSE,4075730768,9,Cruiser,Standard
+Bretagne,france,FALSE,4184815440,5,Battleship,Standard
+Bridgeport,usa,TRUE,3552491504,8,Cruiser,Standard
+Brindisi,italy,FALSE,4180588272,9,Cruiser,Standard
+Brisbane,commonwealth,FALSE,3760108912,10,Cruiser,Standard
+Brisbane B,commonwealth,FALSE,3445536112,10,Cruiser,Black Edition
+Budyonny,ussr,FALSE,4183733712,6,Cruiser,Standard
+Buffalo,usa,FALSE,4180588528,9,Cruiser,Standard
+Bungo,japan,FALSE,4074714832,10,Battleship,Standard
+Burrows,usa,FALSE,4252907504,10,Destroyer,Standard
+Cachalot,usa,FALSE,4078352368,6,Submarine,Standard
+Caledon,uk,FALSE,4186879952,3,Cruiser,Standard
+California,usa,TRUE,3553572848,7,Battleship,Standard
+Calvi,italy,FALSE,4179015408,10,Submarine,Standard
+Cambridge,usa,TRUE,3540957168,9,Cruiser,Standard
+Campbeltown,uk,TRUE,3767416784,3,Destroyer,Standard
+Canarias,spain,TRUE,3764303280,6,Cruiser,Standard
+Caradoc,commonwealth,FALSE,4281251184,3,Cruiser,Standard
+Carnot,france,TRUE,3761157968,9,Cruiser,Standard
+Cassard,france,FALSE,4284364624,10,Destroyer,Standard
+Castilla,spain,FALSE,4179539376,10,Cruiser,Standard
+Cataluña,spain,FALSE,4181636528,8,Cruiser,Standard
+Celebes,netherlands,FALSE,4184782608,5,Cruiser,Standard
+Cerberus,commonwealth,FALSE,4284396912,10,Cruiser,Standard
+Champagne,france,TRUE,3741267792,8,Battleship,Standard
+Chapayev,ussr,FALSE,4181636560,8,Cruiser,Standard
+Charles Martel,france,FALSE,4181636944,8,Cruiser,Standard
+Charleston,usa,TRUE,3767449584,3,Cruiser,Standard
+Châteaurenault,france,FALSE,3550361424,10,Destroyer,Standard
+Chengan,pan_asia,FALSE,4188976336,1,Cruiser,Standard
+Cherbourg,france,FALSE,4076779344,8,Cruiser,Standard
+Cheshire,uk,TRUE,3762206672,8,Cruiser,Standard
+Chester,usa,FALSE,4292786160,2,Cruiser,Standard
+Chikuma,japan,FALSE,4258182864,2,Cruiser,Standard
+Chikuma II,japan,TRUE,3540956880,9,Cruiser,Standard
+Chikuma II Golden,japan,TRUE,3530471120,9,Cruiser,Golden Edition
+Chios,europe,FALSE,4277089584,7,Battleship,Standard
+Chkalov,ussr,TRUE,3762271696,8,AirCarrier,Standard
+Chkalov B,ussr,TRUE,3667899856,8,AirCarrier,Black Edition
+Christopher,usa,FALSE,4253956080,9,Destroyer,Standard
+Chumphon,pan_asia,FALSE,4182684880,7,Cruiser,Standard
+Chung Mu,pan_asia,FALSE,4180554960,9,Destroyer,Standard
+Chungking,pan_asia,FALSE,4184782032,5,Cruiser,Standard
+Clausewitz,germany,FALSE,4178491184,11,Cruiser,Standard
+Clemson,usa,FALSE,4274927600,4,Destroyer,Standard
+Cleveland,usa,FALSE,4076779504,8,Cruiser,Standard
+Colbert,france,FALSE,3760109392,10,Cruiser,Standard
+Collingwood,uk,TRUE,3731830736,7,Battleship,Standard
+Colorado,usa,FALSE,4286527472,7,Battleship,Standard
+Colorado 2,usa,FALSE,3249485808,7,Battleship,Standard
+Colossus,uk,TRUE,3741300688,8,AirCarrier,Standard
+Comandante Aguirre,pan_america,TRUE,3552490832,8,Cruiser,Standard
+Comodoro,pan_america,FALSE,3256825168,10,Battleship,Standard
+Condé,france,FALSE,4178491216,11,Cruiser,Standard
+Congress,usa,TRUE,3741235184,8,Cruiser,Standard
+Conqueror,uk,FALSE,4179572688,10,Battleship,Standard
+Constellation,usa,TRUE,3730782192,8,Battleship,Standard
+Conte di Cavour,italy,FALSE,4184815344,5,Battleship,Standard
+Córdoba,pan_america,FALSE,4185830736,4,Cruiser,Standard
+Coronel Bolognesi,pan_america,FALSE,4182685008,7,Cruiser,Standard
+Cossack,uk,TRUE,3752736720,8,Destroyer,Standard
+Cossack B,uk,TRUE,3667802064,8,Destroyer,Black Edition
+Courbet,france,FALSE,4185864016,4,Battleship,Standard
+Cristoforo Colombo,italy,FALSE,4179572464,10,Battleship,Standard
+Cross of Dorn,germany,TRUE,3542005552,8,Cruiser,Standard
+Cumberland,uk,FALSE,3445569488,10,Battleship,Standard
+Cursed Fang,uk,TRUE,3341727696,9,Cruiser,Standard
+Curtatone,italy,FALSE,4187895536,2,Destroyer,Standard
+Daisen,japan,TRUE,3729733328,9,Battleship,Standard
+Dalarna,europe,FALSE,4178457904,11,Destroyer,Standard
+Dalian,pan_asia,TRUE,3761157328,9,Cruiser,Standard
+Dallas,usa,FALSE,4078876656,6,Cruiser,Standard
+Danae,uk,FALSE,4185831376,4,Cruiser,Standard
+Dante Alighieri,italy,FALSE,4185863920,4,Battleship,Standard
+Danu,uk,TRUE,3511629776,7,Battleship,Standard
+Daring,uk,FALSE,4179507152,10,Destroyer,Standard
+Dark Corsair,france,FALSE,3341760336,9,Battleship,Standard
+DD 214,usa,TRUE,3556653040,4,Destroyer,Standard
+De Grasse,france,TRUE,3764303696,6,Cruiser,Standard
+De Ruyter,netherlands,FALSE,4185831184,4,Cruiser,Standard
+De Zeven Provinciën,netherlands,TRUE,3762206480,8,Cruiser,Standard
+Defence,uk,FALSE,3445536720,10,Cruiser,Standard
+Delaware,usa,FALSE,4075763696,9,Battleship,Standard
+Delhi,commonwealth,FALSE,4279154032,5,Cruiser,Standard
+Delny,ussr,FALSE,3864933840,10,Destroyer,Standard
+Derfflinger,germany,FALSE,4079957808,5,Battleship,Standard
+Derzki,ussr,FALSE,4186846672,3,Destroyer,Standard
+Des Moines,usa,FALSE,4273911792,10,Cruiser,Standard
+Desert Falcon,japan,TRUE,3345921744,5,Cruiser,Standard
+Deutschland,germany,FALSE,4278105904,6,Cruiser,Standard
+Devastation,uk,FALSE,4178524112,11,Battleship,Standard
+Devonshire,uk,FALSE,4078876624,6,Cruiser,Standard
+Diana,ussr,TRUE,4292785616,2,Cruiser,Standard
+Diana Lima,ussr,TRUE,4284397008,2,Cruiser,Special Distribution Variants
+Dido,uk,TRUE,3743332304,6,Cruiser,Standard
+Dmitri Donskoi,ussr,FALSE,4180587984,9,Cruiser,Standard
+Dmitry Pozharsky,ussr,TRUE,3709777360,8,Cruiser,Standard
+Drake,uk,FALSE,4075730896,9,Cruiser,Standard
+Dreadnought,uk,TRUE,3767482320,3,Battleship,Standard
+Dresden,germany,FALSE,4292785968,2,Cruiser,Standard
+Druid,uk,FALSE,3760076752,10,Destroyer,Standard
+Duca d'Aosta,italy,TRUE,3764303600,6,Cruiser,Standard
+Duca degli Abruzzi,italy,TRUE,3763255024,7,Cruiser,Standard
+Duchaffault,france,FALSE,4278073168,6,Destroyer,Standard
+Duguay-Trouin,france,FALSE,4185831248,4,Cruiser,Standard
+Duke of York,uk,TRUE,3742316496,7,Battleship,Standard
+Duncan,uk,FALSE,4075763664,9,Battleship,Standard
+Dunedin,commonwealth,FALSE,4280202608,4,Cruiser,Standard
+Dunkerque,france,TRUE,3764336464,6,Battleship,Standard
+Dunkerque B,france,TRUE,3669964624,6,Battleship,Black Edition
+Dupleix,france,TRUE,3753817936,6,Cruiser,Standard
+Eagle,uk,FALSE,4178556880,11,AirCarrier,Standard
+Eastern Dragon,japan,TRUE,3532568272,7,Cruiser,Standard
+Edgar,uk,FALSE,4178491344,11,Cruiser,Standard
+Edinburgh,uk,FALSE,4181637072,8,Cruiser,Standard
+Eendracht,netherlands,FALSE,4182685456,7,Cruiser,Standard
+Elbing,germany,FALSE,4074649392,10,Destroyer,Standard
+Elli,europe,TRUE,3764303152,6,Cruiser,Standard
+Emden,germany,TRUE,3768497968,2,Cruiser,Standard
+Emerald,uk,FALSE,4184782800,5,Cruiser,Standard
+Émile Bertin,france,FALSE,4184782672,5,Cruiser,Standard
+Encounter,commonwealth,FALSE,4274959728,9,Cruiser,Standard
+Enigheten,europe,FALSE,4276041008,8,Battleship,Standard
+Enseigne Gabolde,france,FALSE,4187895632,2,Destroyer,Standard
+Enterprise,usa,TRUE,3751786480,8,AirCarrier,Standard
+Erich Loewenhardt,germany,TRUE,3764369200,6,AirCarrier,Standard
+Erie,usa,FALSE,4293834736,1,Cruiser,Standard
+Eritrea,italy,FALSE,4188976880,1,Cruiser,Standard
+Érne,uk,TRUE,3542005712,8,Cruiser,Standard
+Ernst Gaede,germany,FALSE,4183701296,6,Destroyer,Standard
+Eskimo,uk,TRUE,3541972944,8,Destroyer,Standard
+Essex,usa,FALSE,4273977328,10,AirCarrier,Standard
+Exeter,uk,TRUE,3765352400,5,Cruiser,Standard
+Farragut,usa,FALSE,4289607664,6,Destroyer,Standard
+Fearmaw,uk,FALSE,3330193360,10,Cruiser,Standard
+Felix Schultz,germany,FALSE,4075697968,9,Destroyer,Standard
+Fenyang,pan_asia,TRUE,3751687376,8,Destroyer,Standard
+Ferrante Gonzaga,italy,TRUE,3540956912,9,Cruiser,Standard
+Fiji,uk,FALSE,4182685648,7,Cruiser,Standard
+Fiume,italy,TRUE,3543054064,7,Cruiser,Standard
+Flandre,france,TRUE,3730782032,8,Battleship,Standard
+Fletcher,usa,FALSE,4272830448,9,Destroyer,Standard
+Flint,usa,TRUE,3553540080,7,Cruiser,Standard
+Florida,usa,TRUE,3752802288,7,Battleship,Standard
+Foca,italy,FALSE,4183209712,6,Submarine,Standard
+Forrest Sherman,usa,FALSE,3655219184,10,Destroyer,Standard
+Fort Worth,usa,FALSE,3530471408,9,Cruiser,Standard
+FR25,italy,TRUE,3763222256,7,Destroyer,Standard
+Francesco Caracciolo,italy,FALSE,4182718192,7,Battleship,Standard
+Francesco Ferruccio,italy,TRUE,3752769264,7,Cruiser,Standard
+Frank Friday,usa,FALSE,3352180720,9,Destroyer,Standard
+Franklin D. Roosevelt,usa,FALSE,3760175088,10,AirCarrier,Standard
+Friant,france,FALSE,4186879824,3,Cruiser,Standard
+Friedrich der Grosse,germany,FALSE,4180621104,9,Battleship,Standard
+Friesland,europe,TRUE,3760076080,9,Destroyer,Standard
+Fubuki,japan,FALSE,4183701200,6,Destroyer,Standard
+Fūjin,japan,TRUE,4277024464,5,Destroyer,Standard
+Furious,uk,FALSE,4183799760,6,AirCarrier,Standard
+Furutaka,japan,FALSE,4289640144,5,Cruiser,Standard
+Fushun,pan_asia,FALSE,4183700688,6,Destroyer,Standard
+Fusilier,france,FALSE,4186847056,3,Destroyer,Standard
+Fusō,japan,FALSE,4288624336,6,Battleship,Standard
+G-101,germany,FALSE,4186847024,3,Destroyer,Standard
+Gadjah Mada,pan_asia,FALSE,4182652112,7,Destroyer,Standard
+Galicia,spain,FALSE,4184782256,5,Cruiser,Standard
+Gallant,uk,TRUE,3764271056,6,Destroyer,Standard
+Gambia,commonwealth,TRUE,3543053680,7,Cruiser,Standard
+Gangut,ussr,FALSE,4185863632,4,Battleship,Standard
+Gascogne,france,TRUE,3762239312,8,Battleship,Standard
+Gato,usa,FALSE,3759585264,10,Submarine,Standard
+Gdańsk,europe,FALSE,4074648880,10,Destroyer,Standard
+Gearing,usa,FALSE,4281219056,10,Destroyer,Standard
+Gelderland,netherlands,FALSE,4187928336,2,Cruiser,Standard
+Genova,italy,TRUE,3765352176,5,Cruiser,Standard
+Georg Hoffmann,germany,FALSE,3550361392,10,Destroyer,Standard
+Georg Hoffmann Golden,germany,FALSE,3539875632,10,Destroyer,Golden Edition
+Georgia,usa,TRUE,3530504176,9,Battleship,Standard
+Gibraltar,uk,FALSE,3655251920,10,Cruiser,Standard
+Giulio Cesare,italy,TRUE,3765384944,5,Battleship,Standard
+Giuseppe Verdi,italy,TRUE,3750704880,9,Battleship,Standard
+Gneisenau,germany,FALSE,4182718256,7,Battleship,Standard
+Gnevny,ussr,FALSE,4078843344,6,Destroyer,Standard
+Gokase,japan,FALSE,4078876368,6,Cruiser,Standard
+Goliath,uk,FALSE,4074682320,10,Cruiser,Standard
+Gorizia,italy,TRUE,3658397424,7,Cruiser,Standard
+Gouden Leeuw,netherlands,FALSE,4179539728,10,Cruiser,Standard
+GQ Johnny,usa,TRUE,3436066800,9,Destroyer,Standard
+Graf Zeppelin,germany,TRUE,3751786288,8,AirCarrier,Standard
+Graf Zeppelin B,germany,TRUE,3667900208,8,AirCarrier,Black Edition
+Gremyashchy,ussr,TRUE,4293801424,5,Destroyer,Standard
+Grom,europe,FALSE,4077794608,7,Destroyer,Standard
+Groningen,netherlands,TRUE,3761125136,9,Destroyer,Standard
+Grosser Kurfürst,germany,FALSE,4179572528,10,Battleship,Standard
+Grozovoi,ussr,FALSE,4074649040,10,Destroyer,Standard
+Gryf,europe,FALSE,4188976432,1,Cruiser,Standard
+Guépard,france,FALSE,4183701328,6,Destroyer,Standard
+Gustav den Store,europe,FALSE,4274992432,9,Battleship,Standard
+Gustav-Julius Maerker,germany,FALSE,4076746544,8,Destroyer,Standard
+Haarlem,netherlands,FALSE,4181636880,8,Cruiser,Standard
+Haida,commonwealth,TRUE,3763221872,7,Destroyer,Standard
+Hakuryū,japan,FALSE,4179605200,10,AirCarrier,Standard
+Halford,usa,TRUE,3750639600,9,Destroyer,Standard
+Halland,europe,FALSE,4179506480,10,Destroyer,Standard
+Hampshire,uk,TRUE,3730749392,8,Cruiser,Standard
+Hannover,germany,FALSE,4178523952,11,Battleship,Standard
+Harbin,pan_asia,FALSE,4181636304,8,Cruiser,Standard
+Harugumo,japan,FALSE,4074649296,10,Destroyer,Standard
+Hashidate,japan,FALSE,4256085712,1,Cruiser,Standard
+Hatsuharu,japan,FALSE,4078843600,6,Destroyer,Standard
+Hawaii,usa,FALSE,3539908592,10,Cruiser,Standard
+Hawaii Golden,usa,FALSE,3330193392,10,Cruiser,Golden Edition
+Hawke,uk,FALSE,4076812240,8,Battleship,Standard
+Hawkins,uk,FALSE,4079925200,5,Cruiser,Standard
+Hayate,japan,FALSE,3760076496,10,Destroyer,Standard
+Hector,commonwealth,TRUE,3761157488,9,Cruiser,Standard
+Helena,usa,FALSE,4077828080,7,Cruiser,Standard
+Henri IV,france,FALSE,4179539792,10,Cruiser,Standard
+Hércules,pan_america,FALSE,4188976464,1,Cruiser,Standard
+Hermelin,germany,FALSE,4293834544,1,Cruiser,Standard
+Hermes,uk,FALSE,4081039312,4,AirCarrier,Standard
+Hildebrand,germany,FALSE,3550394160,10,Cruiser,Standard
+Hill,usa,TRUE,3765319664,5,Destroyer,Standard
+Hindenburg,germany,FALSE,4179539760,10,Cruiser,Standard
+Hizen,japan,TRUE,3750704848,9,Battleship,Standard
+Hobart,commonwealth,FALSE,4278105456,6,Cruiser,Standard
+Hoche,france,TRUE,3541972816,8,Destroyer,Standard
+Hood,uk,TRUE,3763288016,7,Battleship,Standard
+Hornet,usa,TRUE,3730814960,8,AirCarrier,Standard
+Hōshō,japan,FALSE,4185896656,4,AirCarrier,Standard
+Hotaka,japan,FALSE,3540989648,9,Battleship,Standard
+HSF Admiral Graf Spee,germany,TRUE,3554588464,6,Cruiser,High School Fleet
+HSF Harekaze,japan,TRUE,3552458448,8,Destroyer,High School Fleet
+HSF Harekaze II,japan,TRUE,3741202128,8,Destroyer,High School Fleet
+HSF Hiei,japan,TRUE,3545183952,5,Battleship,High School Fleet
+Hsienyang,pan_asia,FALSE,4181603536,8,Destroyer,Standard
+Huanghe,pan_asia,TRUE,3764303056,6,Cruiser,Standard
+Hughes,usa,FALSE,4256053232,7,Destroyer,Standard
+Hull,usa,FALSE,3539875824,10,Destroyer,Standard
+Huron,commonwealth,TRUE,3752736112,7,Destroyer,Standard
+Hyūga,japan,TRUE,3752802000,7,Battleship,Standard
+I-56,japan,TRUE,3751196368,8,Submarine,Standard
+I-56 '44,japan,FALSE,3539384016,10,Submarine,Historical Year Variants
+Ibuki,japan,FALSE,4282300112,9,Cruiser,Standard
+Icarus,uk,FALSE,4183701456,6,Destroyer,Standard
+Ignacio Allende,pan_america,FALSE,4181636432,8,Cruiser,Standard
+Ignis Purgatio,japan,TRUE,3374266064,8,Battleship,Standard
+Illinois,usa,TRUE,3729733616,9,Battleship,Standard
+Imperator Nikolai I,ussr,TRUE,4293866960,4,Battleship,Standard
+Implacable,uk,FALSE,4181702608,8,AirCarrier,Standard
+Incheon,pan_asia,FALSE,3550393552,10,Cruiser,Standard
+Incomparable,uk,FALSE,3655284688,10,Battleship,Standard
+Indefatigable,uk,FALSE,4082055120,3,Battleship,Standard
+Independence,usa,FALSE,4267685872,6,AirCarrier,Standard
+Independencia,pan_america,FALSE,3550459216,10,AirCarrier,Standard
+Indiana,usa,TRUE,3540989936,9,Battleship,Standard
+Indianapolis,usa,TRUE,3763255280,7,Cruiser,Standard
+Indomitable,uk,TRUE,3762272208,8,AirCarrier,Standard
+Iowa,usa,FALSE,4276041712,9,Battleship,Standard
+Iowa 2,usa,FALSE,3331274736,9,Battleship,Standard
+Ipiranga,pan_america,FALSE,4276041040,8,Battleship,Standard
+Irian,pan_asia,TRUE,3762205904,8,Cruiser,Standard
+Iron Duke,uk,FALSE,4184815568,5,Battleship,Standard
+Irresistible,commonwealth,FALSE,3550426480,10,Battleship,Standard
+Ise,japan,TRUE,3743364816,6,Battleship,Standard
+Ishizuchi,japan,TRUE,4286527184,4,Battleship,Standard
+Isokaze,japan,FALSE,4291704528,4,Destroyer,Standard
+Iwaki Alpha,japan,TRUE,4267620048,4,Cruiser,Standard
+Iwami,japan,TRUE,3740219088,9,Battleship,Standard
+Iwami B,japan,TRUE,3708761808,9,Battleship,Black Edition
+Izmail,ussr,FALSE,4183766480,6,Battleship,Standard
+Izumo,japan,FALSE,4272895696,9,Battleship,Standard
+Izyaslav,ussr,FALSE,4185798096,4,Destroyer,Standard
+Jaarsveld,netherlands,FALSE,4276008720,8,Cruiser,Standard
+Jacksonville,usa,FALSE,4283348976,11,Cruiser,Standard
+Jäger,europe,TRUE,3750638896,9,Destroyer,Standard
+Jaguar,france,FALSE,4184749904,5,Destroyer,Standard
+Java,netherlands,FALSE,4186879760,3,Cruiser,Standard
+Jean Bart,france,TRUE,3751753552,9,Battleship,Standard
+Jean Bart B,france,TRUE,3666818896,9,Battleship,Black Edition
+Jervis,uk,FALSE,4182652880,7,Destroyer,Standard
+Jianwei,pan_asia,FALSE,4184749264,5,Destroyer,Standard
+Jinan,pan_asia,FALSE,4179539152,10,Cruiser,Standard
+Johan de Witt,netherlands,FALSE,4180588304,9,Cruiser,Standard
+Johnston,usa,TRUE,3540924400,9,Destroyer,Standard
+Joshua Humphreys,usa,FALSE,4178458608,11,Destroyer,Standard
+Júpiter,spain,FALSE,4188976560,1,Cruiser,Standard
+Jupiter '42,uk,TRUE,3543021520,7,Destroyer,Standard
+Jurien de la Gravière,france,FALSE,4187928400,2,Cruiser,Standard
+Juruá,pan_america,TRUE,3764270416,6,Destroyer,Standard
+Jutland,uk,FALSE,4180555728,9,Destroyer,Standard
+K-1,ussr,FALSE,4179015120,10,Submarine,Standard
+Kaga,japan,TRUE,3751786192,8,AirCarrier,Standard
+Kaga B,japan,TRUE,3667900112,8,AirCarrier,Black Edition
+Kagerō,japan,FALSE,4076746448,8,Destroyer,Standard
+Kaiser,germany,FALSE,4185863984,4,Battleship,Standard
+Kalmar,europe,TRUE,3555603760,5,Destroyer,Standard
+Kamikaze,japan,TRUE,4268635856,5,Destroyer,Standard
+Kamikaze R,japan,TRUE,4267587280,5,Destroyer,Standard
+Kansas,usa,FALSE,4181669872,8,Battleship,Standard
+Karl von Schönberg,germany,TRUE,3753785136,6,Destroyer,Standard
+Karl XIV Johan,europe,TRUE,3761190192,9,Battleship,Standard
+Karl XIV Johan B,europe,TRUE,3341759792,9,Battleship,Black Edition
+Karlsruhe,germany,FALSE,4185831216,4,Cruiser,Standard
+Katori,japan,TRUE,3767449296,3,Cruiser,Standard
+Kawachi,japan,FALSE,4293867216,3,Battleship,Standard
+Kearsarge,usa,TRUE,3750705136,9,Battleship,Standard
+Kearsarge B,usa,TRUE,3666819056,9,Battleship,Black Edition
+Khabarovsk,ussr,FALSE,4179506640,10,Destroyer,Standard
+Kheper,usa,TRUE,3342809072,8,Battleship,Standard
+Kiberpankov,ussr,TRUE,3437147600,8,Cruiser,Standard
+Kidd,usa,TRUE,3762173936,8,Destroyer,Standard
+Kiev,ussr,FALSE,3971888592,8,Destroyer,Standard
+Kii,japan,TRUE,3762239184,8,Battleship,Standard
+Kijkduin,netherlands,FALSE,4183734032,6,Cruiser,Standard
+King George V,uk,FALSE,4182718416,7,Battleship,Standard
+Kirov,ussr,TRUE,3744380368,5,Cruiser,Standard
+Kitakami,japan,FALSE,3655251664,10,Cruiser,Standard
+Kitakaze,japan,FALSE,4065212112,9,Destroyer,Standard
+Klas Horn,europe,FALSE,4185797936,4,Destroyer,Standard
+Kléber,france,FALSE,4179507024,10,Destroyer,Standard
+Kléber CLR,france,FALSE,3445503824,10,Destroyer,Color Variants
+Kléber TE,france,FALSE,3435018064,10,Destroyer,Standard
+Knesebeck,germany,FALSE,4276008752,8,Cruiser,Standard
+Knyaz Suvorov,ussr,FALSE,4186912208,3,Battleship,Standard
+Kolberg,germany,FALSE,4186879792,3,Cruiser,Standard
+Komissar,ussr,FALSE,3445536208,10,Cruiser,Standard
+Komsomolets,ussr,FALSE,4185896400,4,AirCarrier,Standard
+Kongō,japan,FALSE,4287575760,5,Battleship,Standard
+König,germany,FALSE,4184815408,5,Battleship,Standard
+König Albert,germany,TRUE,3767482160,3,Battleship,Standard
+Königsberg,germany,FALSE,4184782640,5,Cruiser,Standard
+Kotovsky,ussr,FALSE,4069438928,5,Cruiser,Standard
+Kozma Minin,ussr,TRUE,3540956624,9,Cruiser,Standard
+Krasny Krym,ussr,TRUE,3765351888,5,Cruiser,Standard
+Kremlin,ussr,FALSE,4179572176,10,Battleship,Standard
+Kronshtadt,ussr,TRUE,3761157584,9,Cruiser,Standard
+Kuma,japan,FALSE,4281251536,4,Cruiser,Standard
+Kunming,pan_asia,FALSE,4178457808,11,Destroyer,Standard
+Kushiro,japan,FALSE,3539908304,10,Cruiser,Standard
+L-20,ussr,FALSE,4181112272,8,Submarine,Standard
+L'Adroit,france,FALSE,4279121744,5,Destroyer,Standard
+L'Aventurier,france,FALSE,4275976016,8,Destroyer,Standard
+La Argentina,pan_america,FALSE,4184782160,5,Cruiser,Standard
+La Galissonnière,france,FALSE,4183734096,6,Cruiser,Standard
+La Pampa,pan_america,FALSE,3550360912,10,Destroyer,Standard
+Laffey,usa,FALSE,3550361584,10,Destroyer,Standard
+Lambros Katsonis,europe,FALSE,4075697456,9,Destroyer,Standard
+Langley,usa,FALSE,4185896944,4,AirCarrier,Standard
+Lanzhou,pan_asia,TRUE,3543053520,7,Cruiser,Standard
+Laudon,europe,FALSE,4278138160,6,Battleship,Standard
+Lazo,ussr,TRUE,3751720400,7,Cruiser,Standard
+Lazo B,ussr,TRUE,3699291600,7,Cruiser,Black Edition
+Le Fantasque,france,FALSE,4181604176,8,Destroyer,Standard
+Le Hardi,france,FALSE,4277024592,7,Destroyer,Standard
+Le Havre,france,TRUE,3540957008,9,Cruiser,Standard
+Le Terrible,france,TRUE,3762173776,8,Destroyer,Standard
+Leander,uk,FALSE,4183734224,6,Cruiser,Standard
+Leberecht Maass,germany,FALSE,4182652720,7,Destroyer,Standard
+Leipzig,germany,TRUE,3753817904,6,Cruiser,Standard
+Lenin,ussr,TRUE,3751753168,8,Battleship,Standard
+Leningrad,ussr,TRUE,3763221968,7,Destroyer,Standard
+Leone,italy,TRUE,3764270832,6,Destroyer,Standard
+Lepanto,italy,FALSE,4180621040,9,Battleship,Standard
+Lexington,usa,FALSE,4181702640,8,AirCarrier,Standard
+Libertad,pan_america,FALSE,4284429648,10,Battleship,Standard
+Lightning,uk,FALSE,4181604304,8,Destroyer,Standard
+Lion,uk,FALSE,4180621264,9,Battleship,Standard
+London,uk,TRUE,3753818064,6,Cruiser,Standard
+Longjiang,pan_asia,FALSE,4187894992,2,Destroyer,Standard
+Los Andes,pan_america,FALSE,4274992464,9,Battleship,Standard
+Louchuan,pan_asia,TRUE,3729732816,9,Battleship,Standard
+Louisiana,usa,FALSE,4074715120,10,Battleship,Standard
+Loyang,pan_asia,TRUE,3762173136,8,Destroyer,Standard
+Loyang B,pan_asia,TRUE,3667801296,8,Destroyer,Black Edition
+Lübeck,germany,FALSE,3256760112,10,Destroyer,Standard
+Luca Tarigo,italy,FALSE,4182652656,7,Destroyer,Standard
+Lugdunum,europe,TRUE,3553572144,7,Battleship,Standard
+Lüshun,pan_asia,FALSE,3760075984,10,Destroyer,Standard
+Lüshun B,pan_asia,FALSE,3340645584,10,Destroyer,Black Edition
+Lyon,france,FALSE,4182718288,7,Battleship,Standard
+Mackensen,germany,FALSE,4078909232,6,Battleship,Standard
+Maestrale,italy,FALSE,4184749808,5,Destroyer,Standard
+Mahan,usa,FALSE,4288559088,7,Destroyer,Standard
+Mahtaga,ussr,TRUE,3341759952,9,Battleship,Standard
+Maine,usa,FALSE,4178524144,11,Battleship,Standard
+Mainz,germany,TRUE,3751720752,8,Cruiser,Standard
+Mainz B,germany,TRUE,3667834672,8,Cruiser,Black Edition
+Malta,uk,FALSE,3760175056,10,AirCarrier,Standard
+Manfred von Richthofen,germany,FALSE,4179605296,10,AirCarrier,Standard
+Manteuffel,germany,FALSE,4274960176,9,Cruiser,Standard
+Marblehead,usa,TRUE,4248745968,5,Cruiser,Standard
+Marblehead Lima,usa,TRUE,4247697392,5,Cruiser,Special Distribution Variants
+Marcantonio Colonna,italy,TRUE,3542038256,8,Battleship,Standard
+Marceau,france,FALSE,4074649424,10,Destroyer,Standard
+Marco Polo,italy,TRUE,3761190640,9,Battleship,Standard
+Marlborough,uk,TRUE,3761190864,9,Battleship,Standard
+Marseille,france,FALSE,4074682192,10,Cruiser,Standard
+Massachusetts,usa,TRUE,3751753712,8,Battleship,Standard
+Massachusetts B,usa,TRUE,3667867632,8,Battleship,Black Edition
+Max Immelmann,germany,FALSE,3655317296,10,AirCarrier,Standard
+Maya,japan,TRUE,3752769232,7,Cruiser,Standard
+Mecklenburg,germany,FALSE,3655284528,10,Battleship,Standard
+Medea,uk,FALSE,4187895760,2,Destroyer,Standard
+Méndez Núñez,spain,FALSE,4187927984,2,Cruiser,Standard
+Mengchong,pan_asia,TRUE,3740185808,9,Cruiser,Standard
+Menno van Coehoorn,netherlands,FALSE,4274960144,9,Cruiser,Standard
+Messina,italy,TRUE,3530471152,9,Cruiser,Standard
+Metz,france,FALSE,3552491344,8,Cruiser,Standard
+Michelangelo,italy,TRUE,3750672112,9,Cruiser,Standard
+Midway,usa,FALSE,4179605488,10,AirCarrier,Standard
+Mikasa,japan,TRUE,4283381456,2,Battleship,Standard
+Mikhail Kutuzov,ussr,TRUE,3762206160,8,Cruiser,Standard
+Mikoyan,ussr,TRUE,3754866128,5,Cruiser,Standard
+Minegumo,japan,TRUE,3540924112,9,Destroyer,Standard
+Minekaze,japan,FALSE,4290655952,5,Destroyer,Standard
+Minnesota,usa,FALSE,4180621296,9,Battleship,Standard
+Minotaur,uk,FALSE,4179539920,10,Cruiser,Standard
+Minsk,ussr,FALSE,4077794768,7,Destroyer,Standard
+Mirage,italy,FALSE,3342776048,8,Cruiser,Standard
+Missouri,usa,TRUE,3761190896,9,Battleship,Standard
+Mogador,france,FALSE,4180555600,9,Destroyer,Standard
+Mogami,japan,FALSE,4285445840,8,Cruiser,Standard
+Molotov,ussr,TRUE,3764303312,6,Cruiser,Standard
+Moltke,germany,FALSE,4081006384,4,Battleship,Standard
+Monaghan,usa,TRUE,3764271088,6,Destroyer,Standard
+Monarch,uk,FALSE,4181669840,8,Battleship,Standard
+Monmouth,uk,FALSE,4273911760,10,Cruiser,Standard
+Montana,usa,FALSE,4277090288,10,Battleship,Standard
+Montana 2,usa,FALSE,3330226160,10,Battleship,Standard
+Montcalm,france,TRUE,3544102736,6,Cruiser,Standard
+Moskva,ussr,FALSE,4179539408,10,Cruiser,Standard
+Muavenet,europe,FALSE,4079891760,5,Destroyer,Standard
+München,germany,TRUE,3763255088,7,Cruiser,Standard
+München B,germany,TRUE,3438196528,7,Cruiser,Black Edition
+Murmansk,ussr,TRUE,4291737040,5,Cruiser,Standard
+Musashi,japan,TRUE,3761190608,9,Battleship,Standard
+Mutsu,japan,TRUE,3764336336,6,Battleship,Standard
+Mutsuki,japan,FALSE,4184749776,5,Destroyer,Standard
+Myōgi,japan,FALSE,4291770064,4,Battleship,Standard
+Myōkō,japan,FALSE,4286494416,7,Cruiser,Standard
+Mysore,commonwealth,TRUE,3753817456,6,Cruiser,Standard
+Nagato,japan,FALSE,4284430032,7,Battleship,Standard
+Nanning,pan_asia,TRUE,3540923600,9,Destroyer,Standard
+Napoli,italy,FALSE,3760109296,10,Cruiser,Standard
+Napoli B,italy,FALSE,3676223216,10,Cruiser,Black Edition
+Narai,pan_asia,TRUE,3542004944,8,Cruiser,Standard
+Nassau,germany,FALSE,4186912560,3,Battleship,Standard
+Navarin,ussr,TRUE,3761190352,9,Battleship,Standard
+Navarra,spain,FALSE,4186879408,3,Cruiser,Standard
+Nazario Sauro,italy,FALSE,4186846960,3,Destroyer,Standard
+Nebraska,usa,FALSE,4076812272,8,Battleship,Standard
+Nelson,uk,TRUE,3752802256,7,Battleship,Standard
+Neptune,uk,FALSE,4180588496,9,Cruiser,Standard
+Neustrashimy,ussr,TRUE,3551409616,9,Destroyer,Standard
+Neustrashimy B,ussr,TRUE,3341694416,9,Destroyer,Black Edition
+New Mexico,usa,FALSE,4259264496,6,Battleship,Standard
+New Orleans,usa,FALSE,4182685680,7,Cruiser,Standard
+New York,usa,FALSE,4288624624,5,Battleship,Standard
+Nicholas,usa,FALSE,4280170480,5,Destroyer,Standard
+Ning Hai,pan_asia,TRUE,3767448784,3,Cruiser,Standard
+Nino Bixio,italy,FALSE,4187928304,2,Cruiser,Standard
+Niord,europe,TRUE,3540989232,9,Battleship,Standard
+Normandie,france,FALSE,4183766864,6,Battleship,Standard
+North Carolina,usa,FALSE,4282333168,8,Battleship,Standard
+North Carolina 2,usa,FALSE,3248437232,8,Battleship,Standard
+North Carolina CLR,usa,TRUE,3447666672,8,Battleship,Color Variants
+Nottingham,uk,TRUE,3720263632,8,Cruiser,Standard
+Novik,ussr,FALSE,4187928016,2,Cruiser,Standard
+Novorossiysk,ussr,TRUE,3753850320,6,Battleship,Standard
+Novosibirsk,ussr,FALSE,4178490832,11,Cruiser,Standard
+Nueve de Julio,pan_america,TRUE,3763254608,7,Cruiser,Standard
+Numancia,spain,TRUE,3762206128,8,Cruiser,Standard
+Nürnberg,germany,FALSE,4183734064,6,Cruiser,Standard
+Nürnberg '44,germany,TRUE,3543054128,7,Cruiser,Historical Year Variants
+Ocean,uk,FALSE,3550459856,10,AirCarrier,Standard
+Ochakov,ussr,TRUE,3741234640,8,Cruiser,Standard
+Odin,germany,TRUE,3762239280,8,Battleship,Standard
+Odin TE,germany,FALSE,3426694960,8,Battleship,Standard
+Ognevoi,ussr,FALSE,4076746192,8,Destroyer,Standard
+Ohio,usa,FALSE,3760142320,10,Battleship,Standard
+Okhotnik,ussr,TRUE,3765319120,5,Destroyer,Standard
+Oklahoma,usa,TRUE,3765385200,5,Battleship,Standard
+Oktyabrskaya Revolutsiya,ussr,TRUE,3765384656,5,Battleship,Standard
+Öland,europe,FALSE,4181603632,8,Destroyer,Standard
+Oleg,ussr,TRUE,3767449040,3,Cruiser,Standard
+Omaha,usa,FALSE,4289640432,5,Cruiser,Standard
+Omono,japan,FALSE,4077827792,7,Cruiser,Standard
+Optio,italy,TRUE,3553539824,7,Cruiser,Standard
+Orage,france,FALSE,4274927440,9,Destroyer,Standard
+Oregon,usa,FALSE,3550427120,10,Battleship,Standard
+Orion,uk,FALSE,4185864144,4,Battleship,Standard
+Orion '44,uk,TRUE,3544102864,6,Cruiser,Historical Year Variants
+Orkan,europe,TRUE,3762173232,8,Destroyer,Standard
+Orlan,ussr,FALSE,4188976592,1,Cruiser,Standard
+Osborne,usa,FALSE,4255004656,8,Destroyer,Standard
+Östergötland,europe,FALSE,4180555056,9,Destroyer,Standard
+Otto Lilienthal,germany,FALSE,3256858416,10,AirCarrier,Standard
+Oväsen,europe,FALSE,3330159920,10,Destroyer,Standard
+Paolo Emilio,italy,TRUE,3761125104,9,Destroyer,Standard
+Patrie,france,FALSE,4178523984,11,Battleship,Standard
+Pensacola,usa,FALSE,4183734256,6,Cruiser,Standard
+Perth,commonwealth,TRUE,3764303216,6,Cruiser,Standard
+Petropavlovsk,ussr,FALSE,3969824208,10,Cruiser,Standard
+Petrozavodsk,ussr,FALSE,3256792528,10,Cruiser,Standard
+Phoenix,usa,FALSE,4269717488,4,Cruiser,Standard
+Phra Ruang,pan_asia,FALSE,4186846416,3,Destroyer,Standard
+Picardie,france,TRUE,3720296272,8,Battleship,Standard
+Piemonte,italy,FALSE,4178491120,11,Cruiser,Standard
+Pietro Micca,italy,FALSE,4181112560,8,Submarine,Standard
+Pilus Posterior,italy,TRUE,3540989680,9,Battleship,Standard
+Pilus Prior,italy,TRUE,3551475440,9,Battleship,Standard
+Piñatapolis,usa,FALSE,3330258928,10,AirCarrier,Standard
+Piñatian,pan_asia,TRUE,3342775504,8,Cruiser,Standard
+Pioneer,commonwealth,FALSE,3550393712,10,Cruiser,Standard
+Plymouth,uk,FALSE,3760109520,10,Cruiser,Standard
+Pobeda,ussr,FALSE,4181702096,8,AirCarrier,Standard
+Podvoisky,ussr,FALSE,4079891920,5,Destroyer,Standard
+Poltava,ussr,TRUE,3762238928,7,Battleship,Standard
+Pommern,germany,TRUE,3761190704,9,Battleship,Standard
+Pommern B,germany,TRUE,3666818864,9,Battleship,Black Edition
+Port Jackson,commonwealth,FALSE,4282299760,2,Cruiser,Standard
+Preussen,germany,FALSE,3969857328,10,Battleship,Standard
+Prince of Wales,uk,FALSE,3552524240,8,Battleship,Standard
+Prins van Oranje,netherlands,FALSE,3550394128,10,Cruiser,Standard
+Prins van Oranje Golden,netherlands,FALSE,3539908368,10,Cruiser,Golden Edition
+Prinz Adalbert,germany,FALSE,4284397360,10,Cruiser,Standard
+Prinz Eitel Friedrich,germany,TRUE,3764336432,6,Battleship,Standard
+Prinz Eugen,germany,TRUE,3762206512,8,Cruiser,Standard
+Prinz Heinrich,germany,FALSE,4077860656,7,Battleship,Standard
+Prinz Rupprecht,germany,FALSE,4075763504,9,Battleship,Standard
+Prinz Sigismund,germany,FALSE,3257874224,9,Battleship,Standard
+Protector,usa,FALSE,3531519984,8,Cruiser,Standard
+Provorny,ussr,TRUE,3541972432,8,Destroyer,Standard
+PTRPVLSK,ussr,FALSE,3330192848,10,Cruiser,Standard
+Puerto Rico,usa,FALSE,3655251952,10,Cruiser,Standard
+Puerto Rico B,usa,FALSE,3340679152,10,Cruiser,Black Edition
+Pyotr Bagration,ussr,TRUE,3730748880,8,Cruiser,Standard
+Pyotr Velikiy,ussr,FALSE,4184815056,5,Battleship,Standard
+Queen Elizabeth,uk,FALSE,4183766992,6,Battleship,Standard
+Queen Mary,uk,FALSE,4081006544,4,Battleship,Standard
+Ragnar,europe,FALSE,3550360880,10,Destroyer,Standard
+Ragnarok,japan,TRUE,3363780304,8,Battleship,Standard
+Rahmat,pan_asia,FALSE,4183733456,6,Cruiser,Standard
+Raimondo Montecuccoli,italy,FALSE,4184782576,5,Cruiser,Standard
+Ranger,usa,FALSE,4183799792,6,AirCarrier,Standard
+Rattlehead,usa,TRUE,3765352432,5,Cruiser,Standard
+Ravenna,italy,FALSE,3256792816,10,Cruiser,Standard
+Regele Carol I,europe,TRUE,3542005040,8,Cruiser,Standard
+Renown,uk,FALSE,4078909392,6,Battleship,Standard
+Renown '44,uk,TRUE,3721344976,7,Battleship,Historical Year Variants
+République,france,FALSE,4179572560,10,Battleship,Standard
+Repulse,uk,TRUE,3743365072,6,Battleship,Standard
+Repulse B,uk,TRUE,3732879312,6,Battleship,Black Edition
+Rhein,germany,FALSE,4185896752,4,AirCarrier,Standard
+Rhode Island,usa,FALSE,3539941360,10,Battleship,Standard
+Rhode Island B,usa,FALSE,3319740400,10,Battleship,Black Edition
+Richelieu,france,FALSE,4181669712,8,Battleship,Standard
+Riga,ussr,FALSE,4075730384,9,Cruiser,Standard
+Rio de Janeiro,pan_america,TRUE,3765384528,5,Battleship,Standard
+River Gambra,commonwealth,FALSE,3249452400,7,Cruiser,Standard
+Rochester,usa,TRUE,3730749424,8,Cruiser,Standard
+Rodney,uk,TRUE,3543087056,7,Battleship,Standard
+Roma,italy,TRUE,3762239216,8,Battleship,Standard
+Roma Aeterna,italy,TRUE,3342808816,8,Battleship,Standard
+Romulus,europe,FALSE,4186846512,3,Destroyer,Standard
+Rooke,uk,FALSE,4077860816,7,Battleship,Standard
+Roon,germany,FALSE,4180588336,9,Cruiser,Standard
+Roon CLR,germany,TRUE,3446585136,9,Cruiser,Color Variants
+Roussillon,france,TRUE,3551475536,9,Battleship,Standard
+Royal Sovereign,uk,TRUE,3522115536,7,Battleship,Standard
+Ruggiero di Lauria,italy,FALSE,3760142064,10,Battleship,Standard
+Ryūjō,japan,FALSE,4183799504,6,AirCarrier,Standard
+S-1,ussr,FALSE,4183209424,6,Submarine,Standard
+S-189,ussr,TRUE,3761681872,8,Submarine,Standard
+Saint-Louis,france,FALSE,4180588368,9,Cruiser,Standard
+Saipan,usa,TRUE,3741300720,8,AirCarrier,Standard
+Saipan B,usa,TRUE,3667900400,8,AirCarrier,Black Edition
+Salem,usa,FALSE,3550394352,10,Cruiser,Standard
+Salmon,usa,FALSE,4076255216,8,Submarine,Standard
+Sampson,usa,FALSE,4292753392,2,Destroyer,Standard
+San Diego,usa,TRUE,3720263664,8,Cruiser,Standard
+San Martín,pan_america,FALSE,4179539280,10,Cruiser,Standard
+Santander,pan_america,FALSE,4180587856,9,Cruiser,Standard
+Sanzang,pan_asia,TRUE,3762271440,8,AirCarrier,Standard
+Satsuma,japan,FALSE,4178523856,11,Battleship,Standard
+Scarlet Storm,europe,TRUE,3343791408,7,Destroyer,Standard
+Scarlet Thunder,uk,TRUE,3656333264,9,Battleship,Standard
+Scharnhorst,germany,TRUE,3763287856,7,Battleship,Standard
+Scharnhorst '43,germany,TRUE,3543086896,7,Battleship,Historical Year Variants
+Scharnhorst B,germany,TRUE,3668916016,7,Battleship,Black Edition
+Schill,germany,TRUE,3741234992,8,Cruiser,Standard
+Schill B,germany,TRUE,3342776112,8,Cruiser,Black Edition
+Schlieffen,germany,FALSE,4074714928,10,Battleship,Standard
+Sea Howl,germany,FALSE,3332323120,8,Battleship,Standard
+Seal,uk,FALSE,3549870032,10,Submarine,Standard
+Seattle,usa,FALSE,4075730928,9,Cruiser,Standard
+Sejong,pan_asia,FALSE,4180587728,9,Cruiser,Standard
+Sekiryu,japan,FALSE,4178556624,11,AirCarrier,Standard
+Serov,ussr,FALSE,4183799248,6,AirCarrier,Standard
+Sete de Setembro,pan_america,FALSE,3550426448,10,Battleship,Standard
+Sevastopol,ussr,FALSE,3550393808,10,Cruiser,Standard
+Sharqi,germany,FALSE,3340646192,10,Destroyer,Standard
+Shchors,ussr,FALSE,4182685136,7,Cruiser,Standard
+Shenyang,pan_asia,FALSE,4185797840,4,Destroyer,Standard
+Shigure,japan,TRUE,3531486928,8,Destroyer,Standard
+Shikishima,japan,FALSE,3760142032,10,Battleship,Standard
+Shimakaze,japan,FALSE,4282267344,10,Destroyer,Standard
+Shimanto,japan,FALSE,4076779216,8,Cruiser,Standard
+Shinano,japan,FALSE,3550459600,10,AirCarrier,Standard
+Shinonome,japan,TRUE,3554555600,6,Destroyer,Standard
+Shinonome B,japan,TRUE,3669898960,6,Destroyer,Black Edition
+Ship Smasha,pan_asia,TRUE,3541972176,8,Destroyer,Standard
+Shiratsuyu,japan,FALSE,4077795024,7,Destroyer,Standard
+Shōkaku,japan,FALSE,4181702352,8,AirCarrier,Standard
+Sibir,ussr,FALSE,3550426576,10,Battleship,Standard
+Sicilia,italy,FALSE,3550426864,10,Battleship,Standard
+Siegfried,germany,TRUE,3761157936,9,Cruiser,Standard
+Siliwangi,pan_asia,TRUE,4076745936,8,Destroyer,Standard
+Sims,usa,TRUE,4264441840,7,Destroyer,Standard
+Sims B,usa,TRUE,3668850672,7,Destroyer,Black Edition
+Sinann,uk,TRUE,3552491472,8,Cruiser,Standard
+Sinop,ussr,FALSE,4182717904,7,Battleship,Standard
+Siroco,france,TRUE,3766368080,5,Destroyer,Standard
+Skåne,europe,FALSE,4182652208,7,Destroyer,Standard
+Slava,ussr,FALSE,3760141776,10,Battleship,Standard
+Småland,europe,FALSE,3655218480,10,Destroyer,Standard
+Smith,usa,TRUE,3768465392,2,Destroyer,Standard
+Smolensk,ussr,FALSE,3655251408,10,Cruiser,Standard
+Smolensk B,ussr,FALSE,3739137488,10,Cruiser,Black Edition
+Södermanland,europe,FALSE,3256759600,10,Destroyer,Standard
+Somers,usa,FALSE,3760076784,10,Destroyer,Standard
+Somme,uk,TRUE,3750639568,9,Destroyer,Standard
+South Carolina,usa,FALSE,4293867504,3,Battleship,Standard
+Southern Dragon,japan,TRUE,3543054032,7,Cruiser,Standard
+Sovetsky Soyuz,ussr,FALSE,4180620752,9,Battleship,Standard
+Split,europe,FALSE,4076746032,8,Destroyer,Standard
+St. Louis,usa,FALSE,4290689008,3,Cruiser,Standard
+St. Vincent,uk,FALSE,4074715088,10,Battleship,Standard
+Stalingrad,ussr,FALSE,3760109008,10,Cruiser,Standard
+STAR Edinburgh,uk,TRUE,3363747792,8,Cruiser,Sci-Fi/Space Events
+STAR Kitakaze,japan,TRUE,3362666192,9,Destroyer,Sci-Fi/Space Events
+Statenland,netherlands,FALSE,3248404240,8,Cruiser,Standard
+Stord,europe,FALSE,4078843184,6,Destroyer,Standard
+Stord '43,europe,TRUE,3543020848,7,Destroyer,Historical Year Variants
+Storozhevoi,ussr,FALSE,4187895248,2,Destroyer,Standard
+Strasbourg,france,TRUE,3763287888,7,Battleship,Standard
+Sturdy,uk,FALSE,4181112784,8,Submarine,Standard
+Sun Yat-Sen,pan_asia,TRUE,3740218576,9,Battleship,Standard
+Surcouf,france,FALSE,3549869904,10,Submarine,Standard
+Surrey,uk,FALSE,4077828048,7,Cruiser,Standard
+Süsshofen,germany,FALSE,3340744496,10,AirCarrier,Standard
+Sutlej,commonwealth,FALSE,4293834096,1,Cruiser,Standard
+Suzuya,japan,TRUE,3519985360,9,Cruiser,Standard
+Suzuya Golden,japan,TRUE,3509499600,9,Cruiser,Golden Edition
+Suzuya VL,japan,TRUE,3499013840,9,Cruiser,Standard
+Svea,europe,FALSE,3550393648,10,Cruiser,Standard
+Svietlana,ussr,FALSE,4185830864,4,Cruiser,Standard
+T-22,germany,FALSE,4184749872,5,Destroyer,Standard
+T-61,germany,TRUE,3764270896,6,Destroyer,Standard
+Tachibana,japan,TRUE,4293801680,2,Destroyer,Standard
+Tachibana Lima,japan,TRUE,4280170192,2,Destroyer,Special Distribution Variants
+Taihang,pan_asia,TRUE,3551474896,9,Battleship,Standard
+Takahashi,japan,FALSE,4075730640,9,Cruiser,Standard
+Tallinn,ussr,FALSE,4076778960,8,Cruiser,Standard
+Taranto,italy,FALSE,4186879728,3,Cruiser,Standard
+Tashkent,ussr,FALSE,3865982416,9,Destroyer,Standard
+Tashkent '39,ussr,TRUE,3752736208,7,Destroyer,Standard
+Tátra,europe,FALSE,4187895088,2,Destroyer,Standard
+Tegetthoff,europe,FALSE,4279186736,5,Battleship,Standard
+Tempesta Nera,italy,FALSE,3445569264,10,Battleship,Standard
+Teng She,pan_asia,TRUE,3553572048,7,Battleship,Standard
+Tennessee,usa,TRUE,3542038512,8,Battleship,Standard
+Tenryū,japan,FALSE,4279154384,3,Cruiser,Standard
+Texas,usa,TRUE,3555670000,5,Battleship,Standard
+Theseus,uk,TRUE,3542071248,8,AirCarrier,Standard
+Thor,europe,FALSE,4284429616,10,Battleship,Standard
+Thrasher,uk,FALSE,4179015632,10,Submarine,Standard
+Thunderer,uk,FALSE,3760142288,10,Battleship,Standard
+Tianjin,pan_asia,TRUE,3540956368,9,Cruiser,Standard
+Tiger,uk,FALSE,4079957968,5,Battleship,Standard
+Tiger '59,uk,TRUE,3751720912,8,Cruiser,Standard
+Tirpitz,germany,TRUE,4292818736,8,Battleship,Standard
+Tirpitz B,germany,TRUE,3667867440,8,Battleship,Black Edition
+Tokachi,japan,TRUE,3763254992,7,Cruiser,Standard
+Tone,japan,TRUE,4276008656,8,Cruiser,Standard
+Tonijn,netherlands,FALSE,3549869840,10,Submarine,Standard
+Toulon,france,TRUE,3763255120,7,Cruiser,Standard
+Trento,italy,FALSE,4183734000,6,Cruiser,Standard
+Tromp,netherlands,FALSE,3655218960,10,Destroyer,Standard
+Tsurugi,japan,TRUE,3719247568,9,Battleship,Standard
+Tulsa,usa,TRUE,3750672368,9,Cruiser,Standard
+Turbine,italy,FALSE,4185798384,4,Destroyer,Standard
+Turenne,france,FALSE,4186912592,3,Battleship,Standard
+Turgut Reis,europe,TRUE,3542037808,8,Battleship,Standard
+U-190,germany,FALSE,4076255024,8,Submarine,Standard
+U-2501,germany,FALSE,4074157872,10,Submarine,Standard
+U-4501,germany,FALSE,3759585072,10,Submarine,Standard
+U-69,germany,FALSE,4078352176,6,Submarine,Standard
+Udaloi,ussr,FALSE,4182652368,9,Destroyer,Standard
+Uganda,commonwealth,FALSE,4277056880,7,Cruiser,Standard
+Umikaze,japan,FALSE,4292753104,2,Destroyer,Standard
+Undine,uk,FALSE,4183209936,6,Submarine,Standard
+Unie,netherlands,FALSE,3529422608,10,Cruiser,Standard
+United States,usa,FALSE,4178556912,11,AirCarrier,Standard
+Utah,usa,FALSE,3256825840,10,Battleship,Standard
+Utrecht,netherlands,FALSE,4284397328,10,Cruiser,Standard
+V-170,germany,FALSE,4185798448,4,Destroyer,Standard
+V-25,germany,FALSE,4187895600,2,Destroyer,Standard
+Valkyrie,uk,FALSE,4186847184,3,Destroyer,Standard
+Vallejo,usa,TRUE,3761158128,9,Cruiser,Standard
+Valparaíso,pan_america,TRUE,3540989264,9,Battleship,Standard
+Vampire,commonwealth,TRUE,3767416176,3,Destroyer,Standard
+Vampire II,commonwealth,FALSE,3760076144,10,Destroyer,Standard
+Van Kinsbergen,netherlands,FALSE,4188976912,1,Cruiser,Standard
+Van Speijk,netherlands,TRUE,3761157904,9,Cruiser,Standard
+Vanguard,uk,TRUE,3762239440,8,Battleship,Standard
+Varese,italy,FALSE,3550394096,10,Cruiser,Standard
+Varyag,ussr,TRUE,3756963280,3,Cruiser,Standard
+Västerås,europe,FALSE,4183700784,6,Destroyer,Standard
+Vauquelin,france,FALSE,4182652752,7,Destroyer,Standard
+Velos,europe,TRUE,3761124656,9,Destroyer,Standard
+Venezia,italy,FALSE,4179539696,10,Cruiser,Standard
+Vermont,usa,FALSE,4179572720,10,Battleship,Standard
+Vicente Guerrero,pan_america,FALSE,4186879312,3,Cruiser,Standard
+Victoria,spain,TRUE,3540989360,9,Battleship,Standard
+Viribus Unitis,europe,TRUE,3766433072,5,Battleship,Standard
+Visby,europe,FALSE,4184749360,5,Destroyer,Standard
+Vittorio Cuniberti,italy,FALSE,4181604080,8,Destroyer,Standard
+Vittorio Veneto,italy,FALSE,4181669616,8,Battleship,Standard
+Vladimir Monomakh,ussr,FALSE,3267278288,10,Cruiser,Standard
+Vladivostok,ussr,FALSE,4181669328,8,Battleship,Standard
+Volunteer State,usa,FALSE,3352246256,8,Battleship,Standard
+Von der Tann,germany,FALSE,4082054960,3,Battleship,Standard
+Von Zuckerhoff,germany,FALSE,3319740208,10,Battleship,Standard
+Vyazma,ussr,FALSE,3551442384,9,Cruiser,Standard
+W. Virginia '41,usa,TRUE,3763288048,6,Battleship,Historical Year Variants
+Wahnsinn,germany,TRUE,3342808880,8,Battleship,Standard
+Wakatake,japan,FALSE,4269684432,3,Destroyer,Standard
+Wakeful,uk,FALSE,4185798608,4,Destroyer,Standard
+Warspite,uk,TRUE,4292818896,6,Battleship,Standard
+Weimar,germany,TRUE,3752769328,7,Cruiser,Standard
+Werner Voss,germany,FALSE,3760174896,10,AirCarrier,Standard
+Weser,germany,FALSE,4183799600,6,AirCarrier,Standard
+West Virginia '44,usa,TRUE,3742316528,7,Battleship,Historical Year Variants
+Weymouth,uk,FALSE,4187928528,2,Cruiser,Standard
+Wichita,usa,TRUE,3762206704,8,Cruiser,Standard
+Wickes,usa,FALSE,4266538992,3,Destroyer,Standard
+Wiesbaden,germany,TRUE,3531519792,8,Cruiser,Standard
+Willem de Eerste,netherlands,FALSE,3550426896,10,Battleship,Standard
+Wisconsin,usa,FALSE,3529455600,10,Battleship,Standard
+Worcester,usa,FALSE,4074682352,10,Cruiser,Standard
+Wujing,pan_asia,TRUE,3750704336,9,Battleship,Standard
+Wukong,pan_asia,TRUE,3751720144,8,Cruiser,Standard
+Wyoming,usa,FALSE,4290721776,4,Battleship,Standard
+Xin Zhong Guo 14,pan_asia,TRUE,3543577808,6,Submarine,Standard
+Xuan Ming,pan_asia,TRUE,3341759696,9,Battleship,Standard
+Xuan Wu,pan_asia,TRUE,3552523472,9,Battleship,Standard
+Yahagi,japan,TRUE,3765352144,5,Cruiser,Standard
+Yamagiri,japan,FALSE,4178458320,11,Destroyer,Standard
+Yamato,japan,FALSE,4276041424,10,Battleship,Standard
+Yamato Kai,japan,FALSE,3550426832,10,Battleship,Standard
+Yari,japan,FALSE,3550394064,10,Cruiser,Standard
+Yavuz Sultan Selim,europe,FALSE,4280235312,4,Battleship,Standard
+Yimeng,pan_asia,TRUE,3540989136,9,Battleship,Standard
+Yodo,japan,FALSE,4074682064,10,Cruiser,Standard
+Yorck,germany,FALSE,4182685488,7,Cruiser,Standard
+Yorktown,usa,FALSE,4265588720,8,AirCarrier,Standard
+Yoshino,japan,FALSE,3749623504,10,Cruiser,Standard
+Yoshino B,japan,FALSE,3676223184,10,Cruiser,Black Edition
+Yūbari,japan,TRUE,4290688720,4,Cruiser,Standard
+Yūdachi,japan,TRUE,3763222224,7,Destroyer,Standard
+Yueyang,pan_asia,FALSE,4179506384,10,Destroyer,Standard
+Yūgumo,japan,FALSE,4075697872,9,Destroyer,Standard
+Yukon,commonwealth,TRUE,3763287408,7,Battleship,Standard
+Yumihari,japan,FALSE,4076811984,8,Battleship,Standard
+Z-23,germany,FALSE,4181604144,8,Destroyer,Standard
+Z-31,germany,FALSE,4077795120,7,Destroyer,Standard
+Z-35,germany,TRUE,3751687984,8,Destroyer,Standard
+Z-39,germany,TRUE,3762173744,7,Destroyer,Standard
+Z-42,germany,FALSE,3655218992,10,Destroyer,Standard
+Z-44,germany,TRUE,3750639408,9,Destroyer,Standard
+Z-46,germany,FALSE,4180555568,9,Destroyer,Standard
+Z-52,germany,FALSE,4179506992,10,Destroyer,Standard
+Z-57,germany,FALSE,4178458416,11,Destroyer,Standard
+Zaō,japan,FALSE,4259231440,10,Cruiser,Standard
+Zaō CLR,japan,FALSE,3361650384,10,Cruiser,Color Variants
+Zara,italy,FALSE,4182685424,7,Cruiser,Standard
+Zarya Svobody,ussr,TRUE,3540989392,9,Battleship,Standard
+ZF-6,germany,TRUE,3740153648,9,Destroyer,Standard
+ZF-6 Golden,germany,TRUE,3551409968,9,Destroyer,Golden Edition
+ZH-1,germany,TRUE,3540924208,9,Destroyer,Standard
+Zhu Que,pan_asia,TRUE,3552457936,8,Destroyer,Standard
+Zhuge Liang,pan_asia,FALSE,3539907792,10,Cruiser,Standard
+Zieten,germany,FALSE,4076812080,8,Battleship,Standard
+Zorkiy,ussr,FALSE,4178458064,11,Destroyer,Standard
