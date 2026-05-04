@@ -50,6 +50,21 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 	* In the root directory of your cloned repository, create a plain text file named exactly `.env`.
 	* Add your Application ID to the file in this exact format: `WG_APP_ID=your_application_id_here`
 	* **Important:** Ensure your `.env` file is listed in your `.gitignore` file so your secret key is never pushed to your public repository!
+	
+**Data Volume & Sampling Note:** The default configuration of the data collections script uses 10 common username prefixes to query the `/wows/account/list/` endpoint, extracting 983 valid `account_id`s. Of those valid `account_id`s, 527 returned stats. This default sample yields 9,810 individual ship performance records. While this is sufficient for the scope of this case study, it suggests a high volume of either:
+* **Hidden Profiles:** Wargaming allows players to hide their statistics. The API explicitly tracks a hidden_profile status, and if a player has their profile set to private, the API will not return their ship performance data.
+* **Zero PvP Battles:** The Python script was specifically designed to filter out ships with 0 Random Battles (`pvp`) played. Many accounts may only play Co-op battles (which the game actively incentivizes with discounted service costs) or may have simply created an account without ever playing a match.
+
+**Data Cleaning & Preparation Steps:** Because the data was extracted programmatically via API, it lacked traditional errors like null values or misaligned columns. Using Google Sheets/Excel, the following cleaning tasks were completed:
+* **`wows_ship_encyclopedia.csv`:**
+	1. Removed empty rows at the end of the data.
+	2. Ensured accurate data formatting.
+	3. Sorting `name` alphabetically, I found some ship names inside brackets, which indicates the player did not own the ship, but rather rented it. Because the business task is specifically focused on comparing standard Tech Tree ships to purchasable Premium ships, these temporary rentals were removed.
+	4. Two ships were listed twice ("Schlieffen" & "Vrihheid") with different ship IDs. This was determined to be caused by developers releasing beta versions of the ships to be tested, changing the `ship_id` to release the final version of the ship. I resolved this by searching `wows_player_ship_stats.csv` for the IDs. Only 1 of the "Schlieffen" ships were played, so I deleted the others as they would have been removed when I JOIN the tables later.
+	5. Added `category` column to indicate ships purchased during a special event or ones offered with special variants.
+* **`wows_player_ship_stats.csv`:**
+	1. Removed empty rows at the end of the data.
+	2. Ensured accurate data formatting
 
 ## 💡 Phase 4: Analyze (Key Findings)
 

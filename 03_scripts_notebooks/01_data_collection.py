@@ -13,7 +13,12 @@ URL_ACCOUNT_LIST = "https://api.worldofwarships.com/wows/account/list/"
 URL_SHIP_STATS = "https://api.worldofwarships.com/wows/ships/stats/"
 
 # 1. Define the search terms to build our player sample
+# DEFAULT: Quick extraction (Yields ~1,000 players and ~10,000 ship records)
 search_terms = ['Admiral', 'Captain', 'Sniper', 'Ghost', 'Killer', 'Navy', 'Sailor', 'Pirate', 'Alpha', 'Bravo']
+
+# OPTIONAL EXTENDED SAMPLE: For a much larger, randomized dataset (~50,000+ records)
+# To use this larger sample, uncomment the line below and change the 'for' loop to iterate over 'extended_search_terms'
+# extended_search_terms = ['Dar', 'Fox', 'Red', 'Blu', 'One', 'The', 'Pro', 'Sky', 'Sea', 'War', 'Bat', 'Gun', 'Ship', 'Top', 'Max', 'Big', 'Ice', 'Fire', 'Bad', 'Mad']
 
 # Use a set to store account_ids to automatically prevent any duplicate players
 account_ids = set() 
@@ -45,7 +50,7 @@ for term in search_terms:
     time.sleep(0.15) 
 
 print(f"\nSuccessfully gathered {len(account_ids)} unique account IDs.")
-print("\nStep 2: Fetching ship statistics for each player (This may take a few minutes)...")
+print("\nStep 2: Fetching ship statistics for each player (This will take approximately 10 minutes)...")
 
 all_player_stats = []
 processed_count = 0
@@ -86,8 +91,8 @@ for account_id in account_ids:
                     all_player_stats.append(ship_data)
                     
     processed_count += 1
-    # Print a progress update every 100 accounts
-    if processed_count % 100 == 0:
+    # Print a progress update every 20 accounts
+    if processed_count % 20 == 0:
         print(f"Processed {processed_count} / {len(account_ids)} accounts...")
         
     # Respect the API rate limit again for this loop
