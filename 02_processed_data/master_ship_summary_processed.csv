@@ -1,0 +1,800 @@
+ship_id,ship_name,is_premium,tier,event,nation,type,total_battles,total_wins,total_damage_dealt,total_frags,total_xp,total_survived_battles
+3767416176,Vampire,true,3,Standard,commonwealth,Destroyer,142,67,2834362,127,90892,46
+4280202608,Dunedin,false,4,Standard,commonwealth,Cruiser,11,3,501625,22,6905,2
+4279154032,Delhi,false,5,Standard,commonwealth,Cruiser,35,19,1162975,36,40133,15
+3764303216,Perth,true,6,Standard,commonwealth,Cruiser,581,344,20695738,561,631631,180
+4278105456,Hobart,false,6,Standard,commonwealth,Cruiser,54,27,1922156,54,53446,28
+3753817456,Mysore,true,6,Standard,commonwealth,Cruiser,9,3,214846,2,10622,2
+3752736112,Huron,true,7,Standard,commonwealth,Destroyer,8,4,106477,1,9439,0
+4277056880,Uganda,false,7,Standard,commonwealth,Cruiser,25,10,1005669,16,32477,6
+3763287408,Yukon,true,7,Standard,commonwealth,Battleship,16,9,1049620,12,30123,4
+3763221872,Haida,true,7,Standard,commonwealth,Destroyer,109,65,3698740,120,151783,49
+3543053680,Gambia,true,7,Standard,commonwealth,Cruiser,33,18,1383863,26,52580,10
+4276008304,Auckland,false,8,Standard,commonwealth,Cruiser,15,7,902206,16,30957,4
+4274959728,Encounter,false,9,Standard,commonwealth,Cruiser,36,21,2516873,23,63644,14
+4284396912,Cerberus,false,10,Standard,commonwealth,Cruiser,13,6,1033946,10,25334,3
+3760108912,Brisbane,false,10,Standard,commonwealth,Cruiser,164,72,5533539,68,246411,40
+3550393712,Pioneer,false,10,Standard,commonwealth,Cruiser,3,2,85419,0,2838,2
+3760076144,Vampire II,false,10,Standard,commonwealth,Destroyer,436,221,21165312,373,817597,145
+3550426480,Irresistible,false,10,Standard,commonwealth,Battleship,22,12,3004937,16,48307,4
+4188976432,Gryf,false,1,Standard,europe,Cruiser,16,5,149908,18,8346,3
+4187895088,Tátra,false,2,Standard,europe,Destroyer,5,4,44559,5,2954,1
+4186846512,Romulus,false,3,Standard,europe,Destroyer,21,11,673423,28,19548,12
+4185797936,Klas Horn,false,4,Standard,europe,Destroyer,13,6,207013,8,8160,3
+4280235312,Yavuz Sultan Selim,false,4,Standard,europe,Battleship,77,24,2841358,69,65593,23
+4184749360,Visby,false,5,Standard,europe,Destroyer,56,31,1059777,35,63336,20
+3766433072,Viribus Unitis,true,5,Standard,europe,Battleship,27,18,1117667,35,33781,10
+4079891760,Muavenet,false,5,Standard,europe,Destroyer,8,4,222048,8,10616,3
+4279186736,Tegetthoff,false,5,Standard,europe,Battleship,265,119,10199081,229,281019,86
+3555603760,Kalmar,true,5,Standard,europe,Destroyer,5,2,162352,7,6785,2
+4078843184,Stord,false,6,Standard,europe,Destroyer,13,4,341468,13,15750,3
+4278138160,Laudon,false,6,Standard,europe,Battleship,1,1,23507,0,1393,0
+4183700784,Västerås,false,6,Standard,europe,Destroyer,112,51,2673764,61,126684,33
+3764303152,Elli,true,6,Standard,europe,Cruiser,71,29,1077061,16,65805,17
+3543020848,Stord '43,true,7,Historical Year Variants,europe,Destroyer,7,5,314492,16,13474,6
+4277089584,Chios,false,7,Standard,europe,Battleship,70,29,2742243,31,89257,23
+4077794608,Grom,false,7,Standard,europe,Destroyer,40,24,1056895,35,53203,13
+4182652208,Skåne,false,7,Standard,europe,Destroyer,79,35,2192388,51,112326,31
+3553572144,Lugdunum,true,7,Standard,europe,Battleship,17,6,1098408,16,28702,3
+3769513264,Błyskawica,true,7,Standard,europe,Destroyer,136,59,3676688,109,162115,29
+3552458032,Błyskawica '44,true,8,Historical Year Variants,europe,Destroyer,3,0,132719,4,4268,0
+3762173232,Orkan,true,8,Standard,europe,Destroyer,35,16,780742,9,49731,9
+4276041008,Enigheten,false,8,Standard,europe,Battleship,14,10,956761,14,27316,2
+4181603632,Öland,false,8,Standard,europe,Destroyer,107,44,2829130,57,165198,39
+4076746032,Split,false,8,Standard,europe,Destroyer,92,49,2806605,61,146878,19
+3540989232,Niord,true,9,Standard,europe,Battleship,29,15,2357459,23,56302,6
+4180555056,Östergötland,false,9,Standard,europe,Destroyer,178,95,6136658,108,277223,64
+3760076080,Friesland,true,9,Standard,europe,Destroyer,624,389,55012505,934,1582134,339
+3761124656,Velos,true,9,Standard,europe,Destroyer,2,1,118973,2,4180,0
+4075697456,Lambros Katsonis,false,9,Standard,europe,Destroyer,101,48,3215907,59,159824,25
+3750638896,Jäger,true,9,Standard,europe,Destroyer,614,296,26615801,425,984965,197
+3761190192,Karl XIV Johan,true,9,Standard,europe,Battleship,35,16,2498596,42,62483,5
+3550360880,Ragnar,false,10,Standard,europe,Destroyer,68,30,3505367,39,113964,13
+4179506480,Halland,false,10,Standard,europe,Destroyer,205,103,8986782,125,335002,68
+4074648880,Gdańsk,false,10,Standard,europe,Destroyer,34,13,1419666,24,52426,5
+4284429616,Thor,false,10,Standard,europe,Battleship,22,12,2302785,31,51486,9
+3550393648,Svea,false,10,Standard,europe,Cruiser,28,13,1821366,23,52321,9
+3655218480,Småland,false,10,Standard,europe,Destroyer,444,268,29329947,643,1077523,231
+4178457904,Dalarna,false,11,Standard,europe,Destroyer,25,13,1485560,14,47278,12
+4188976976,Bougainville,false,1,Standard,france,Cruiser,205,96,1484663,241,106468,66
+4187895632,Enseigne Gabolde,false,2,Standard,france,Destroyer,14,8,243835,17,9197,6
+4187928400,Jurien de la Gravière,false,2,Standard,france,Cruiser,145,67,1763952,63,59009,28
+4186879824,Friant,false,3,Standard,france,Cruiser,191,103,3647415,127,111407,41
+4186847056,Fusilier,false,3,Standard,france,Destroyer,25,12,475742,26,19997,2
+4186912592,Turenne,false,3,Standard,france,Battleship,68,41,2162021,73,49012,32
+4185864016,Courbet,false,4,Standard,france,Battleship,26,12,850403,18,18535,5
+4185831248,Duguay-Trouin,false,4,Standard,france,Cruiser,308,162,6823666,232,190189,59
+4185798480,Bourrasque,false,4,Standard,france,Destroyer,46,16,1316397,47,34102,8
+4184782672,Émile Bertin,false,5,Standard,france,Cruiser,847,411,14634241,339,572794,140
+3766368080,Siroco,true,5,Standard,france,Destroyer,10,7,283246,9,13440,3
+4279121744,L'Adroit,false,5,Standard,france,Destroyer,19,9,507549,15,22409,5
+4184815440,Bretagne,false,5,Standard,france,Battleship,146,58,4869100,92,110044,46
+4184749904,Jaguar,false,5,Standard,france,Destroyer,179,86,3851237,120,173882,37
+3764303696,De Grasse,true,6,Standard,france,Cruiser,93,50,3332482,62,118403,25
+3764270928,Aigle,true,6,Standard,france,Destroyer,73,39,1874483,36,79292,16
+4183701328,Guépard,false,6,Standard,france,Destroyer,221,104,5809799,151,262167,55
+3753817936,Dupleix,true,6,Standard,france,Cruiser,3,0,100830,2,2557,0
+3764336464,Dunkerque,true,6,Standard,france,Battleship,248,136,10649941,167,297070,85
+3669964624,Dunkerque B,true,6,Black Edition,france,Battleship,9,6,456598,9,13027,3
+4183734096,La Galissonnière,false,6,Standard,france,Cruiser,366,191,11083850,223,407688,80
+4183766864,Normandie,false,6,Standard,france,Battleship,249,133,11695466,223,278583,91
+4278073168,Duchaffault,false,6,Standard,france,Destroyer,4,3,91419,2,7140,1
+3544102736,Montcalm,true,6,Standard,france,Cruiser,3,2,122123,3,4428,1
+3763287888,Strasbourg,true,7,Standard,france,Battleship,20,9,1193077,20,33624,4
+4182685520,Algérie,false,7,Standard,france,Cruiser,419,187,14393112,204,461101,105
+3763255120,Toulon,true,7,Standard,france,Cruiser,5,4,164612,4,9755,2
+4182652752,Vauquelin,false,7,Standard,france,Destroyer,217,101,5634044,129,317069,47
+4182718288,Lyon,false,7,Standard,france,Battleship,682,335,40000648,641,1012722,283
+4277024592,Le Hardi,false,7,Standard,france,Destroyer,12,5,333494,9,18237,2
+4181669712,Richelieu,false,8,Standard,france,Battleship,303,149,19612398,270,502942,85
+4181636944,Charles Martel,false,8,Standard,france,Cruiser,401,178,15053799,198,518466,94
+3741267792,Champagne,true,8,Standard,france,Battleship,23,12,1937926,20,47667,11
+4275976016,L'Aventurier,false,8,Standard,france,Destroyer,19,10,655311,21,33901,8
+3720296272,Picardie,true,8,Standard,france,Battleship,2,2,67343,0,3480,2
+3552491344,Metz,false,8,Standard,france,Cruiser,40,16,1795982,21,59666,11
+3730782032,Flandre,true,8,Standard,france,Battleship,20,11,1009366,21,35127,6
+3762206544,Bayard,true,8,Standard,france,Cruiser,28,14,1109604,24,40291,9
+4076779344,Cherbourg,false,8,Standard,france,Cruiser,72,39,3225419,45,120640,21
+4181604176,Le Fantasque,false,8,Standard,france,Destroyer,423,214,12937922,277,586764,127
+3762173776,Le Terrible,true,8,Standard,france,Destroyer,16,7,526736,10,24965,3
+3762239312,Gascogne,true,8,Standard,france,Battleship,57,20,1688829,24,70004,12
+4180621136,Alsace,false,9,Standard,france,Battleship,247,129,17373234,168,397161,63
+4075730768,Brest,false,9,Standard,france,Cruiser,105,54,6859922,77,192937,21
+4180588368,Saint-Louis,false,9,Standard,france,Cruiser,283,125,11515912,120,348780,70
+3551475536,Roussillon,true,9,Standard,france,Battleship,12,7,1238550,10,25419,4
+3540957008,Le Havre,true,9,Standard,france,Cruiser,15,9,1296463,15,30864,1
+4274927440,Orage,false,9,Standard,france,Destroyer,53,30,1881417,54,94783,20
+4180555600,Mogador,false,9,Standard,france,Destroyer,357,158,12045663,209,515785,61
+3666818896,Jean Bart B,true,9,Black Edition,france,Battleship,116,61,10542582,113,227935,31
+3751753552,Jean Bart,true,9,Standard,france,Battleship,981,561,106097699,1251,2106624,456
+3761157968,Carnot,true,9,Standard,france,Cruiser,29,17,2087632,22,51454,14
+3549869904,Surcouf,false,10,Standard,france,Submarine,2,1,108764,1,4142,0
+4074682192,Marseille,false,10,Standard,france,Cruiser,40,21,3115941,27,74822,7
+4074649424,Marceau,false,10,Standard,france,Destroyer,190,98,10187665,163,348058,58
+3760109392,Colbert,false,10,Standard,france,Cruiser,7,2,306827,6,9154,2
+4179507024,Kléber,false,10,Standard,france,Destroyer,509,263,18972758,281,778537,70
+4284364624,Cassard,false,10,Standard,france,Destroyer,42,22,2383509,39,78035,21
+4179572560,République,false,10,Standard,france,Battleship,465,250,44451933,416,848825,166
+4179539792,Henri IV,false,10,Standard,france,Cruiser,114,44,6204315,55,162517,28
+3760142160,Bourgogne,false,10,Standard,france,Battleship,507,275,55562994,533,1088482,203
+3550361424,Châteaurenault,false,10,Standard,france,Destroyer,15,8,795966,8,26391,5
+4178491216,Condé,false,11,Standard,france,Cruiser,44,25,3427421,33,73063,14
+4178523984,Patrie,false,11,Standard,france,Battleship,6,2,746590,7,12126,4
+4293834544,Hermelin,false,1,Standard,germany,Cruiser,487,220,4491205,691,279299,137
+4187895600,V-25,false,2,Standard,germany,Destroyer,210,98,4183787,273,130147,44
+4292785968,Dresden,false,2,Standard,germany,Cruiser,427,212,7058114,361,231092,120
+3768497968,Emden,true,2,Standard,germany,Cruiser,133,65,1878411,78,65725,30
+4186847024,G-101,false,3,Standard,germany,Destroyer,253,116,4620875,212,149504,40
+4186912560,Nassau,false,3,Standard,germany,Battleship,637,312,17589829,633,363918,240
+4186879792,Kolberg,false,3,Standard,germany,Cruiser,731,359,12492258,497,405662,156
+3767482160,König Albert,true,3,Standard,germany,Battleship,98,51,3842151,141,88017,33
+4082054960,Von der Tann,false,3,Standard,germany,Battleship,17,12,698909,24,17366,6
+4185863984,Kaiser,false,4,Standard,germany,Battleship,985,449,31989279,799,612600,353
+4081006384,Moltke,false,4,Standard,germany,Battleship,14,8,688216,17,15047,7
+4185831216,Karlsruhe,false,4,Standard,germany,Cruiser,724,341,11368636,344,393877,123
+4185798448,V-170,false,4,Standard,germany,Destroyer,411,191,8985573,363,257456,79
+4185896752,Rhein,false,4,Standard,germany,AirCarrier,49,21,979267,23,24987,33
+4184782640,Königsberg,false,5,Standard,germany,Cruiser,1179,585,26019286,668,898822,263
+4184749872,T-22,false,5,Standard,germany,Destroyer,437,204,7345199,255,346948,76
+4184815408,König,false,5,Standard,germany,Battleship,1588,785,56756476,1199,1444734,619
+4079957808,Derfflinger,false,5,Standard,germany,Battleship,74,39,3008003,58,89052,25
+4278105904,Deutschland,false,6,Standard,germany,Cruiser,29,17,1079875,26,41938,6
+4183734064,Nürnberg,false,6,Standard,germany,Cruiser,1585,713,30890377,643,1235292,313
+4183766832,Bayern,false,6,Standard,germany,Battleship,1399,677,44867989,773,1242644,525
+3753785136,Karl von Schönberg,true,6,Standard,germany,Destroyer,11,5,269992,11,13884,1
+4078352176,U-69,false,6,Standard,germany,Submarine,308,158,5350046,116,283547,102
+3753817904,Leipzig,true,6,Standard,germany,Cruiser,11,8,351873,10,17718,5
+3554588464,HSF Admiral Graf Spee,true,6,High School Fleet,germany,Cruiser,22,12,821100,19,27773,8
+3764303664,Admiral Graf Spee,true,6,Standard,germany,Cruiser,199,100,6043195,121,214491,60
+3764369200,Erich Loewenhardt,true,6,Standard,germany,AirCarrier,2,1,55514,0,1841,1
+3764270896,T-61,true,6,Standard,germany,Destroyer,393,204,9783899,323,489115,141
+4183701296,Ernst Gaede,false,6,Standard,germany,Destroyer,475,230,9107879,257,408040,94
+3764336432,Prinz Eitel Friedrich,true,6,Standard,germany,Battleship,153,78,6453571,112,205912,63
+4183799600,Weser,false,6,Standard,germany,AirCarrier,55,29,1255588,18,42761,41
+4078909232,Mackensen,false,6,Standard,germany,Battleship,90,41,4289733,97,124676,21
+4277057328,Admiral Scheer,false,7,Standard,germany,Cruiser,5,4,301591,5,11843,2
+3543086896,Scharnhorst '43,true,7,Historical Year Variants,germany,Battleship,189,103,8648219,148,274486,47
+4182718256,Gneisenau,false,7,Standard,germany,Battleship,2214,1026,81945548,1345,2077932,834
+3752769328,Weimar,true,7,Standard,germany,Cruiser,13,4,577469,10,20320,4
+3543054128,Nürnberg '44,true,7,Historical Year Variants,germany,Cruiser,5,2,181237,2,5638,1
+4182685488,Yorck,false,7,Standard,germany,Cruiser,1763,884,65623436,1064,2372642,597
+3763255088,München,true,7,Standard,germany,Cruiser,11,7,227851,2,13645,0
+3762173744,Z-39,true,7,Standard,germany,Destroyer,15,7,287676,8,16828,3
+3752802096,AL Prinz Heinrich,true,7,Azur Lane,germany,Battleship,2,2,109228,3,2749,0
+4077860656,Prinz Heinrich,false,7,Standard,germany,Battleship,179,93,9349128,144,271326,41
+3668916016,Scharnhorst B,true,7,Black Edition,germany,Battleship,20,10,1106381,12,32875,8
+4182652720,Leberecht Maass,false,7,Standard,germany,Destroyer,344,139,7862072,203,319787,70
+4077795120,Z-31,false,7,Standard,germany,Destroyer,100,54,1838909,48,97844,29
+3763287856,Scharnhorst,true,7,Standard,germany,Battleship,574,274,27513763,436,787639,176
+3438196528,München B,true,7,Black Edition,germany,Cruiser,2,1,122352,0,2778,0
+3751786288,Graf Zeppelin,true,8,Standard,germany,AirCarrier,31,14,1201712,14,42687,13
+3667867440,Tirpitz B,true,8,Black Edition,germany,Battleship,57,28,3280793,40,95442,10
+4076812080,Zieten,false,8,Standard,germany,Battleship,422,208,25480775,362,710325,116
+4292818736,Tirpitz,true,8,Standard,germany,Battleship,949,457,48587442,611,1344500,319
+3531519792,Wiesbaden,true,8,Standard,germany,Cruiser,7,5,379071,2,15006,1
+3751753520,Brandenburg,true,8,Standard,germany,Battleship,63,32,3149730,34,90954,18
+3730782000,Brandenburg B,true,8,Black Edition,germany,Battleship,6,6,352406,6,13444,3
+3342808880,Wahnsinn,true,8,Standard,germany,Battleship,13,6,838314,7,19886,3
+4181669680,Bismarck,false,8,Standard,germany,Battleship,3622,1755,165635310,2110,4440591,1098
+3741234992,Schill,true,8,Standard,germany,Cruiser,12,4,298336,5,13979,1
+3741267760,Anhalt,true,8,Standard,germany,Battleship,89,55,4862427,61,149312,28
+4181604144,Z-23,false,8,Standard,germany,Destroyer,212,108,4963540,114,280758,86
+4276008752,Knesebeck,false,8,Standard,germany,Cruiser,29,14,1656468,22,55116,5
+4181636912,Admiral Hipper,false,8,Standard,germany,Cruiser,742,340,28990390,402,982063,245
+4076255024,U-190,false,8,Standard,germany,Submarine,719,322,10224111,173,690922,257
+3751720752,Mainz,true,8,Standard,germany,Cruiser,193,103,10819665,129,336213,29
+3751687984,Z-35,true,8,Standard,germany,Destroyer,2,1,64409,0,4064,0
+3667900208,Graf Zeppelin B,true,8,Black Edition,germany,AirCarrier,37,20,1591563,24,48250,30
+3762206512,Prinz Eugen,true,8,Standard,germany,Cruiser,112,54,3426522,46,139613,31
+3353294640,AL Bismarck,true,8,Azur Lane,germany,Battleship,5,4,360504,7,11263,3
+4181702448,August von Parseval,false,8,Standard,germany,AirCarrier,113,54,4752195,63,119543,90
+4076746544,Gustav-Julius Maerker,false,8,Standard,germany,Destroyer,28,8,951009,29,39040,5
+3667834672,Mainz B,true,8,Black Edition,germany,Cruiser,28,11,1281301,29,44426,6
+3762239280,Odin,true,8,Standard,germany,Battleship,375,204,33145057,479,783746,161
+3750672176,Ägir,true,9,Standard,germany,Cruiser,217,111,12237887,144,355978,79
+3740186416,Admiral Schröder,true,9,Standard,germany,Cruiser,77,38,3933120,42,120774,14
+4180555568,Z-46,false,9,Standard,germany,Destroyer,112,51,3569681,76,161148,38
+4180588336,Roon,false,9,Standard,germany,Cruiser,227,112,11607865,122,340229,99
+4075697968,Felix Schultz,false,9,Standard,germany,Destroyer,62,33,2420837,40,97201,9
+3666818864,Pommern B,true,9,Black Edition,germany,Battleship,7,0,400835,3,6507,0
+4180621104,Friedrich der Grosse,false,9,Standard,germany,Battleship,1414,612,68616509,704,1745212,337
+4075763504,Prinz Rupprecht,false,9,Standard,germany,Battleship,257,138,14998743,169,395371,56
+3761190704,Pommern,true,9,Standard,germany,Battleship,705,319,34138823,354,892695,229
+3530471216,Blücher,true,9,Standard,germany,Cruiser,2,1,122480,1,3202,0
+3740153648,ZF-6,true,9,Standard,germany,Destroyer,149,90,9968200,211,334880,70
+3750639408,Z-44,true,9,Standard,germany,Destroyer,2,0,10395,0,1661,0
+3352213296,AL Ägir,true,9,Azur Lane,germany,Cruiser,1,1,10564,0,2038,0
+4274960176,Manteuffel,false,9,Standard,germany,Cruiser,30,18,1926392,30,58534,5
+3761157936,Siegfried,true,9,Standard,germany,Cruiser,138,86,13805087,173,304640,72
+4074649392,Elbing,false,10,Standard,germany,Destroyer,145,68,12370674,130,303965,61
+3539908400,Bremen,false,10,Standard,germany,Cruiser,98,41,6478693,53,128935,18
+3319740208,Von Zuckerhoff,false,10,Standard,germany,Battleship,4,1,418080,4,7167,0
+4179539760,Hindenburg,false,10,Standard,germany,Cruiser,836,442,86829752,804,1829216,419
+3655317296,Max Immelmann,false,10,Standard,germany,AirCarrier,298,153,28741312,267,536521,215
+3539875632,Georg Hoffmann Golden,false,10,Golden Edition,germany,Destroyer,2,1,91956,1,3539,1
+3655218992,Z-42,false,10,Standard,germany,Destroyer,30,17,932811,16,38460,13
+3361650480,AL Hindenburg,false,10,Azur Lane,germany,Cruiser,3,1,221865,1,6258,1
+3550394160,Hildebrand,false,10,Standard,germany,Cruiser,8,7,667769,11,20201,4
+4074157872,U-2501,false,10,Standard,germany,Submarine,1149,514,29366388,359,1401817,467
+4074714928,Schlieffen,false,10,Standard,germany,Battleship,714,357,48594653,443,1164153,115
+4284397360,Prinz Adalbert,false,10,Standard,germany,Cruiser,17,6,1078982,7,26884,4
+3655284528,Mecklenburg,false,10,Standard,germany,Battleship,420,195,36303050,284,657367,151
+3969857328,Preussen,false,10,Standard,germany,Battleship,176,88,13127127,104,303612,50
+4179605296,Manfred von Richthofen,false,10,Standard,germany,AirCarrier,1,0,104427,2,1421,1
+4179572528,Grosser Kurfürst,false,10,Standard,germany,Battleship,2068,991,144350465,1294,3333019,479
+3550361392,Georg Hoffmann,false,10,Standard,germany,Destroyer,23,13,1191553,16,41812,6
+4179506992,Z-52,false,10,Standard,germany,Destroyer,66,33,2187793,35,100421,23
+3340646192,Sharqi,false,10,Standard,germany,Destroyer,6,2,133565,1,7577,2
+3759585072,U-4501,false,10,Standard,germany,Submarine,17,7,485652,8,23334,7
+4178491184,Clausewitz,false,11,Standard,germany,Cruiser,21,13,2189690,17,46004,8
+4178523952,Hannover,false,11,Standard,germany,Battleship,60,30,5701165,53,113680,12
+4188976880,Eritrea,false,1,Standard,italy,Cruiser,68,30,1079023,177,61731,26
+4187895536,Curtatone,false,2,Standard,italy,Destroyer,5,2,242677,11,4637,1
+4187928304,Nino Bixio,false,2,Standard,italy,Cruiser,31,16,695993,36,22681,10
+4186846960,Nazario Sauro,false,3,Standard,italy,Destroyer,1,1,68315,7,2109,1
+4186879728,Taranto,false,3,Standard,italy,Cruiser,42,21,1084174,39,31611,8
+4185798384,Turbine,false,4,Standard,italy,Destroyer,8,3,380905,16,5408,3
+4185831152,Alberto di Giussano,false,4,Standard,italy,Cruiser,50,25,1390330,56,38415,10
+4185863920,Dante Alighieri,false,4,Standard,italy,Battleship,17,6,623618,11,12839,2
+3765352176,Genova,true,5,Standard,italy,Cruiser,10,8,311871,8,14446,4
+4184749808,Maestrale,false,5,Standard,italy,Destroyer,52,28,893249,37,47115,13
+4184782576,Raimondo Montecuccoli,false,5,Standard,italy,Cruiser,117,54,2418125,46,111358,21
+3765384944,Giulio Cesare,true,5,Standard,italy,Battleship,309,168,15374765,338,400068,130
+4184815344,Conte di Cavour,false,5,Standard,italy,Battleship,52,29,1873134,34,55168,19
+3764270832,Leone,true,6,Standard,italy,Destroyer,14,5,215830,6,13754,2
+4183766768,Andrea Doria,false,6,Standard,italy,Battleship,43,19,1477516,20,48361,12
+3764303600,Duca d'Aosta,true,6,Standard,italy,Cruiser,45,28,1063011,17,54478,14
+4183734000,Trento,false,6,Standard,italy,Cruiser,136,73,4162157,73,164488,32
+4183701232,Aviere,false,6,Standard,italy,Destroyer,53,30,1147660,31,64683,15
+3553539824,Optio,true,7,Standard,italy,Cruiser,48,26,746889,7,50123,11
+3763255024,Duca degli Abruzzi,true,7,Standard,italy,Cruiser,30,17,1045991,19,37379,13
+3752769264,Francesco Ferruccio,true,7,Standard,italy,Cruiser,9,3,319321,4,12669,1
+3763222256,FR25,true,7,Standard,italy,Destroyer,5,3,233432,3,9669,1
+3658397424,Gorizia,true,7,Standard,italy,Cruiser,83,35,2736066,48,107531,15
+4182685424,Zara,false,7,Standard,italy,Cruiser,149,81,5949397,96,219238,45
+3543054064,Fiume,true,7,Standard,italy,Cruiser,37,19,664654,14,39103,13
+4182652656,Luca Tarigo,false,7,Standard,italy,Destroyer,54,25,1668263,51,86662,20
+4182718192,Francesco Caracciolo,false,7,Standard,italy,Battleship,216,114,12045772,227,334555,96
+4181604080,Vittorio Cuniberti,false,8,Standard,italy,Destroyer,50,21,1367389,36,72961,13
+3762239216,Roma,true,8,Standard,italy,Battleship,26,14,2121755,28,54014,4
+3552524016,AL Littorio,true,8,Azur Lane,italy,Battleship,1,0,22806,0,941,0
+4181636848,Amalfi,false,8,Standard,italy,Cruiser,171,86,8390509,118,295232,47
+4181669616,Vittorio Veneto,false,8,Standard,italy,Battleship,134,66,7238492,116,227147,52
+3542038256,Marcantonio Colonna,true,8,Standard,italy,Battleship,6,5,538608,11,15652,2
+4180555504,Adriatico,false,9,Standard,italy,Destroyer,82,39,2706862,60,131019,29
+3551475440,Pilus Prior,true,9,Standard,italy,Battleship,40,24,1091864,10,46423,9
+4180588272,Brindisi,false,9,Standard,italy,Cruiser,233,117,13712855,150,381356,86
+3761190640,Marco Polo,true,9,Standard,italy,Battleship,78,36,4339373,31,116791,26
+3750672112,Michelangelo,true,9,Standard,italy,Cruiser,13,5,858652,15,24287,2
+3761125104,Paolo Emilio,true,9,Standard,italy,Destroyer,7,2,279577,5,10102,1
+3530471152,Messina,true,9,Standard,italy,Cruiser,5,3,386529,6,12018,2
+3540956912,Ferrante Gonzaga,true,9,Standard,italy,Cruiser,10,7,787970,6,22238,4
+3750704880,Giuseppe Verdi,true,9,Standard,italy,Battleship,6,3,260100,6,10055,0
+4180621040,Lepanto,false,9,Standard,italy,Battleship,124,64,8249406,82,207558,43
+4179539696,Venezia,false,10,Standard,italy,Cruiser,565,292,47530076,530,1115427,235
+4179506928,Attilio Regolo,false,10,Standard,italy,Destroyer,24,10,1089209,20,41708,3
+3760142064,Ruggiero di Lauria,false,10,Standard,italy,Battleship,46,17,5452015,44,83342,12
+3760109296,Napoli,false,10,Standard,italy,Cruiser,649,301,36309983,427,1079175,190
+3550361328,Alberico da Barbiano,false,10,Standard,italy,Destroyer,119,57,5814748,74,185899,35
+4179572464,Cristoforo Colombo,false,10,Standard,italy,Battleship,224,94,18460271,172,374960,85
+3445569264,Tempesta Nera,false,10,Standard,italy,Battleship,38,14,3484766,48,71279,11
+3550394096,Varese,false,10,Standard,italy,Cruiser,33,18,2980854,30,70613,5
+3550426864,Sicilia,false,10,Standard,italy,Battleship,9,3,849440,12,16095,0
+4178491120,Piemonte,false,11,Standard,italy,Cruiser,21,12,1462722,5,35907,3
+4256085712,Hashidate,false,1,Standard,japan,Cruiser,343,172,3048492,324,174391,113
+4283381456,Mikasa,true,2,Standard,japan,Battleship,31,19,713016,49,22070,13
+4280170192,Tachibana Lima,true,2,Special Distribution Variants,japan,Destroyer,8,5,130876,10,7880,3
+4258182864,Chikuma,false,2,Standard,japan,Cruiser,477,232,6529911,299,234617,106
+4292753104,Umikaze,false,2,Standard,japan,Destroyer,429,209,6274879,376,216341,96
+4293801680,Tachibana,true,2,Standard,japan,Destroyer,45,21,531607,33,25012,10
+4279154384,Tenryū,false,3,Standard,japan,Cruiser,953,460,15567691,636,517717,191
+4293867216,Kawachi,false,3,Standard,japan,Battleship,729,360,15244339,548,405562,243
+4269684432,Wakatake,false,3,Standard,japan,Destroyer,534,245,9051933,396,303530,104
+3767449296,Katori,true,3,Standard,japan,Cruiser,31,11,630309,26,18664,7
+4286527184,Ishizuchi,true,4,Standard,japan,Battleship,148,79,4627566,118,112560,42
+4185896656,Hōshō,false,4,Standard,japan,AirCarrier,277,124,6398066,123,175204,156
+4291704528,Isokaze,false,4,Standard,japan,Destroyer,978,484,19764071,746,621964,201
+4291770064,Myōgi,false,4,Standard,japan,Battleship,1166,563,27355539,710,710000,428
+4281251536,Kuma,false,4,Standard,japan,Cruiser,1395,689,28154919,822,933613,217
+4290688720,Yūbari,true,4,Standard,japan,Cruiser,103,53,1918643,62,76781,24
+3554621136,ARP Kirishima,true,5,Arpeggio,japan,Battleship,270,130,8079146,170,225070,97
+4267587280,Kamikaze R,true,5,Standard,japan,Destroyer,68,37,1821143,70,79073,18
+3553572560,ARP Haruna,true,5,Arpeggio,japan,Battleship,207,110,7508564,145,212258,63
+3765352144,Yahagi,true,5,Standard,japan,Cruiser,27,15,847374,29,31108,10
+4184749776,Mutsuki,false,5,Standard,japan,Destroyer,560,277,10448510,310,462129,142
+4079924944,Agano,false,5,Standard,japan,Cruiser,31,19,966740,38,37670,6
+4287575760,Kongō,false,5,Standard,japan,Battleship,1198,561,36515474,722,973657,449
+4289640144,Furutaka,false,5,Standard,japan,Cruiser,1148,537,23386644,593,932371,268
+4268635856,Kamikaze,true,5,Standard,japan,Destroyer,19,11,533514,16,21030,4
+4290655952,Minekaze,false,5,Standard,japan,Destroyer,1346,663,29431874,921,1190814,340
+3555669712,ARP Kongō,true,5,Arpeggio,japan,Battleship,192,104,7122078,140,182555,84
+3552523984,ARP Hiei,true,5,Arpeggio,japan,Battleship,87,49,3130011,78,80427,29
+4277024464,Fūjin,true,5,Standard,japan,Destroyer,68,37,2390232,75,88087,22
+3345921744,Desert Falcon,true,5,Standard,japan,Cruiser,32,15,955044,23,26390,4
+3554555600,Shinonome,true,6,Standard,japan,Destroyer,25,11,736904,20,26199,8
+4287542992,Aoba,false,6,Standard,japan,Cruiser,836,380,18620571,348,755578,188
+4288624336,Fusō,false,6,Standard,japan,Battleship,1250,637,54391165,1007,1415237,510
+4183701200,Fubuki,false,6,Standard,japan,Destroyer,731,341,13745823,338,691830,131
+4183799504,Ryūjō,false,6,Standard,japan,AirCarrier,152,83,5775097,113,189033,100
+3669898960,Shinonome B,true,6,Black Edition,japan,Destroyer,50,20,1112688,44,63597,13
+4078876368,Gokase,false,6,Standard,japan,Cruiser,45,19,1230276,31,51529,7
+4078843600,Hatsuharu,false,6,Standard,japan,Destroyer,510,256,11497498,319,510333,160
+3764336336,Mutsu,true,6,Standard,japan,Battleship,81,37,4497302,77,109525,26
+3743364816,Ise,true,6,Standard,japan,Battleship,29,12,895096,14,31746,13
+3543054032,Southern Dragon,true,7,Standard,japan,Cruiser,12,5,317529,5,12321,1
+4284430032,Nagato,false,7,Standard,japan,Battleship,680,317,28086106,377,827584,226
+3752769232,Maya,true,7,Standard,japan,Cruiser,2,0,82324,0,1883,0
+3555636944,ARP Myōkō,true,7,Arpeggio,japan,Cruiser,131,59,4353865,85,146884,43
+3532568272,Eastern Dragon,true,7,Standard,japan,Cruiser,53,22,805861,10,50069,11
+3752802000,Hyūga,true,7,Standard,japan,Battleship,36,21,2395780,34,60103,17
+3553539792,ARP Ashigara,true,7,Arpeggio,japan,Cruiser,62,35,2558222,39,84561,20
+3551442640,ARP Haguro,true,7,Arpeggio,japan,Cruiser,21,12,762945,17,25536,7
+3763254992,Tokachi,true,7,Standard,japan,Cruiser,58,25,1683083,31,70822,9
+3522082512,ARP Nachi,true,7,Arpeggio,japan,Cruiser,33,14,1163619,19,38765,6
+3763287760,Ashitaka,true,7,Standard,japan,Battleship,133,64,6332290,100,154940,50
+4182652624,Akatsuki,false,7,Standard,japan,Destroyer,889,400,20171083,457,838534,213
+3763222224,Yūdachi,true,7,Standard,japan,Destroyer,23,9,479935,11,26309,2
+4286494416,Myōkō,false,7,Standard,japan,Cruiser,603,274,16887472,277,615060,165
+4077795024,Shiratsuyu,false,7,Standard,japan,Destroyer,626,306,16936662,450,667501,277
+4077827792,Omono,false,7,Standard,japan,Cruiser,64,26,2164755,40,90215,13
+4181604048,Akizuki,false,8,Standard,japan,Destroyer,640,314,25529317,494,936946,194
+3751196368,I-56,true,8,Standard,japan,Submarine,15,7,236994,6,17459,1
+3667801808,Asashio B,true,8,Black Edition,japan,Destroyer,1283,749,88819554,1534,2652268,549
+3751687888,Asashio,true,8,Standard,japan,Destroyer,178,66,3251420,22,157026,112
+4181702352,Shōkaku,false,8,Standard,japan,AirCarrier,221,101,9780826,150,298198,162
+3762239184,Kii,true,8,Standard,japan,Battleship,245,118,13913467,164,391037,60
+4285445840,Mogami,false,8,Standard,japan,Cruiser,639,300,23534847,326,778973,191
+3552491216,ARP Takao,true,8,Arpeggio,japan,Cruiser,149,75,5697819,87,187890,49
+4076779216,Shimanto,false,8,Standard,japan,Cruiser,56,19,1460933,19,64420,8
+4281284304,Amagi,false,8,Standard,japan,Battleship,827,405,45884270,568,1245232,282
+3541972688,AL Yukikaze,true,8,Azur Lane,japan,Destroyer,11,8,257514,12,19374,6
+4255037136,Atago,true,8,Standard,japan,Cruiser,1266,620,46619480,675,1721987,343
+3667834576,Atago B,true,8,Black Edition,japan,Cruiser,175,94,7040215,93,275742,40
+4076811984,Yumihari,false,8,Standard,japan,Battleship,79,41,5218344,64,137394,25
+3552458448,HSF Harekaze,true,8,High School Fleet,japan,Destroyer,60,29,1678367,41,84388,12
+4076746448,Kagerō,false,8,Standard,japan,Destroyer,1433,696,39198230,775,1511949,370
+3751786192,Kaga,true,8,Standard,japan,AirCarrier,39,18,1863912,31,62306,28
+4276008656,Tone,true,8,Standard,japan,Cruiser,13,7,575181,10,23254,5
+3740219088,Iwami,true,9,Standard,japan,Battleship,185,82,8732462,102,255479,51
+3540989648,Hotaka,false,9,Standard,japan,Battleship,1,1,85919,1,2484,1
+3729733328,Daisen,true,9,Standard,japan,Battleship,51,22,2108253,31,69047,8
+4075730640,Takahashi,false,9,Standard,japan,Cruiser,82,33,3042104,32,107218,23
+3519985360,Suzuya,true,9,Standard,japan,Cruiser,5,4,569711,8,12968,3
+3719247568,Tsurugi,true,9,Standard,japan,Battleship,35,20,2820426,29,61135,9
+4272895696,Izumo,false,9,Standard,japan,Battleship,460,210,29370025,272,731835,155
+3540956880,Chikuma II,true,9,Standard,japan,Cruiser,17,9,1027879,13,32485,8
+3761190608,Musashi,true,9,Standard,japan,Battleship,10,5,1292305,8,22078,2
+3540924112,Minegumo,true,9,Standard,japan,Destroyer,2,0,35631,0,1704,0
+4065212112,Kitakaze,false,9,Standard,japan,Destroyer,671,344,34345274,579,1119631,223
+3750704848,Hizen,true,9,Standard,japan,Battleship,58,34,4452018,48,101600,30
+4075763408,Adatara,false,9,Standard,japan,Battleship,50,26,4281710,42,98632,18
+4075697872,Yūgumo,false,9,Standard,japan,Destroyer,789,372,25126774,474,1013800,183
+3708761808,Iwami B,true,9,Black Edition,japan,Battleship,7,5,435690,8,12830,2
+3760109264,Azuma,true,9,Standard,japan,Cruiser,175,101,20843919,223,414793,103
+4282300112,Ibuki,false,9,Standard,japan,Cruiser,551,236,22879625,289,657269,183
+3749623504,Yoshino,false,10,Standard,japan,Cruiser,487,223,38213443,283,758640,155
+4074682064,Yodo,false,10,Standard,japan,Cruiser,39,16,2449574,21,65956,10
+3539941072,Aki,false,10,Standard,japan,Battleship,7,4,771881,6,14149,4
+3760142032,Shikishima,false,10,Standard,japan,Battleship,179,83,15619110,128,278141,53
+4074714832,Bungo,false,10,Standard,japan,Battleship,35,20,3557715,40,73296,16
+4282267344,Shimakaze,false,10,Standard,japan,Destroyer,6290,3116,309251405,4999,8601114,1695
+4276041424,Yamato,false,10,Standard,japan,Battleship,834,393,74029343,613,1586746,351
+3560912592,ARP Yamato,false,10,Arpeggio,japan,Battleship,52,17,1486498,4,58390,27
+4074649296,Harugumo,false,10,Standard,japan,Destroyer,837,368,41772236,513,1203084,161
+3361617616,AL Shimakaze,false,10,Azur Lane,japan,Destroyer,46,26,2492920,37,83070,32
+4259231440,Zaō,false,10,Standard,japan,Cruiser,929,417,53610928,515,1302581,345
+3676223184,Yoshino B,false,10,Black Edition,japan,Cruiser,28,13,1731753,20,47480,10
+3539908304,Kushiro,false,10,Standard,japan,Cruiser,14,10,930244,7,26782,6
+3760076496,Hayate,false,10,Standard,japan,Destroyer,84,43,3656453,70,130494,22
+4179605200,Hakuryū,false,10,Standard,japan,AirCarrier,128,64,8657774,79,198160,91
+4178523856,Satsuma,false,11,Standard,japan,Battleship,54,25,5513651,27,96956,25
+4178458320,Yamagiri,false,11,Standard,japan,Destroyer,23,10,683617,6,27854,6
+4188976912,Van Kinsbergen,false,1,Standard,netherlands,Cruiser,9,4,167648,34,9076,6
+4187928336,Gelderland,false,2,Standard,netherlands,Cruiser,9,6,231773,12,7285,4
+4186879760,Java,false,3,Standard,netherlands,Cruiser,5,1,141279,5,3922,2
+4185831184,De Ruyter,false,4,Standard,netherlands,Cruiser,18,14,893313,34,23029,9
+4184782608,Celebes,false,5,Standard,netherlands,Cruiser,40,18,1151260,24,47876,5
+4183734032,Kijkduin,false,6,Standard,netherlands,Cruiser,26,12,764630,16,29993,8
+4182685456,Eendracht,false,7,Standard,netherlands,Cruiser,82,40,2755749,58,113949,23
+3762206480,De Zeven Provinciën,true,8,Standard,netherlands,Cruiser,55,30,2651292,33,99003,14
+4181636880,Haarlem,false,8,Standard,netherlands,Cruiser,90,42,3676408,48,142255,23
+4276008720,Jaarsveld,false,8,Standard,netherlands,Cruiser,78,36,3514398,37,125845,22
+3761125136,Groningen,true,9,Standard,netherlands,Destroyer,539,267,25202050,355,888220,139
+4180588304,Johan de Witt,false,9,Standard,netherlands,Cruiser,58,37,4482622,39,108010,23
+4274960144,Menno van Coehoorn,false,9,Standard,netherlands,Cruiser,42,24,2057576,12,67055,13
+3550426896,Willem de Eerste,false,10,Standard,netherlands,Battleship,14,3,1548547,8,26663,1
+3550394128,Prins van Oranje,false,10,Standard,netherlands,Cruiser,38,21,3256759,29,77581,12
+3655218960,Tromp,false,10,Standard,netherlands,Destroyer,41,14,1212432,18,50930,8
+4179539728,Gouden Leeuw,false,10,Standard,netherlands,Cruiser,73,33,5007517,42,129606,12
+4284397328,Utrecht,false,10,Standard,netherlands,Cruiser,18,7,1767894,15,36611,4
+4188976464,Hércules,false,1,Standard,pan_america,Cruiser,5,4,121786,20,5675,3
+3768497488,Almirante Abreu,true,2,Standard,pan_america,Cruiser,2,2,33652,2,2234,1
+4187927888,Almirante Barroso,false,2,Standard,pan_america,Cruiser,3,2,130790,7,2128,1
+4186879312,Vicente Guerrero,false,3,Standard,pan_america,Cruiser,119,47,3638543,165,107691,46
+4185830736,Córdoba,false,4,Standard,pan_america,Cruiser,131,50,3863316,161,113652,35
+3765384528,Rio de Janeiro,true,5,Standard,pan_america,Battleship,267,164,13080858,356,315954,137
+4184782160,La Argentina,false,5,Standard,pan_america,Cruiser,27,12,720568,21,27986,6
+4183733584,Almirante Cochrane,false,6,Standard,pan_america,Cruiser,161,81,2930304,51,171440,38
+3764270416,Juruá,true,6,Standard,pan_america,Destroyer,7,2,103337,3,6842,0
+4182685008,Coronel Bolognesi,false,7,Standard,pan_america,Cruiser,61,30,1858881,41,83772,16
+3763254608,Nueve de Julio,true,7,Standard,pan_america,Cruiser,6,4,247029,8,7508,1
+3762206032,Almirante Grau,true,8,Standard,pan_america,Cruiser,20,8,1379354,13,39014,5
+4181636432,Ignacio Allende,false,8,Standard,pan_america,Cruiser,114,54,2885566,48,153790,31
+3762238800,Atlântico,true,8,Standard,pan_america,Battleship,51,22,3627958,45,90106,6
+4276041040,Ipiranga,false,8,Standard,pan_america,Battleship,368,179,22163167,313,517361,138
+4274992464,Los Andes,false,9,Standard,pan_america,Battleship,105,55,8130516,89,183891,35
+4180587856,Santander,false,9,Standard,pan_america,Cruiser,46,23,1892964,24,71477,12
+3540989264,Valparaíso,true,9,Standard,pan_america,Battleship,13,5,1491905,8,26534,1
+3550360912,La Pampa,false,10,Standard,pan_america,Destroyer,32,16,1808122,31,59408,12
+4284429648,Libertad,false,10,Standard,pan_america,Battleship,74,35,6278334,70,128267,29
+4179539280,San Martín,false,10,Standard,pan_america,Cruiser,53,23,2583442,31,86176,7
+4188976336,Chengan,false,1,Standard,pan_asia,Cruiser,49,20,267153,41,19699,9
+4187894992,Longjiang,false,2,Standard,pan_asia,Destroyer,64,22,1020604,70,31102,14
+3767448784,Ning Hai,true,3,Standard,pan_asia,Cruiser,1,0,73541,2,1154,0
+4186846416,Phra Ruang,false,3,Standard,pan_asia,Destroyer,70,35,1351826,53,42466,22
+4185797840,Shenyang,false,4,Standard,pan_asia,Destroyer,67,38,1878687,76,54820,22
+4184749264,Jianwei,false,5,Standard,pan_asia,Destroyer,154,80,3101541,103,136972,39
+4184782032,Chungking,false,5,Standard,pan_asia,Cruiser,32,20,656593,11,31704,6
+3543577808,Xin Zhong Guo 14,true,6,Standard,pan_asia,Submarine,29,13,162683,5,14441,6
+3764270288,Anshan,true,6,Standard,pan_asia,Destroyer,84,43,1443265,47,89460,19
+4183700688,Fushun,false,6,Standard,pan_asia,Destroyer,143,72,3450336,88,162239,40
+3764303056,Huanghe,true,6,Standard,pan_asia,Cruiser,71,35,1792215,47,76328,18
+4183733456,Rahmat,false,6,Standard,pan_asia,Cruiser,19,12,558489,16,25622,6
+4182652112,Gadjah Mada,false,7,Standard,pan_asia,Destroyer,115,49,2789506,72,136475,36
+3553572048,Teng She,true,7,Standard,pan_asia,Battleship,11,5,427339,5,14573,4
+3543053520,Lanzhou,true,7,Standard,pan_asia,Cruiser,6,3,314158,5,10769,4
+4182684880,Chumphon,false,7,Standard,pan_asia,Cruiser,103,44,3162863,70,131003,25
+4181603536,Hsienyang,false,8,Standard,pan_asia,Destroyer,57,32,2066689,45,92340,25
+3667801296,Loyang B,true,8,Black Edition,pan_asia,Destroyer,33,17,1114095,24,62709,9
+3751720144,Wukong,true,8,Standard,pan_asia,Cruiser,18,8,481347,3,23596,2
+4076745936,Siliwangi,true,8,Standard,pan_asia,Destroyer,6,1,132404,3,8748,0
+3762205904,Irian,true,8,Standard,pan_asia,Cruiser,3,1,180511,4,5044,1
+3762173136,Loyang,true,8,Standard,pan_asia,Destroyer,38,18,993230,25,54000,6
+3542004944,Narai,true,8,Standard,pan_asia,Cruiser,8,5,713754,7,18645,5
+3342775504,Piñatian,true,8,Standard,pan_asia,Cruiser,32,18,547350,3,35486,10
+3751687376,Fenyang,true,8,Standard,pan_asia,Destroyer,27,19,1179412,28,55372,6
+4181636304,Harbin,false,8,Standard,pan_asia,Cruiser,113,51,4475216,75,182302,24
+4180554960,Chung Mu,false,9,Standard,pan_asia,Destroyer,57,22,1972268,39,85066,16
+3740218576,Sun Yat-Sen,true,9,Standard,pan_asia,Battleship,51,20,2019821,26,62583,15
+3551474896,Taihang,true,9,Standard,pan_asia,Battleship,11,3,1086263,9,19049,2
+4180587728,Sejong,false,9,Standard,pan_asia,Cruiser,91,51,5300858,66,166890,34
+3761190096,Bajie,true,9,Standard,pan_asia,Battleship,4,4,428610,6,10382,2
+3540956368,Tianjin,true,9,Standard,pan_asia,Cruiser,16,12,1589420,20,36346,9
+3540923600,Nanning,true,9,Standard,pan_asia,Destroyer,1,1,33688,0,1522,1
+3750704336,Wujing,true,9,Standard,pan_asia,Battleship,22,11,1310487,19,35339,10
+3761157328,Dalian,true,9,Standard,pan_asia,Cruiser,2,1,79823,0,2812,1
+3552523472,Xuan Wu,true,9,Standard,pan_asia,Battleship,2,1,39189,0,2731,0
+3760075984,Lüshun,false,10,Standard,pan_asia,Destroyer,37,12,1736452,29,53779,5
+4179539152,Jinan,false,10,Standard,pan_asia,Cruiser,226,102,14724513,160,378266,64
+4179506384,Yueyang,false,10,Standard,pan_asia,Destroyer,455,251,28461740,362,796569,123
+3340645584,Lüshun B,false,10,Black Edition,pan_asia,Destroyer,127,65,4573494,78,184056,49
+3550393552,Incheon,false,10,Standard,pan_asia,Cruiser,27,12,1241810,19,44161,5
+4178457808,Kunming,false,11,Standard,pan_asia,Destroyer,44,24,2840869,42,75776,14
+4188976560,Júpiter,false,1,Standard,spain,Cruiser,4,0,78462,9,1987,2
+4187927984,Méndez Núñez,false,2,Standard,spain,Cruiser,3,1,40928,4,1705,1
+4186879408,Navarra,false,3,Standard,spain,Cruiser,1,0,38338,2,972,0
+4185830832,Almirante Cervera,false,4,Standard,spain,Cruiser,11,5,416947,13,9919,4
+4184782256,Galicia,false,5,Standard,spain,Cruiser,7,1,126427,2,4586,1
+4183733680,Baleares,false,6,Standard,spain,Cruiser,35,21,840482,18,42159,6
+3764303280,Canarias,true,6,Standard,spain,Cruiser,10,3,260927,5,9564,2
+4182685104,Asturias,false,7,Standard,spain,Cruiser,44,26,1604786,32,66173,9
+4181636528,Cataluña,false,8,Standard,spain,Cruiser,75,40,3646049,46,129392,23
+3762206128,Numancia,true,8,Standard,spain,Cruiser,18,5,668036,11,26638,2
+3540956592,Almirante Oquendo,true,9,Standard,spain,Cruiser,27,9,1910368,15,38707,8
+4180587952,Andalucía,false,9,Standard,spain,Cruiser,71,36,4068851,42,120025,17
+3540989360,Victoria,true,9,Standard,spain,Battleship,65,30,5677594,61,117082,17
+4179539376,Castilla,false,10,Standard,spain,Cruiser,41,18,2467319,24,67106,8
+3760076208,Álvaro de Bazán,false,10,Standard,spain,Destroyer,13,5,608621,5,21413,2
+4188977104,Black Swan,false,1,Standard,uk,Cruiser,894,385,7444425,1181,467120,279
+4187895760,Medea,false,2,Standard,uk,Destroyer,22,11,461362,27,15639,8
+4187928528,Weymouth,false,2,Standard,uk,Cruiser,349,160,6261063,336,207076,110
+4186879952,Caledon,false,3,Standard,uk,Cruiser,825,390,15660458,681,437152,170
+3767416784,Campbeltown,true,3,Standard,uk,Destroyer,31,16,677157,30,25069,8
+4186912720,Bellerophon,false,3,Standard,uk,Battleship,293,141,8413963,290,170246,119
+4082055120,Indefatigable,false,3,Standard,uk,Battleship,11,5,394504,19,9497,4
+4186847184,Valkyrie,false,3,Standard,uk,Destroyer,73,36,2261216,126,66726,21
+3767482320,Dreadnought,true,3,Standard,uk,Battleship,60,31,2247435,73,54155,24
+4185864144,Orion,false,4,Standard,uk,Battleship,634,332,25420402,692,446559,272
+4185798608,Wakeful,false,4,Standard,uk,Destroyer,100,50,2066360,74,68348,17
+4081039312,Hermes,false,4,Standard,uk,AirCarrier,241,125,5864460,131,167193,148
+4185831376,Danae,false,4,Standard,uk,Cruiser,656,326,11061548,403,378948,123
+4081006544,Queen Mary,false,4,Standard,uk,Battleship,42,20,2191012,72,39004,22
+4184782800,Emerald,false,5,Standard,uk,Cruiser,1303,640,25804246,757,1083438,288
+3765385168,Agincourt,true,5,Standard,uk,Battleship,540,307,35476061,924,822162,186
+4184815568,Iron Duke,false,5,Standard,uk,Battleship,434,235,15169502,305,407814,178
+4184750032,Acasta,false,5,Standard,uk,Destroyer,153,78,2720903,83,129494,50
+3765352400,Exeter,true,5,Standard,uk,Cruiser,83,51,2811803,79,106316,31
+4079957968,Tiger,false,5,Standard,uk,Battleship,63,30,2871037,59,76477,22
+4079925200,Hawkins,false,5,Standard,uk,Cruiser,131,73,2244456,54,116074,21
+3743365072,Repulse,true,6,Standard,uk,Battleship,67,34,3578783,50,96312,15
+3751786448,Ark Royal,true,6,Standard,uk,AirCarrier,347,192,14545248,287,492871,252
+4183209936,Undine,false,6,Standard,uk,Submarine,121,62,1212828,30,96724,32
+4183799760,Furious,false,6,Standard,uk,AirCarrier,245,124,6885744,128,252615,158
+4183766992,Queen Elizabeth,false,6,Standard,uk,Battleship,567,260,21004086,341,535184,217
+4183701456,Icarus,false,6,Standard,uk,Destroyer,292,138,4563100,146,257247,85
+4292818896,Warspite,true,6,Standard,uk,Battleship,839,415,29131071,509,933747,245
+4183734224,Leander,false,6,Standard,uk,Cruiser,1315,637,28809146,660,1129662,274
+3544102864,Orion '44,true,6,Historical Year Variants,uk,Cruiser,4,4,192696,3,8273,1
+3743332304,Dido,true,6,Standard,uk,Cruiser,43,29,1384647,28,60587,14
+3753818064,London,true,6,Standard,uk,Cruiser,72,39,3083397,65,102912,25
+4078876624,Devonshire,false,6,Standard,uk,Cruiser,228,104,4703433,101,211369,38
+3764271056,Gallant,true,6,Standard,uk,Destroyer,240,119,5148727,167,267928,79
+4078909392,Renown,false,6,Standard,uk,Battleship,70,32,2640893,44,80355,22
+3732879312,Repulse B,true,6,Black Edition,uk,Battleship,8,6,412371,11,13211,6
+3543087056,Rodney,true,7,Standard,uk,Battleship,3,2,180523,1,5173,0
+3763255248,Belfast,true,7,Standard,uk,Cruiser,325,191,14328701,296,472687,141
+4077828048,Surrey,false,7,Standard,uk,Cruiser,98,47,2842057,49,128690,22
+3752802256,Nelson,true,7,Standard,uk,Battleship,397,223,27942852,500,671940,154
+3763288016,Hood,true,7,Standard,uk,Battleship,321,165,18933512,322,492596,149
+4077860816,Rooke,false,7,Standard,uk,Battleship,109,57,6893840,114,189461,30
+4182718416,King George V,false,7,Standard,uk,Battleship,1076,519,53286705,866,1264759,486
+3543021520,Jupiter '42,true,7,Standard,uk,Destroyer,5,3,251653,5,9974,2
+3721344976,Renown '44,true,7,Historical Year Variants,uk,Battleship,17,7,799453,11,25329,2
+4182652880,Jervis,false,7,Standard,uk,Destroyer,205,100,3813633,130,219587,69
+3742316496,Duke of York,true,7,Standard,uk,Battleship,311,146,15601724,232,391299,120
+3522115536,Royal Sovereign,true,7,Standard,uk,Battleship,6,3,397062,9,11583,2
+3731830736,Collingwood,true,7,Standard,uk,Battleship,19,12,1190139,17,32970,6
+4182685648,Fiji,false,7,Standard,uk,Cruiser,1511,785,54170375,1263,1754517,495
+4181702608,Implacable,false,8,Standard,uk,AirCarrier,442,199,16621510,202,505719,281
+3751720912,Tiger '59,true,8,Standard,uk,Cruiser,289,149,17732331,309,607328,119
+3541972944,Eskimo,true,8,Standard,uk,Destroyer,4,2,176980,5,6129,0
+4076812240,Hawke,false,8,Standard,uk,Battleship,118,55,7964941,103,207134,39
+3720263632,Nottingham,true,8,Standard,uk,Cruiser,4,3,86051,0,6281,1
+4181604304,Lightning,false,8,Standard,uk,Destroyer,564,285,15932284,405,770884,222
+3730749392,Hampshire,true,8,Standard,uk,Cruiser,57,25,2740111,44,105033,16
+3762206672,Cheshire,true,8,Standard,uk,Cruiser,155,77,7392553,115,254655,41
+3741235152,Belfast '43,true,8,Historical Year Variants,uk,Cruiser,9,7,354836,3,16574,4
+3741300688,Colossus,true,8,Standard,uk,AirCarrier,70,32,5052061,78,125779,44
+4181112784,Sturdy,false,8,Standard,uk,Submarine,109,49,2214633,57,138257,32
+3762239440,Vanguard,true,8,Standard,uk,Battleship,460,252,29510219,453,758209,217
+4181637072,Edinburgh,false,8,Standard,uk,Cruiser,977,476,32005536,591,1147690,269
+4181669840,Monarch,false,8,Standard,uk,Battleship,461,210,21852358,281,579358,178
+3667802064,Cossack B,true,8,Black Edition,uk,Destroyer,64,34,1717025,30,100853,17
+3752736720,Cossack,true,8,Standard,uk,Destroyer,222,119,6470415,175,355508,85
+4076779472,Albemarle,false,8,Standard,uk,Cruiser,225,102,7291166,102,267676,48
+3542071248,Theseus,true,8,Standard,uk,AirCarrier,1,1,39466,0,1944,1
+4075763664,Duncan,false,9,Standard,uk,Battleship,122,53,8705237,90,210484,39
+3750639568,Somme,true,9,Standard,uk,Destroyer,46,27,1663711,35,84068,20
+3761190864,Marlborough,true,9,Standard,uk,Battleship,41,19,2704859,32,65268,10
+3656333264,Scarlet Thunder,true,9,Standard,uk,Battleship,7,4,654076,5,13878,3
+4075730896,Drake,false,9,Standard,uk,Cruiser,151,69,7071155,64,225648,24
+4180555728,Jutland,false,9,Standard,uk,Destroyer,313,139,11419107,232,449629,147
+3540924368,Barfleur,true,9,Standard,uk,Destroyer,3,3,226101,6,8692,3
+4180588496,Neptune,false,9,Standard,uk,Cruiser,1975,985,89145324,1426,2556518,634
+4180621264,Lion,false,9,Standard,uk,Battleship,596,276,33861747,311,778555,256
+4179507152,Daring,false,10,Standard,uk,Destroyer,859,466,39935140,832,1433225,393
+4179572688,Conqueror,false,10,Standard,uk,Battleship,896,382,56581454,483,1141211,374
+3549870032,Seal,false,10,Standard,uk,Submarine,51,27,2156778,39,92253,22
+3760109520,Plymouth,false,10,Standard,uk,Cruiser,200,108,12340394,202,373868,74
+3445536720,Defence,false,10,Standard,uk,Cruiser,170,80,10594084,108,277156,47
+4074715088,St. Vincent,false,10,Standard,uk,Battleship,135,67,11769124,109,251199,36
+3655251920,Gibraltar,false,10,Standard,uk,Cruiser,147,77,10147942,126,285555,57
+4179015632,Thrasher,false,10,Standard,uk,Submarine,39,14,933983,13,46161,13
+4074682320,Goliath,false,10,Standard,uk,Cruiser,286,121,18274805,171,460341,88
+3760076752,Druid,false,10,Standard,uk,Destroyer,88,36,3436512,25,126429,12
+3760175056,Malta,false,10,Standard,uk,AirCarrier,162,70,11799747,155,290300,102
+4074747856,Audacious,false,10,Standard,uk,AirCarrier,194,85,10195259,101,266154,135
+3760142288,Thunderer,false,10,Standard,uk,Battleship,972,510,110359381,1019,2026713,489
+4273911760,Monmouth,false,10,Standard,uk,Cruiser,23,10,2459938,17,47287,4
+3655284688,Incomparable,false,10,Standard,uk,Battleship,134,58,10520676,115,229584,45
+4179539920,Minotaur,false,10,Standard,uk,Cruiser,1228,563,66084218,1037,1681242,403
+4178491344,Edgar,false,11,Standard,uk,Cruiser,57,25,1930495,13,63350,13
+4178524112,Devastation,false,11,Standard,uk,Battleship,18,5,767039,2,18982,7
+4178556880,Eagle,false,11,Standard,uk,AirCarrier,117,50,8633075,71,174163,69
+4293834736,Erie,false,1,Standard,usa,Cruiser,1174,553,10544091,1412,651912,368
+4292753392,Sampson,false,2,Standard,usa,Destroyer,1109,540,14982380,910,539543,231
+3768465392,Smith,true,2,Standard,usa,Destroyer,72,31,1741699,112,57330,28
+4291737584,Albany,true,2,Standard,usa,Cruiser,74,36,1035365,42,44537,16
+4292786160,Chester,false,2,Standard,usa,Cruiser,1638,747,17843246,828,722234,380
+4290689008,St. Louis,false,3,Standard,usa,Cruiser,3020,1503,62732967,2330,1706337,820
+4293867504,South Carolina,false,3,Standard,usa,Battleship,2450,1211,52888371,1835,1362572,919
+4266538992,Wickes,false,3,Standard,usa,Destroyer,2370,1181,57102219,2850,1599728,541
+3767449584,Charleston,true,3,Standard,usa,Cruiser,211,106,5947266,240,170121,84
+4269717488,Phoenix,false,4,Standard,usa,Cruiser,1874,877,32862469,995,1149131,340
+4185896944,Langley,false,4,Standard,usa,AirCarrier,627,333,13869940,326,421274,356
+4281284592,Arkansas Beta,true,4,Standard,usa,Battleship,190,107,8570900,236,198262,89
+4290721776,Wyoming,false,4,Standard,usa,Battleship,3222,1520,84159381,2205,2015894,1173
+4274927600,Clemson,false,4,Standard,usa,Destroyer,1564,702,30204851,1286,949376,269
+4288624624,New York,false,5,Standard,usa,Battleship,2744,1266,70136026,1391,2131070,893
+4248745968,Marblehead,true,5,Standard,usa,Cruiser,342,159,5976564,148,256227,41
+3765385200,Oklahoma,true,5,Standard,usa,Battleship,56,37,2290105,46,69621,21
+4280170480,Nicholas,false,5,Standard,usa,Destroyer,1705,763,23646734,834,1222623,203
+3555670000,Texas,true,5,Standard,usa,Battleship,1002,494,36592319,744,1069415,410
+4289640432,Omaha,false,5,Standard,usa,Cruiser,2431,1169,48214360,1268,1834150,447
+3765319664,Hill,true,5,Standard,usa,Destroyer,38,22,979606,34,48364,11
+4247697392,Marblehead Lima,true,5,Special Distribution Variants,usa,Cruiser,25,18,616728,16,26197,4
+4078352368,Cachalot,false,6,Standard,usa,Submarine,237,116,3536816,74,199956,51
+3764336624,Arizona,true,6,Standard,usa,Battleship,893,462,39069441,752,1038479,398
+4078876656,Dallas,false,6,Standard,usa,Cruiser,499,229,12892174,245,527586,114
+4183799792,Ranger,false,6,Standard,usa,AirCarrier,365,171,9834430,163,379295,214
+4259264496,New Mexico,false,6,Standard,usa,Battleship,4196,2036,156126035,2941,4348211,1715
+4267685872,Independence,false,6,Standard,usa,AirCarrier,53,23,1077063,16,45054,23
+4289607664,Farragut,false,6,Standard,usa,Destroyer,1108,544,18021385,532,995608,189
+4183734256,Pensacola,false,6,Standard,usa,Cruiser,664,299,14867122,259,560972,145
+3763288048,W. Virginia '41,true,6,Historical Year Variants,usa,Battleship,109,62,5006630,77,151835,33
+3764271088,Monaghan,true,6,Standard,usa,Destroyer,117,62,2134232,55,138018,28
+3679369200,Atlanta B,true,7,Black Edition,usa,Cruiser,14,8,736053,10,30943,5
+3742316528,West Virginia '44,true,7,Historical Year Variants,usa,Battleship,14,5,817705,14,21102,5
+4288559088,Mahan,false,7,Standard,usa,Destroyer,883,422,16992676,400,940409,139
+3763255280,Indianapolis,true,7,Standard,usa,Cruiser,322,156,8751595,150,371796,54
+3752802288,Florida,true,7,Standard,usa,Battleship,59,25,3486139,48,93792,20
+4256053232,Hughes,false,7,Standard,usa,Destroyer,21,12,579345,14,33632,9
+4286527472,Colorado,false,7,Standard,usa,Battleship,2451,1094,97264946,1420,2462318,971
+4288591856,Atlanta,true,7,Standard,usa,Cruiser,2264,1096,60656882,1347,2751327,428
+3553572848,California,true,7,Standard,usa,Battleship,38,22,1878970,23,57853,16
+4182685680,New Orleans,false,7,Standard,usa,Cruiser,499,252,15597840,251,555995,134
+3668883440,Boise,true,7,Standard,usa,Cruiser,204,95,5569990,87,258963,50
+4264441840,Sims,true,7,Standard,usa,Destroyer,333,156,6682982,175,430154,78
+4077828080,Helena,false,7,Standard,usa,Cruiser,352,161,12949783,227,460479,99
+3553540080,Flint,true,7,Standard,usa,Cruiser,4,1,82970,0,3430,0
+3668850672,Sims B,true,7,Black Edition,usa,Destroyer,11,6,390459,7,22404,2
+3730782192,Constellation,true,8,Standard,usa,Battleship,29,14,1730705,15,49360,7
+3762206704,Wichita,true,8,Standard,usa,Cruiser,4,3,137053,2,5243,2
+3542038512,Tennessee,true,8,Standard,usa,Battleship,102,67,9247565,127,233652,45
+3342809072,Kheper,true,8,Standard,usa,Battleship,1,1,47415,0,2772,0
+4181637104,Baltimore,false,8,Standard,usa,Cruiser,681,327,23453222,355,913605,161
+3751720944,Anchorage,true,8,Standard,usa,Cruiser,20,13,978232,13,37147,4
+3552491504,Bridgeport,true,8,Standard,usa,Cruiser,3,1,66957,0,3795,0
+3762239472,Alabama,true,8,Standard,usa,Battleship,414,169,17563663,243,481995,142
+4286461936,Benson,false,8,Standard,usa,Destroyer,1070,460,18834335,394,1052458,157
+3751753712,Massachusetts,true,8,Standard,usa,Battleship,1056,561,62716880,898,1693283,402
+3730814960,Hornet,true,8,Standard,usa,AirCarrier,318,143,15698491,281,434879,217
+4265588720,Yorktown,false,8,Standard,usa,AirCarrier,36,14,1515339,24,57396,25
+3741235184,Congress,true,8,Standard,usa,Cruiser,13,8,687134,12,23415,4
+3531519984,Protector,false,8,Standard,usa,Cruiser,12,6,644142,6,21145,0
+3542005744,AL Montpelier,true,8,Azur Lane,usa,Cruiser,2,1,71559,0,2954,1
+3762173936,Kidd,true,8,Standard,usa,Destroyer,260,136,7416011,176,401828,81
+4181702640,Lexington,false,8,Standard,usa,AirCarrier,407,214,19869647,302,626503,290
+3741300720,Saipan,true,8,Standard,usa,AirCarrier,6,2,190464,5,8110,5
+4076255216,Salmon,false,8,Standard,usa,Submarine,272,154,10015772,151,374823,89
+3353327600,AL Hornet,true,8,Azur Lane,usa,AirCarrier,24,15,1612706,31,48658,16
+4282333168,North Carolina,false,8,Standard,usa,Battleship,4960,2314,213697788,2915,5134465,2111
+3447666672,North Carolina CLR,true,8,Color Variants,usa,Battleship,75,40,5556010,76,148028,26
+3720263664,San Diego,true,8,Standard,usa,Cruiser,82,48,3305172,55,139875,24
+4076812272,Nebraska,false,8,Standard,usa,Battleship,83,36,2700277,23,105766,35
+4255004656,Osborne,false,8,Standard,usa,Destroyer,18,11,693969,12,35837,4
+3730749424,Rochester,true,8,Standard,usa,Cruiser,34,15,1688056,22,61371,9
+3437180912,Alabama B,true,8,Black Edition,usa,Battleship,1,0,67624,1,1933,0
+3751786480,Enterprise,true,8,Standard,usa,AirCarrier,68,41,3912899,71,129122,60
+4181669872,Kansas,false,8,Standard,usa,Battleship,235,112,11877255,142,353383,76
+3667867632,Massachusetts B,true,8,Black Edition,usa,Battleship,330,175,24295987,293,588594,91
+4076779504,Cleveland,false,8,Standard,usa,Cruiser,990,473,35172159,540,1242534,239
+4075763696,Delaware,false,9,Standard,usa,Battleship,47,24,2954870,23,79862,17
+3750705136,Kearsarge,true,9,Standard,usa,Battleship,39,24,2696378,20,66295,16
+3540957168,Cambridge,true,9,Standard,usa,Cruiser,54,32,4366419,60,118748,10
+4075730928,Seattle,false,9,Standard,usa,Cruiser,445,209,15141743,169,574925,160
+4180621296,Minnesota,false,9,Standard,usa,Battleship,123,44,7817510,76,180024,41
+3551410160,Black,true,9,Standard,usa,Destroyer,78,27,3495497,75,129732,32
+3530504176,Georgia,true,9,Standard,usa,Battleship,878,453,71474606,913,1522567,300
+3436066800,GQ Johnny,true,9,Standard,usa,Destroyer,1,0,34808,0,1174,0
+3750672368,Tulsa,true,9,Standard,usa,Cruiser,167,76,4525971,60,198007,27
+4180588528,Buffalo,false,9,Standard,usa,Cruiser,544,230,19193181,255,654632,93
+4272830448,Fletcher,false,9,Standard,usa,Destroyer,903,398,25715663,485,1105516,231
+4276041712,Iowa,false,9,Standard,usa,Battleship,4657,2101,246316659,2851,5017036,2104
+3666786288,Alaska B,true,9,Black Edition,usa,Cruiser,185,97,13115231,143,353892,41
+3729733616,Illinois,true,9,Standard,usa,Battleship,97,50,7093573,82,174507,26
+3761125360,Benham,true,9,Standard,usa,Destroyer,86,48,3745368,67,163250,33
+3750639600,Halford,true,9,Standard,usa,Destroyer,24,11,681219,16,35510,8
+3740153840,Black B,true,9,Black Edition,usa,Destroyer,1,0,73505,1,1487,0
+3540924400,Johnston,true,9,Standard,usa,Destroyer,50,20,2443904,63,87958,20
+3761158128,Vallejo,true,9,Standard,usa,Cruiser,1,0,55907,1,928,0
+3761190896,Missouri,true,9,Standard,usa,Battleship,281,135,17335191,203,449555,102
+3760109552,Alaska,true,9,Standard,usa,Cruiser,1554,829,93581361,1086,2529405,446
+4253956080,Christopher,false,9,Standard,usa,Destroyer,22,11,1037887,12,34006,3
+3759585264,Gato,false,10,Standard,usa,Submarine,6,3,250283,2,10107,2
+4277090288,Montana,false,10,Standard,usa,Battleship,5374,2518,371507083,3415,7682442,1943
+4179605488,Midway,false,10,Standard,usa,AirCarrier,842,390,59705646,679,1371113,563
+4281219056,Gearing,false,10,Standard,usa,Destroyer,1897,932,66839980,1085,2394485,557
+4273911792,Des Moines,false,10,Standard,usa,Cruiser,2334,1269,183062239,2420,4861867,840
+3445536752,Austin,false,10,Standard,usa,Cruiser,647,317,49733070,698,1329757,234
+3550394352,Salem,false,10,Standard,usa,Cruiser,452,221,26459619,304,713907,131
+3539875824,Hull,false,10,Standard,usa,Destroyer,8,5,312075,4,14457,1
+3539908592,Hawaii,false,10,Standard,usa,Cruiser,58,28,4134638,40,108336,18
+3529455600,Wisconsin,false,10,Standard,usa,Battleship,375,162,29644165,325,659840,104
+4252907504,Burrows,false,10,Standard,usa,Destroyer,7,1,394114,2,9304,1
+3655219184,Forrest Sherman,false,10,Standard,usa,Destroyer,505,222,24766635,282,797276,138
+3655251952,Puerto Rico,false,10,Standard,usa,Cruiser,342,158,23922956,199,597899,102
+3550361584,Laffey,false,10,Standard,usa,Destroyer,13,5,340118,5,19788,1
+4074715120,Louisiana,false,10,Standard,usa,Battleship,62,25,4481004,50,109804,25
+3760142320,Ohio,false,10,Standard,usa,Battleship,796,393,68078874,675,1434710,253
+4074158064,Balao,false,10,Standard,usa,Submarine,1219,576,49016472,577,1488103,451
+3550427120,Oregon,false,10,Standard,usa,Battleship,24,10,1187218,19,34407,6
+4074682352,Worcester,false,10,Standard,usa,Cruiser,651,295,34168001,427,1000396,222
+4179572720,Vermont,false,10,Standard,usa,Battleship,531,249,40148377,413,899958,206
+3760175088,Franklin D. Roosevelt,false,10,Standard,usa,AirCarrier,3,2,253320,5,5349,3
+4273977328,Essex,false,10,Standard,usa,AirCarrier,34,15,2074952,30,59925,25
+3539941360,Rhode Island,false,10,Standard,usa,Battleship,67,29,5174846,57,117621,17
+4178556912,United States,false,11,Standard,usa,AirCarrier,281,141,25322614,245,489405,131
+4178458608,Joshua Humphreys,false,11,Standard,usa,Destroyer,23,11,1277426,20,35332,4
+4178491376,Annapolis,false,11,Standard,usa,Cruiser,58,24,3649368,39,93536,15
+4178524144,Maine,false,11,Standard,usa,Battleship,213,95,19267022,155,351648,76
+4283348976,Jacksonville,false,11,Standard,usa,Cruiser,17,9,1428077,12,36005,5
+4188976592,Orlan,false,1,Standard,ussr,Cruiser,875,392,4666264,661,345661,207
+4284397008,Diana Lima,true,2,Special Distribution Variants,ussr,Cruiser,6,2,156496,8,3968,2
+4187928016,Novik,false,2,Standard,ussr,Cruiser,160,78,2398542,147,86148,50
+4187895248,Storozhevoi,false,2,Standard,ussr,Destroyer,273,133,2347645,149,101567,42
+4292785616,Diana,true,2,Standard,ussr,Cruiser,26,12,310738,12,13262,9
+4186912208,Knyaz Suvorov,false,3,Standard,ussr,Battleship,78,37,2822409,119,63494,38
+3767449040,Oleg,true,3,Standard,ussr,Cruiser,1,1,16582,1,797,1
+4186879440,Bogatyr,false,3,Standard,ussr,Cruiser,262,140,5498418,186,153167,67
+4293834192,Aurora,true,3,Standard,ussr,Cruiser,43,26,840396,35,34086,12
+3756963280,Varyag,true,3,Standard,ussr,Cruiser,9,4,254084,13,8914,2
+4186846672,Derzki,false,3,Standard,ussr,Destroyer,345,160,3848138,189,148272,44
+4185896400,Komsomolets,false,4,Standard,ussr,AirCarrier,12,9,233401,7,9775,8
+4185830864,Svietlana,false,4,Standard,ussr,Cruiser,407,214,8059603,268,241090,100
+4293866960,Imperator Nikolai I,true,4,Standard,ussr,Battleship,16,8,546938,18,12988,4
+4185798096,Izyaslav,false,4,Standard,ussr,Destroyer,413,190,4542412,182,207964,43
+4185863632,Gangut,false,4,Standard,ussr,Battleship,1884,994,91335237,2966,1656719,856
+4293801424,Gremyashchy,true,5,Standard,ussr,Destroyer,12,7,172331,5,9239,1
+4291737040,Murmansk,true,5,Standard,ussr,Cruiser,426,208,10582272,241,420088,72
+4079891920,Podvoisky,false,5,Standard,ussr,Destroyer,48,25,910765,34,46277,13
+3765384656,Oktyabrskaya Revolutsiya,true,5,Standard,ussr,Battleship,288,140,13157301,252,290442,130
+3765351888,Krasny Krym,true,5,Standard,ussr,Cruiser,8,3,183454,5,6958,0
+3744380368,Kirov,true,5,Standard,ussr,Cruiser,64,33,1598238,32,58554,10
+4069438928,Kotovsky,false,5,Standard,ussr,Cruiser,145,67,2378091,60,117245,20
+3765319120,Okhotnik,true,5,Standard,ussr,Destroyer,98,41,2028503,71,97351,17
+4184815056,Pyotr Velikiy,false,5,Standard,ussr,Battleship,444,220,19140101,468,485855,156
+3754866128,Mikoyan,true,5,Standard,ussr,Cruiser,19,13,485297,11,24050,4
+4183799248,Serov,false,6,Standard,ussr,AirCarrier,37,17,1488569,34,46331,24
+4183766480,Izmail,false,6,Standard,ussr,Battleship,370,188,14649645,274,387393,125
+4183733712,Budyonny,false,6,Standard,ussr,Cruiser,566,276,13498421,256,469059,159
+3753850320,Novorossiysk,true,6,Standard,ussr,Battleship,22,13,1097145,23,32816,12
+4078843344,Gnevny,false,6,Standard,ussr,Destroyer,108,50,1881648,57,99227,28
+3764303312,Molotov,true,6,Standard,ussr,Cruiser,163,79,4536606,92,181957,35
+4183209424,S-1,false,6,Standard,ussr,Submarine,12,5,82348,0,8919,4
+3659445712,Admiral Makarov,true,6,Standard,ussr,Cruiser,4,3,194062,7,8265,1
+3751720400,Lazo,true,7,Standard,ussr,Cruiser,453,225,21906967,312,679851,186
+3699291600,Lazo B,true,7,Black Edition,ussr,Cruiser,58,29,2744516,43,87384,19
+4182717904,Sinop,false,7,Standard,ussr,Battleship,406,197,19191808,330,475208,140
+3763221968,Leningrad,true,7,Standard,ussr,Destroyer,65,33,1390541,34,80843,20
+4182685136,Shchors,false,7,Standard,ussr,Cruiser,1709,815,68154441,1057,2300231,609
+3543086544,Arkhangelsk,true,7,Standard,ussr,Battleship,10,5,674190,8,15861,5
+3762238928,Poltava,true,7,Standard,ussr,Battleship,18,9,972492,16,30250,8
+4077794768,Minsk,false,7,Standard,ussr,Destroyer,79,49,2148292,56,110291,33
+3752736208,Tashkent '39,true,7,Standard,ussr,Destroyer,16,10,813839,24,30021,8
+3741267408,Borodino,true,8,Standard,ussr,Battleship,6,3,489580,5,12287,0
+3741234640,Ochakov,true,8,Standard,ussr,Cruiser,27,11,190140,3,19237,4
+4076746192,Ognevoi,false,8,Standard,ussr,Destroyer,110,56,3562341,102,182785,50
+4181669328,Vladivostok,false,8,Standard,ussr,Battleship,247,123,12771334,169,359088,87
+3971888592,Kiev,false,8,Standard,ussr,Destroyer,108,58,3288121,66,158423,40
+3437147600,Kiberpankov,true,8,Standard,ussr,Cruiser,29,20,683516,9,34504,11
+4181112272,L-20,false,8,Standard,ussr,Submarine,6,5,131729,5,12107,6
+4181636560,Chapayev,false,8,Standard,ussr,Cruiser,600,277,21803974,300,669816,215
+3751753168,Lenin,true,8,Standard,ussr,Battleship,369,241,39973919,621,969664,218
+4076778960,Tallinn,false,8,Standard,ussr,Cruiser,166,87,6651656,90,260042,40
+3730748880,Pyotr Bagration,true,8,Standard,ussr,Cruiser,3,3,78828,1,5191,0
+4181702096,Pobeda,false,8,Standard,ussr,AirCarrier,34,15,1545030,21,44938,21
+3762271696,Chkalov,true,8,Standard,ussr,AirCarrier,12,2,437792,9,14124,9
+3762206160,Mikhail Kutuzov,true,8,Standard,ussr,Cruiser,176,94,8114196,125,249655,62
+3761681872,S-189,true,8,Standard,ussr,Submarine,13,4,141761,4,16066,3
+3709777360,Dmitry Pozharsky,true,8,Standard,ussr,Cruiser,7,3,391290,1,10925,1
+3551409616,Neustrashimy,true,9,Standard,ussr,Destroyer,30,18,1019587,22,51334,10
+3761190352,Navarin,true,9,Standard,ussr,Battleship,10,4,602522,9,15413,0
+4075730384,Riga,false,9,Standard,ussr,Cruiser,239,128,12430048,150,401238,83
+3551442384,Vyazma,false,9,Standard,ussr,Cruiser,23,11,1090137,10,32572,6
+4180587984,Dmitri Donskoi,false,9,Standard,ussr,Cruiser,586,293,26543994,289,721763,234
+3761157584,Kronshtadt,true,9,Standard,ussr,Cruiser,1,1,92650,1,2593,0
+3865982416,Tashkent,false,9,Standard,ussr,Destroyer,75,34,3632318,47,129946,24
+3341759952,Mahtaga,true,9,Standard,ussr,Battleship,1,1,27086,0,1571,0
+3540989392,Zarya Svobody,true,9,Standard,ussr,Battleship,4,1,365666,4,6828,0
+3540956624,Kozma Minin,true,9,Standard,ussr,Cruiser,16,9,1177866,15,34351,7
+4182652368,Udaloi,false,9,Standard,ussr,Destroyer,124,59,5183479,86,206253,43
+3551475152,AL Sov. Rossiya,true,9,Azur Lane,ussr,Battleship,2,2,36434,0,3826,0
+4180620752,Sovetsky Soyuz,false,9,Standard,ussr,Battleship,416,204,26290972,310,587385,146
+4179506640,Khabarovsk,false,10,Standard,ussr,Destroyer,109,46,5422048,69,157950,33
+3330192848,PTRPVLSK,false,10,Standard,ussr,Cruiser,44,25,1254367,12,48538,14
+4179539408,Moskva,false,10,Standard,ussr,Cruiser,649,301,42917815,440,1031326,265
+4074649040,Grozovoi,false,10,Standard,ussr,Destroyer,78,31,2746907,46,116588,13
+3445536208,Komissar,false,10,Standard,ussr,Cruiser,17,5,1177751,16,20497,4
+4179572176,Kremlin,false,10,Standard,ussr,Battleship,210,111,16710562,143,383751,75
+3550426576,Sibir,false,10,Standard,ussr,Battleship,77,43,7324939,90,164675,19
+3655251408,Smolensk,false,10,Standard,ussr,Cruiser,987,510,97168440,1023,2037957,366
+3969824208,Petropavlovsk,false,10,Standard,ussr,Cruiser,2311,1161,170773530,1548,4008444,645
+3760109008,Stalingrad,false,10,Standard,ussr,Cruiser,361,190,33390841,359,747831,146
+3760141776,Slava,false,10,Standard,ussr,Battleship,258,155,38875393,372,700650,176
+3864933840,Delny,false,10,Standard,ussr,Destroyer,22,11,1609018,16,41867,12
+4074681808,Alexander Nevsky,false,10,Standard,ussr,Cruiser,172,88,14783430,150,349599,86
+4179604944,Admiral Nakhimov,false,10,Standard,ussr,AirCarrier,5,2,251644,2,7260,3
+4178490832,Novosibirsk,false,11,Standard,ussr,Cruiser,23,14,1622785,17,40212,12
+4178523600,Admiral Ushakov,false,11,Standard,ussr,Battleship,2,0,57355,1,1291,0
+4178458064,Zorkiy,false,11,Standard,ussr,Destroyer,273,146,15977256,175,505624,87
