@@ -66,13 +66,65 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 	1. Removed empty rows at the end of the data.
 	2. Ensured accurate data formatting.
 
-## 💡 Phase 4: Analyze (Key Findings)
+## 💡 Phase 4: Analyze (Summary of Analysis)
+To answer the core business questions, I utilized Google BigQuery to build a centralized `master_ship_summary` table, joining the static ship attributes with player performance records. I then wrote targeted SQL queries to aggregate engagement and economic metrics.
+**SQL Highlight: CTEs for Apples-to-Apples Balancing** To accurately compare Premium ships against standard Tech Tree ships, I used Common Table Expressions (CTEs) to isolate the averages. By joining the two temporary tables on shared traits (`tier`, `nation`, and `type`), the query output places a Premium ship's win rate, damage, and XP directly next to the average of its exact Tech Tree counterparts.
+```
+WITH premium_stats AS (
+  SELECT
+    ship_name,
+    tier,
+    nation,
+    type,
+    SAFE_DIVIDE(SUM(total_wins), SUM(total_battles)) AS prem_win_rate,
+    SAFE_DIVIDE(SUM(total_damage_dealt), SUM(total_battles)) AS prem_avg_damage,
+    SAFE_DIVIDE(SUM(total_xp), SUM(total_battles)) AS prem_avg_xp
+  FROM `[your-project-id].wows_case_study.master_ship_summary`
+  WHERE is_premium = TRUE
+  GROUP BY ship_name, tier, nation, type
+),
+
+tech_tree_stats AS (
+  SELECT
+    tier,
+    nation,
+    type,
+    SAFE_DIVIDE(SUM(total_wins), SUM(total_battles)) AS tt_win_rate,
+    SAFE_DIVIDE(SUM(total_damage_dealt), SUM(total_battles)) AS tt_avg_damage,
+    SAFE_DIVIDE(SUM(total_xp), SUM(total_battles)) AS tt_avg_xp
+  FROM `[your-project-id].wows_case_study.master_ship_summary`
+  WHERE is_premium = FALSE AND event = 'Standard'
+  GROUP BY tier, nation, type
+)
+
+SELECT
+  p.ship_name,
+  p.tier,
+  p.nation,
+  p.type,
+  p.prem_win_rate,
+  t.tt_win_rate,
+  p.prem_avg_damage,
+  t.tt_avg_damage,
+  p.prem_avg_xp,
+  t.tt_avg_xp
+FROM premium_stats p
+INNER JOIN tech_tree_stats t
+  ON p.tier = t.tier
+  AND p.nation = t.nation
+  AND p.type = t.type
+ORDER BY 
+  p.tier DESC, 
+  p.nation, 
+  p.type,
+  p.ship_name;
+```
+_(Note: The full suite of queries used for event engagement and ownership proxies can be found in the 03_scripts_notebooks folder)._
+
+## 📈 Phase 5: Share (Visualizations & Key Findings)
 
 
-## 📈 Phase 5: Share (Visualizations)
-
-
-## 🚀 Phase 6: Act (Strategic Recommendations)
+## 🚀 Phase 6: Act (Strategic Recommendations & Insights)
 
 
 ---
