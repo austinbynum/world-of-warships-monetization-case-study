@@ -68,6 +68,7 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 
 ## 💡 Phase 4: Analyze (Summary of Analysis)
 To answer the core business questions, I utilized Google BigQuery to build a centralized `master_ship_summary` table, joining the static ship attributes with player performance records. I then wrote targeted SQL queries to aggregate engagement and economic metrics.
+
 **SQL Highlight: CTEs for Apples-to-Apples Balancing** To accurately compare Premium ships against standard Tech Tree ships, I used Common Table Expressions (CTEs) to isolate the averages. By joining the two temporary tables on shared traits (`tier`, `nation`, and `type`), the query output places a Premium ship's win rate, damage, and XP directly next to the average of its exact Tech Tree counterparts.
 ```
 WITH premium_stats AS (
