@@ -1,4 +1,4 @@
-name,nation,is_premium,ship_id,tier,type,category
+name,nation,is_premium,ship_id,tier,type,event
 Aberdeen,uk,TRUE,3540957136,9,Cruiser,Standard
 Acasta,uk,FALSE,4184750032,5,Destroyer,Standard
 Adatara,japan,FALSE,4075763408,9,Battleship,Standard

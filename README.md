@@ -61,7 +61,7 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 	2. Ensured accurate data formatting.
 	3. Sorting `name` alphabetically, I found some ship names inside brackets, which indicates the player did not own the ship, but rather rented it. Because the business task is specifically focused on comparing standard Tech Tree ships to purchasable Premium ships, these temporary rentals were removed.
 	4. Two ships were listed twice ("Schlieffen" & "Vrijheid") with different ship IDs. This was determined to be caused by developers releasing beta versions of the ships to be tested, changing the `ship_id` to release the final version of the ship. I resolved this by searching `wows_player_ship_stats.csv` for the IDs. Only 1 of the "Schlieffen" ships were played, so I deleted the others as they would have been removed when I JOIN the tables later.
-	5. Added `category` column to indicate ships purchased during a special event or ones offered with special variants.
+	5. Added `event` column to indicate ships purchased during a special event or ones offered with special variants.
 * **`wows_player_ship_stats.csv`:**
 	1. Removed empty rows at the end of the data.
 	2. Ensured accurate data formatting.
