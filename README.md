@@ -127,11 +127,11 @@ _(Note: The full suite of queries used for event engagement and ownership proxie
 ## 📈 Phase 5: Share (Visualizations & Key Findings)
 I created a custom Power BI JSON theme by scraping World of Warships' official branding colors to ensure an authentic and visually cohesive visualizations.
 
-<img src="04_visualizations/event_engagement.pdf" alt="Event Engagement">
+<img src="04_visualizations/event_engagement.png" alt="Event Engagement">
 
-<img src="04_visualizations/in_game_preformance.pdf" alt="In-Game Performance">
+<img src="04_visualizations/in_game_preformance.png" alt="In-Game Performance">
 
-<img src="04_visualizations/ownership_proxy_tt_usage.pdf" alt="Ownership Proxy & Tech Tree Usage">
+<img src="04_visualizations/ownership_proxy_tt_usage.png" alt="Ownership Proxy & Tech Tree Usage">
 
 
 
