@@ -129,7 +129,7 @@ I created a custom Power BI JSON theme by scraping World of Warships' official b
 
 <img src="04_visualizations/event_engagement.png" alt="Event Engagement">
 
-<img src="04_visualizations/in_game_preformance.png" alt="In-Game Performance">
+<img src="04_visualizations/in_game_performance.png" alt="In-Game Performance">
 
 <img src="04_visualizations/ownership_proxy_tt_usage.png" alt="Ownership Proxy & Tech Tree Usage">
 
