@@ -1,0 +1,59 @@
+{
+    "name": "World of Warships",
+    "dataColors": [
+        "#FF6B00",
+        "#36B1BF",
+        "#5B6D7A",
+        "#D93625",
+        "#F2A900",
+        "#8CA3B8",
+        "#0088CC",
+        "#E0E6ED"
+    ],
+    "background": "#0E141C",
+    "foreground": "#E0E6ED",
+    "tableAccent": "#FF6B00",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontSize": 11,
+                        "fontFamily": "Segoe UI, Arial, sans-serif",
+                        "color": { "solid": { "color": "#E0E6ED" } }
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#151F2B" } },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#5B6D7A" } },
+                        "radius": 4
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#0E141C" } },
+                        "transparency": 0
+                    }
+                ],
+                "outspace": [
+                    {
+                        "color": { "solid": { "color": "#0A0E14" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}
