@@ -130,22 +130,22 @@ I created a custom Power BI JSON theme by scraping World of Warships' official b
 **1. Event Engagement Chart**
 <img src="04_visualizations/event_engagement.png" alt="Event Engagement">
 **Key Findings: Event Engagement**
-	* **Black Friday Dominates:** "Black Edition" ships are by far the most popular special-event vessels, driving **2,657 battles** in the sample. This is more than double the engagement of the next closest category.
-	* **Anime/Collaboration Success:** The "Arpeggio" collaboration ships are the second most popular event category (**1,204 battles88), proving that targeted franchise crossovers successfully drive player engagement.
-	* **Underperforming Categories:** "Golden Edition" and "Special Distribution Variants" show extremely low usage, indicating these types of sales events may not effectively drive long-term player retention.
+* **Black Friday Dominates:** "Black Edition" ships are by far the most popular special-event vessels, driving **2,657 battles** in the sample. This is more than double the engagement of the next closest category.
+* **Anime/Collaboration Success:** The "Arpeggio" collaboration ships are the second most popular event category (**1,204 battles88), proving that targeted franchise crossovers successfully drive player engagement.
+* **Underperforming Categories:** "Golden Edition" and "Special Distribution Variants" show extremely low usage, indicating these types of sales events may not effectively drive long-term player retention.
 
 **2. In-Game Performance (Premium vs. Tech Tree)**
 <img src="04_visualizations/in_game_performance.png" alt="In-Game Performance">
 **Key Findings: Balancing & Economy**
-	* **Economic Superiority:** The KPI cards confirm that Premium ships consistently yield higher Average Base XP than their exact Tech Tree counterparts. This validates to players that purchasing Premium ships is a highly effective way to "grind" through the game's economy.
-	* **Balancing Outliers:** The scatter plot visualizes the balance spread. While most Premium ships cluster safely around the Tech Tree averages, stakeholders can use this view to easily identify specific Premium outliers that are either severely over-performing (high win rate/high damage) or under-performing.
+* **Economic Superiority:** The KPI cards confirm that Premium ships consistently yield higher Average Base XP than their exact Tech Tree counterparts. This validates to players that purchasing Premium ships is a highly effective way to "grind" through the game's economy.
+* **Balancing Outliers:** The scatter plot visualizes the balance spread. While most Premium ships cluster safely around the Tech Tree averages, stakeholders can use this view to easily identify specific Premium outliers that are either severely over-performing (high win rate/high damage) or under-performing.
 
 **3. Ownership Proxy & Tech Tree Usage**
 <img src="04_visualizations/ownership_proxy_tt_usage.png" alt="Ownership Proxy & Tech Tree Usage">
 **Key Findings: Usage Comparisons**
-	* **Tech Tree Ships Dwarf Premium Usage:** By synchronizing the X-axis of both charts, it is visually apparent that free, standard Tech Tree ships are played vastly more than purchased Premium ships.
-	* **The Top Performers:** The most popular Premium ship is the Tier 7 **Atlanta** (2,264 battles). However, the most popular Tech Tree ship is the Tier 10 **Shimakaze** (6,290 battles), which boasts nearly triple the engagement.
-	* **Tier 10 Drives the Game:** The Tech Tree usage chart reveals that Tier 10 ships (like the _Shimakaze_ and _Montana_) drive the absolute highest engagement in the game, meaning players are spending the majority of their time at the "end-game" rather than lingering in the mid-tiers where most Premium ships exist.
+* **Tech Tree Ships Dwarf Premium Usage:** By synchronizing the X-axis of both charts, it is visually apparent that free, standard Tech Tree ships are played vastly more than purchased Premium ships.
+* **The Top Performers:** The most popular Premium ship is the Tier 7 **Atlanta** (2,264 battles). However, the most popular Tech Tree ship is the Tier 10 **Shimakaze** (6,290 battles), which boasts nearly triple the engagement.
+* **Tier 10 Drives the Game:** The Tech Tree usage chart reveals that Tier 10 ships (like the _Shimakaze_ and _Montana_) drive the absolute highest engagement in the game, meaning players are spending the majority of their time at the "end-game" rather than lingering in the mid-tiers where most Premium ships exist.
 
 
 ## 🚀 Phase 6: Act (Strategic Recommendations & Insights)
