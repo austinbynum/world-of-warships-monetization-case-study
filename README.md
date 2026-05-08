@@ -149,7 +149,20 @@ I created a custom Power BI JSON theme by scraping World of Warships' official b
 
 
 ## 🚀 Phase 6: Act (Strategic Recommendations & Insights)
+**High-Level Insights & Recommendations**
+Based on the analysis of ship usage, in-game performance, and event engagement, here are my top recommendations for Wargaming's monetization and product teams:
 
+1. **Capitalize on Tier 10 Engagement:** The data overwhelmingly proves that Tier 10 Tech Tree ships (like *Shimakaze* and *Montana*) drive the highest engagement in the game, dwarfing Premium ship usage.
+	* **Recommendation:** Wargaming should shift its monetization focus toward the "end-game" by releasing more Tier 10 Special ships or pushing high-tier permanent camouflages, capturing the audience where they spend the majority of their time. 
+2. **Expand the "Black Edition" Model:** "Black Friday" variant ships see more than double the engagement of any other special event category.
+	* **Recommendation:** The product team should replicate this successful formula of offering highly desired Premium ships at a discounted rate with exclusive black skins for other major seasonal events to drive consistent revenue spikes.
+3. **Proactive Balance Monitoring:** The KPI cards confirm Premium ships offer a distinct economic (Base XP) advantage, but their win rates must remain fair.
+	* **Recommendation:** The balancing team should actively monitor the Power BI scatter plot to easily identify Premium ships that are underperforming compared to their Tech Tree counterparts. Buffing these outliers will improve player satisfaction and drive future sales.
+
+**Further Exploration & Additional Deliverables**
+To expand upon these findings, a helpful next step would be to pull additional data to analyze advanced game economies. Future analysis could include:
+*   Extracting data regarding the **Research Bureau** to see how heavily veteran players are resetting their Tech Tree lines to earn Research Points.
+*   Analyzing the ownership rates of Premium ships purchased with real-world currency (Doubloons) versus those purchased with "freemium" earned in-game resources like Coal or Steel.
 
 ---
 ### 👨‍💻 Connect with Me
