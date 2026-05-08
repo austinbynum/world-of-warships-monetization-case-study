@@ -21,7 +21,7 @@ Using a custom data pipeline built with Python, Google BigQuery (SQL), and Power
 * `01_raw_data/`: Untouched JSON/CSV output fetched from Wargaming API.
 * `02_processed_data/`: CSV files of raw data cleaned and summarized, ready for final reporting.
 * `03_scripts_notebooks/`: Python script to collect data and SQL script to process data
-* `04_visualizations/`: Final charts in PDF and PNG formats.
+* `04_visualizations/`: Final charts in PDF and PNG formats, plus the JSON Power BI theme I made by scraping World of Warships' official branding colors.
 * `05_reports/`: Executive summary and final project PDF.
 
 ## 📊 Phase 2 & 3: Prepare & Process (Data & Methodology)
