@@ -5,7 +5,7 @@
 
 -- ------------------------------------------------------------------------------
 -- 1. CREATE MASTER SUMMARY TABLE
--- This query combines static ship traits with player performance stats, remvoing
+-- This query combines static ship traits with player performance stats, removing
 -- any unmatched ships that were removed during cleaning.
 -- ------------------------------------------------------------------------------
 CREATE OR REPLACE TABLE `portfolio-case-studies-495322.wows_case_study.master_ship_summary` AS
